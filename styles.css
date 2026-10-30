@@ -1,0 +1,84 @@
+/* CannActuality — shared site styles. Hand-written, no build step. */
+:root{
+  --pine:#173F2C; --pine-deep:#0E2B1E; --moss:#2E7D52; --moss-dark:#1F5C3A;
+  --leaf:#7FB069; --gold:#C79A2E; --gold-ink:#14261B;
+  --ink:#1E2A22; --muted:#5C6B60; --paper:#F7F6EF; --card:#FFFFFF;
+  --line:#E1DECF; --radius:14px;
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;font-family:Georgia,'Times New Roman',serif;background:var(--paper);color:var(--ink);line-height:1.6}
+h1,h2,h3,h4,.sans{font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif}
+a{color:var(--moss-dark)}
+.wrap{max-width:1060px;margin:0 auto;padding:0 24px}
+header{background:var(--pine);color:#fff}
+.topbar{display:flex;align-items:center;justify-content:space-between;padding:16px 0;flex-wrap:wrap;gap:10px}
+.brand{display:flex;align-items:center;gap:12px}
+.brand img.logo{width:42px;height:42px;display:block}
+.brand .mark{font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif;font-weight:800;font-size:24px;letter-spacing:.4px;color:#fff;line-height:1}
+.brand .mark span{color:var(--gold)}
+.brand .by{font-size:13px;color:#BFD3C4;margin-top:3px}
+nav a{color:#EAF2EA;text-decoration:none;margin-left:22px;font-size:15px;font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif}
+nav a:hover{color:var(--gold)}
+nav a.cta{background:var(--gold);color:var(--gold-ink);padding:8px 16px;border-radius:8px;font-weight:700}
+.hero{background:linear-gradient(180deg,var(--pine) 0%,var(--pine-deep) 100%);color:#fff;padding:56px 0 64px}
+.hero h1{font-size:40px;line-height:1.18;margin:0 0 18px;font-weight:800}
+.hero h1 em{font-style:normal;color:var(--gold)}
+.hero p.lede{font-size:19.5px;color:#D9E7DA;max-width:780px;margin:0 0 28px}
+.hero .actions a{display:inline-block;margin-right:14px;padding:13px 24px;border-radius:9px;text-decoration:none;font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif;font-weight:700;font-size:16px}
+.btn-gold{background:var(--gold);color:var(--gold-ink)}
+.btn-ghost{border:1.5px solid #7FA58A;color:#EAF2EA}
+.hero .note{margin-top:22px;font-size:14px;color:#A8C3AE}
+section{padding:54px 0 6px}
+h2{font-size:28px;color:var(--pine);margin:0 0 8px;font-weight:800}
+h3{color:var(--pine)}
+.kicker{font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif;text-transform:uppercase;letter-spacing:2.5px;font-size:12.5px;color:var(--moss);font-weight:700;margin:0 0 10px}
+.sub{color:var(--muted);max-width:760px;margin:0 0 26px}
+.grid{display:grid;grid-template-columns:1fr 1fr;gap:20px}
+.grid3{display:grid;grid-template-columns:1fr 1fr 1fr;gap:20px}
+@media (max-width:900px){.grid3{grid-template-columns:1fr}}
+@media (max-width:760px){.grid{grid-template-columns:1fr}.hero h1{font-size:31px}}
+.card{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:24px 26px}
+.card h3{margin:0 0 6px;font-size:20px;color:var(--pine)}
+.card h3 a{text-decoration:none;color:var(--pine)}
+.card h3 a:hover{color:var(--moss-dark)}
+.card p{margin:0 0 10px;font-size:16px}
+.tag{display:inline-block;font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif;font-size:12px;font-weight:700;letter-spacing:1.2px;text-transform:uppercase;color:var(--moss-dark);background:#E4EFE0;border-radius:20px;padding:3px 11px;margin-bottom:12px}
+.tag.warn{color:#7A4A08;background:#F6E9CB}
+.card .go{font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif;font-weight:700;font-size:15px}
+ul.tight{margin:6px 0 0;padding-left:20px}
+ul.tight li{margin-bottom:7px}
+.band{background:#fff;border-top:1px solid var(--line);border-bottom:1px solid var(--line);margin-top:54px;padding:10px 0 44px}
+.cols{display:grid;grid-template-columns:1fr 1fr;gap:20px}
+@media (max-width:760px){.cols{grid-template-columns:1fr}}
+footer{background:var(--pine-deep);color:#BFD3C4;margin-top:64px;padding:34px 0 40px;font-size:14.5px}
+footer img.logo{width:20px;height:20px;vertical-align:-4px;margin-right:7px}
+footer a{color:#EAF2EA}
+footer .fineprint{font-size:13px;color:#8FAE96;max-width:760px}
+/* research index + brief pages */
+.brief-meta{font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif;font-size:14px;color:var(--muted);margin:0 0 20px}
+.takeaways{background:#EFF4EA;border:1px solid var(--line);border-left:5px solid var(--moss);border-radius:10px;padding:18px 22px;margin:0 0 28px}
+.takeaways h3{margin:0 0 8px;font-size:17px}
+.takeaways ul{margin:0;padding-left:20px}
+.takeaways li{margin-bottom:6px}
+.brief-body{max-width:820px}
+.brief-body h2{font-size:24px;margin:34px 0 8px}
+.brief-body h3{font-size:19px;margin:24px 0 6px}
+.brief-body p{margin:0 0 14px}
+.brief-body table{border-collapse:collapse;width:100%;margin:14px 0 22px;font-size:15px}
+.brief-body th,.brief-body td{border:1px solid var(--line);padding:8px 12px;text-align:left}
+.brief-body th{background:#EFF4EA;font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif;font-size:13.5px}
+.sources{background:#fff;border:1px solid var(--line);border-radius:10px;padding:18px 22px;margin:34px 0 0}
+.sources h3{margin:0 0 8px;font-size:17px}
+.sources ul{margin:0;padding-left:20px}
+.sources li{margin-bottom:6px;font-size:15px}
+.disclaimer{font-size:13.5px;color:var(--muted);border-top:1px solid var(--line);margin-top:26px;padding-top:16px;max-width:820px}
+.brief-list{display:flex;flex-direction:column;gap:16px}
+.brief-row{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:20px 24px}
+.brief-row h3{margin:0 0 4px;font-size:20px}
+.brief-row h3 a{text-decoration:none;color:var(--pine)}
+.brief-row h3 a:hover{color:var(--moss-dark)}
+.brief-row p{margin:0 0 8px;font-size:15.5px}
+.brief-row .brief-meta{margin:0}
+.stat{font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif;font-weight:800;font-size:30px;color:var(--pine);display:block;line-height:1.15}
+.stat-label{font-size:14px;color:var(--muted)}

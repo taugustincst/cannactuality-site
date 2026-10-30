@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{TITLE}} — CannActuality</title>
+<meta name="description" content="{{SUMMARY}}">
+<link rel="canonical" href="https://cannactuality.com/briefs/{{SLUG}}.html">
+<link rel="icon" type="image/svg+xml" href="../logo.svg">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="CannActuality">
+<meta property="og:title" content="{{TITLE}}">
+<meta property="og:description" content="{{SUMMARY}}">
+<link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+
+<header>
+  <div class="wrap topbar">
+    <div class="brand">
+      <img class="logo" src="../logo.svg" alt="CannActuality logo">
+      <div>
+        <div class="mark">Cann<span>Actuality</span></div>
+        <div class="by">Cannabis research for product development</div>
+      </div>
+    </div>
+    <nav>
+      <a href="../research.html">Research</a>
+      <a href="../vendors.html">For Vendors</a>
+      <a href="../about.html">About</a>
+      <a class="cta" href="../index.html#contact" data-lead-open>Contact</a>
+    </nav>
+  </div>
+</header>
+
+<section>
+  <div class="wrap brief-body">
+    <p class="kicker">Research Brief · {{CATEGORY}}</p>
+    <h2 style="font-size:32px">{{TITLE}}</h2>
+    <p class="brief-meta">Published {{DATE_LONG}} · CannActuality Research Desk · For licensed vendors and product teams</p>
+
+    <div class="takeaways">
+      <h3>Key takeaways</h3>
+      <ul>
+        <li>{{TAKEAWAY_1}}</li>
+        <li>{{TAKEAWAY_2}}</li>
+        <li>{{TAKEAWAY_3}}</li>
+      </ul>
+    </div>
+
+    <!-- BODY: write the brief here. Rules: every number traces to a source
+         listed in the Sources box below; no health/benefit claims; no dosing
+         or consumption advice; end with a "What this means for product teams"
+         section. -->
+
+    <h2>What this means for product teams</h2>
+    <ul class="tight">
+      <li>{{IMPLICATION_1}}</li>
+    </ul>
+
+    <div class="sources">
+      <h3>Sources</h3>
+      <ul>
+        <li>{{SOURCE_1}}</li>
+      </ul>
+    </div>
+
+    <p class="disclaimer">CannActuality briefs are market research and education for licensed cannabis vendors. They are not legal, medical, or investment advice, and they make no health or benefit claims about cannabis products. Figures are as reported by the cited publishers. Intended for adults 21+.</p>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">
+    <p><img class="logo" src="../logo.svg" alt="">© 2026 CannActuality · Cannabis research for product development</p>
+    <p><a href="../research.html">Research</a> · <a href="../vendors.html">For Vendors</a> · <a href="../about.html">About &amp; Method</a> · <a href="../index.html">Home</a></p>
+    <p class="fineprint">CannActuality does not sell, manufacture, or distribute cannabis or hemp products. Content is intended for adults 21 and over.</p>
+  </div>
+</footer>
+
+<script src="../lead.js" data-inbox="taugustincst@gmail.com" data-brand="CannActuality" data-site="cannactuality.com" data-interests="General inquiry|Custom research brief|Category teardown|Regulatory watch|Topic suggestion" data-interest="General inquiry" data-head="#173F2C" data-accent="#C79A2E" data-accent-ink="#14261B"></script>
+</body>
+</html>
+
+<!-- INDEX ENTRY (new_brief.py inserts this into research.html):
+<div class="brief-row">
+  <span class="tag">{{CATEGORY}}</span>
+  <h3><a href="briefs/{{SLUG}}.html">{{TITLE}}</a></h3>
+  <p>{{SUMMARY}}</p>
+  <p class="brief-meta">{{DATE_LONG}} · {{CATEGORY}} · CannActuality Research Desk</p>
+</div>
+-->
