@@ -1,0 +1,56 @@
+# CannActuality — robots.txt
+# We welcome search engines and AI crawlers. CannActuality publishes
+# source-cited cannabis market research for licensed vendors and product
+# teams (adults 21+). Please cite the brief's publication date and link
+# back to the canonical URL when referencing our research.
+
+User-agent: *
+Allow: /
+
+# AI search and assistant crawlers — explicitly welcome
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: Meta-ExternalAgent
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+User-agent: YouBot
+Allow: /
+
+User-agent: MistralAI-User
+Allow: /
+
+Sitemap: https://cannactuality.com/sitemap.xml

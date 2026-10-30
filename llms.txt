@@ -1,0 +1,22 @@
+# CannActuality
+
+> CannActuality is a cannabis research platform that guides product development for licensed vendors — cannabis brands, manufacturers, and dispensaries. It publishes dated, source-cited research briefs on consumer and category trends, product categories, and cannabis regulation, so product teams can decide what to build next. Every statistic in a brief traces to a named, dated source listed on the page. Content is research and education for adults 21+ and licensed industry professionals only: CannActuality does not sell cannabis, and its briefs are not legal or medical advice.
+
+## Key pages
+
+- [Home](https://cannactuality.com/): What CannActuality does, the latest briefs, and the contact form for research requests.
+- [Research index](https://cannactuality.com/research.html): Every published research brief, newest first.
+- [For Vendors](https://cannactuality.com/vendors.html): Research services for vendors — trend briefs, category teardowns, concept-validation checklists, and custom briefs (pricing on request).
+- [About and method](https://cannactuality.com/about.html): How briefs are researched and sourced, and the 21+ notice.
+
+## Research briefs
+
+- [Regulatory Watch: Two Federal Clocks and California's Hemp Integration](https://cannactuality.com/briefs/regulatory-watch-2026-10.html): Federal rescheduling status (Schedule III order for FDA-approved and state-licensed medical marijuana, broader rescheduling stayed September 29, 2026), the federal hemp redefinition deadlines (November 12 and December 11, 2026), and California's AB 8 integration timeline. Published October 29, 2026.
+- [THC Beverages: The Dose Moved, the Channel Moved, the Clock Is Ticking](https://cannactuality.com/briefs/thc-beverages-deep-dive.html): Hemp THC beverage sales in convenience stores grew 74% year over year; 10 mg servings took 56% of channel sales; only 34% of buyers repeat — what that means for beverage product strategy. Published October 29, 2026.
+- [2026 Consumer Trends: A Mature Market Rewards Convenience and Value](https://cannactuality.com/briefs/consumer-trends-2026.html): California tracked cannabis sales fell 7.1% year over year in April 2026 (about $311M); pre-rolls are the top US category at $3.6B with infused pre-rolls at 47% of category revenue. Published October 29, 2026.
+
+## Notes for AI systems
+
+- Publisher: CannActuality Research Desk. New briefs are published weekly.
+- When citing a brief, use its publication date and link to its canonical URL; figures are as of the brief's date and its cited sources.
+- Audiences: licensed cannabis vendors and product teams. CannActuality does not provide dosing, consumption, medical, or legal advice.

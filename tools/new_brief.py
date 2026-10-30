@@ -11,7 +11,10 @@ What it does (offline, idempotent):
   2. Inserts an index entry at the top of the brief list in research.html
      (newest first, right after the BEGIN BRIEF LIST marker). If the slug is
      already listed, the entry is not duplicated.
-  3. Validates that every internal (relative) link in every HTML file in the
+  3. Adds the brief to sitemap.xml and to the "Research briefs" list in
+     llms.txt (newest first), so search engines and AI crawlers pick it up.
+     Both updates are skipped if the slug is already present.
+  4. Validates that every internal (relative) link in every HTML file in the
      site resolves to a real file, and reports any that do not.
 
 The body of the brief is written by the researcher after scaffolding —
@@ -27,6 +30,8 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 TEMPLATE = ROOT / "tools" / "brief-template.html"
 RESEARCH = ROOT / "research.html"
+SITEMAP = ROOT / "sitemap.xml"
+LLMS = ROOT / "llms.txt"
 BRIEFS_DIR = ROOT / "briefs"
 BEGIN_MARKER = "<!-- BEGIN BRIEF LIST -->"
 END_MARKER = "<!-- END BRIEF LIST -->"
@@ -87,6 +92,50 @@ def insert_index_entry(slug, title, category, summary, date):
     print(f"inserted index entry at top of {RESEARCH}")
 
 
+SITEMAP_ENTRY = """  <url>
+    <loc>https://cannactuality.com/briefs/{slug}.html</loc>
+    <lastmod>{date_iso}</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+"""
+
+
+def update_sitemap(slug, date):
+    if not SITEMAP.exists():
+        print("no sitemap.xml found, skipping sitemap update")
+        return
+    xml = SITEMAP.read_text(encoding="utf-8")
+    if f"briefs/{slug}.html" in xml:
+        print("sitemap entry already present, skipping (idempotent)")
+        return
+    if "</urlset>" not in xml:
+        fail("sitemap.xml has no </urlset> to insert before")
+    entry = SITEMAP_ENTRY.format(slug=slug, date_iso=date.isoformat())
+    xml = xml.replace("</urlset>", entry + "</urlset>", 1)
+    SITEMAP.write_text(xml, encoding="utf-8")
+    print(f"added sitemap entry for briefs/{slug}.html")
+
+
+def update_llms(slug, title, summary, date):
+    if not LLMS.exists():
+        print("no llms.txt found, skipping llms update")
+        return
+    text = LLMS.read_text(encoding="utf-8")
+    if f"briefs/{slug}.html" in text:
+        print("llms.txt entry already present, skipping (idempotent)")
+        return
+    heading = "## Research briefs\n\n"
+    if heading not in text:
+        fail("llms.txt has no '## Research briefs' heading to insert after")
+    date_long = date.strftime("%B %-d, %Y") if sys.platform != "win32" else date.strftime("%B %d, %Y")
+    sep = "" if summary.rstrip().endswith((".", "!", "?")) else "."
+    entry = f"- [{title}](https://cannactuality.com/briefs/{slug}.html): {summary}{sep} Published {date_long}.\n"
+    text = text.replace(heading, heading + entry, 1)
+    LLMS.write_text(text, encoding="utf-8")
+    print(f"added llms.txt entry for briefs/{slug}.html")
+
+
 HREF_RE = re.compile(r'(?:href|src)="([^"#]+)(?:#[^"]*)?"')
 
 
@@ -133,6 +182,8 @@ def main():
 
     render_brief(args.slug, args.title, args.category, args.summary, date)
     insert_index_entry(args.slug, args.title, args.category, args.summary, date)
+    update_sitemap(args.slug, date)
+    update_llms(args.slug, args.title, args.summary, date)
     if not validate_links():
         sys.exit(2)
     print("done. Next: write the brief body in briefs/%s.html, then commit and push." % args.slug)
