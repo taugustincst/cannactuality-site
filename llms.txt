@@ -7,6 +7,7 @@
 - [Home](https://cannactuality.com/): What CannActuality does, the latest briefs, and the contact form for research requests.
 - [Research index](https://cannactuality.com/research.html): Every published research brief, newest first.
 - [For Vendors](https://cannactuality.com/vendors.html): Research services for vendors — trend briefs, category teardowns, concept-validation checklists, and custom briefs (pricing on request).
+- [Vendor resources](https://cannactuality.com/resources.html): Data platforms, operations and POS software, production equipment, and payment services the research references.
 - [About and method](https://cannactuality.com/about.html): How briefs are researched and sourced, and the 21+ notice.
 
 ## Research briefs
