@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CannActuality — Research Briefs</title>
+    <link>https://cannactuality.com/</link>
+    <atom:link href="https://cannactuality.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>Sourced, dated cannabis research briefs for licensed vendors and product teams — consumer and category trends, category deep-dives, and regulatory watch.</description>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 09 Nov 2026 15:00:00 GMT</lastBuildDate>
+<!-- FEED ITEMS -->
+    <item>
+      <title>Minor Cannabinoids in Product Development: CBN, CBG, THCV and the 2026 Formulation Map</title>
+      <link>https://cannactuality.com/briefs/minor-cannabinoids-2026.html</link>
+      <guid isPermaLink="true">https://cannactuality.com/briefs/minor-cannabinoids-2026.html</guid>
+      <pubDate>Mon, 09 Nov 2026 15:00:00 GMT</pubDate>
+      <category>Product Intelligence</category>
+      <description>CBN, CBG and THCV now appear mainly as ratio partners in gummies, tablets and softgels. BDSA, Headset and 2026 launch data map where each cannabinoid shows up, and the November-December 2026 federal hemp dates redraw hemp-derived supply.</description>
+    </item>
+    <item>
+      <title>Pre-roll Architecture 2026: Singles, Multi-Packs, and the Infused Tier</title>
+      <link>https://cannactuality.com/briefs/pre-roll-architecture-2026.html</link>
+      <guid isPermaLink="true">https://cannactuality.com/briefs/pre-roll-architecture-2026.html</guid>
+      <pubDate>Mon, 02 Nov 2026 15:00:00 GMT</pubDate>
+      <category>Category Deep-Dive</category>
+      <description>Pre-rolls are America's top category by units. BDSA and Headset data show the 1-gram single still anchors volume, 0.5-gram five-packs drive growth, and infused has crossed half of category dollars — how to build the pack ladder.</description>
+    </item>
+    <item>
+      <title>2026 Consumer Trends: A Mature Market Rewards Convenience and Value</title>
+      <link>https://cannactuality.com/briefs/consumer-trends-2026.html</link>
+      <guid isPermaLink="true">https://cannactuality.com/briefs/consumer-trends-2026.html</guid>
+      <pubDate>Thu, 29 Oct 2026 15:00:00 GMT</pubDate>
+      <category>Consumer Trends</category>
+      <description>California tracked cannabis sales fell 7.1% year over year in April 2026 while pre-rolls became the top US category by units. A sourced CannActuality brief on where demand is moving and what product teams should build.</description>
+    </item>
+    <item>
+      <title>Regulatory Watch: Two Federal Clocks and California's Hemp Integration</title>
+      <link>https://cannactuality.com/briefs/regulatory-watch-2026-10.html</link>
+      <guid isPermaLink="true">https://cannactuality.com/briefs/regulatory-watch-2026-10.html</guid>
+      <pubDate>Thu, 29 Oct 2026 15:00:00 GMT</pubDate>
+      <category>Regulatory Watch</category>
+      <description>As of October 29, 2026: state-licensed medical marijuana is Schedule III under DEA's April 2026 final order; broad rescheduling is stayed; the federal hemp redefinition takes effect November 12 and December 11, 2026; California's AB 8 integration is underway. A dated, sourced CannActuality brief for product teams.</description>
+    </item>
+    <item>
+      <title>THC Beverages: The Dose Moved, the Channel Moved, the Clock Is Ticking</title>
+      <link>https://cannactuality.com/briefs/thc-beverages-deep-dive.html</link>
+      <guid isPermaLink="true">https://cannactuality.com/briefs/thc-beverages-deep-dive.html</guid>
+      <pubDate>Thu, 29 Oct 2026 15:00:00 GMT</pubDate>
+      <category>Category Deep-Dive</category>
+      <description>Convenience-store hemp THC beverage sales grew 74% year over year (NielsenIQ, 2026 NACS Show) and 10 mg became the leading strength. A sourced CannActuality deep-dive on beverage product development — and the December 11, 2026 federal hemp deadline.</description>
+    </item>
+  </channel>
+</rss>

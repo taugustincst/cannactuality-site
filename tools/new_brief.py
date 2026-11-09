@@ -11,8 +11,8 @@ What it does (offline, idempotent):
   2. Inserts an index entry at the top of the brief list in research.html
      (newest first, right after the BEGIN BRIEF LIST marker). If the slug is
      already listed, the entry is not duplicated.
-  3. Adds the brief to sitemap.xml and to the "Research briefs" list in
-     llms.txt (newest first), so search engines and AI crawlers pick it up.
+  3. Adds the brief to sitemap.xml, to the RSS feed (feed.xml), and to the
+     "Research briefs" list in llms.txt (newest first), so search engines and AI crawlers pick it up.
      Both updates are skipped if the slug is already present.
   4. Validates that every internal (relative) link in every HTML file in the
      site resolves to a real file, and reports any that do not.
@@ -32,6 +32,7 @@ TEMPLATE = ROOT / "tools" / "brief-template.html"
 RESEARCH = ROOT / "research.html"
 SITEMAP = ROOT / "sitemap.xml"
 LLMS = ROOT / "llms.txt"
+FEED = ROOT / "feed.xml"
 BRIEFS_DIR = ROOT / "briefs"
 BEGIN_MARKER = "<!-- BEGIN BRIEF LIST -->"
 END_MARKER = "<!-- END BRIEF LIST -->"
@@ -136,6 +137,40 @@ def update_llms(slug, title, summary, date):
     print(f"added llms.txt entry for briefs/{slug}.html")
 
 
+FEED_ITEM = """    <item>
+      <title>{title}</title>
+      <link>https://cannactuality.com/briefs/{slug}.html</link>
+      <guid isPermaLink="true">https://cannactuality.com/briefs/{slug}.html</guid>
+      <pubDate>{pubdate}</pubDate>
+      <category>{category}</category>
+      <description>{summary}</description>
+    </item>
+"""
+
+
+def update_feed(slug, title, category, summary, date):
+    if not FEED.exists():
+        print("no feed.xml found, skipping feed update")
+        return
+    xml = FEED.read_text(encoding="utf-8")
+    if f"briefs/{slug}.html" in xml:
+        print("feed entry already present, skipping (idempotent)")
+        return
+    marker = "<!-- FEED ITEMS -->\n"
+    if marker not in xml:
+        fail("feed.xml has no FEED ITEMS marker to insert after")
+    from email.utils import format_datetime
+    from xml.sax.saxutils import escape as xesc
+    dt = datetime.datetime(date.year, date.month, date.day, 15, 0, 0,
+                           tzinfo=datetime.timezone.utc)
+    item = FEED_ITEM.format(title=xesc(title), slug=slug,
+                            pubdate=format_datetime(dt),
+                            category=xesc(category), summary=xesc(summary))
+    xml = xml.replace(marker, marker + item, 1)
+    FEED.write_text(xml, encoding="utf-8")
+    print(f"added feed item for briefs/{slug}.html")
+
+
 HREF_RE = re.compile(r'(?:href|src)="([^"#]+)(?:#[^"]*)?"')
 
 
@@ -150,7 +185,10 @@ def validate_links():
             url = match.group(1).strip()
             if not url or url.startswith(("http://", "https://", "mailto:", "tel:", "data:", "//")):
                 continue
-            target = (page.parent / url).resolve()
+            if url.startswith("/"):
+                target = (ROOT / url.lstrip("/")).resolve()
+            else:
+                target = (page.parent / url).resolve()
             if not target.exists():
                 broken.append(f"{page.relative_to(ROOT)}: {url}")
     if broken:
@@ -184,6 +222,7 @@ def main():
     insert_index_entry(args.slug, args.title, args.category, args.summary, date)
     update_sitemap(args.slug, date)
     update_llms(args.slug, args.title, args.summary, date)
+    update_feed(args.slug, args.title, args.category, args.summary, date)
     if not validate_links():
         sys.exit(2)
     print("done. Next: write the brief body in briefs/%s.html, then commit and push." % args.slug)
