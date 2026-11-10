@@ -1,0 +1,796 @@
+# CannActuality — Full Text
+
+> Full text of every published CannActuality research brief, for AI systems and researchers. CannActuality is a cannabis research platform that guides product development for licensed vendors (brands, manufacturers, dispensaries). Every statistic traces to a named, dated source listed in the brief's Sources section. Content is research and education for adults 21+ and licensed professionals; it is not legal, medical, or investment advice. When citing a brief, use its publication date and canonical URL.
+
+Index: https://cannactuality.com/llms.txt
+
+---
+
+Source: https://cannactuality.com/briefs/consumer-trends-2026.html
+
+Research Brief · Consumer Trends
+
+# 2026 Consumer Trends: A Mature Market Rewards Convenience and Value
+
+Published October 29, 2026 · CannActuality Research Desk · For licensed vendors and product teams
+
+### Key takeaways
+
+- California — the largest US legal market — did about $311 million in tracked sales in April 2026, down 7.1% year over year, with the average item price down to $17.91 from $18.89 (Headset data).
+
+- Pre-rolls passed flower in 2025 to become the top US cannabis category by units: an estimated $3.6 billion across 383+ million units, a 15.9% share of total sales (Custom Cones USA 2026 report, Headset data).
+
+- Beverages were the only major California category growing in April 2026: +8.0% in sales and +14.6% in units year over year.
+
+- The development signal: convenience formats, clear value ladders, and infused/premium variants inside proven formats — not novelty for its own sake.
+
+## The headline: maturity, not collapse
+
+California's legal market is large and getting harder. Tracked sales reached roughly $311 million across more than 17.3 million units in April 2026, yet sales were down 7.1% versus April 2025 and the average item price fell from $18.89 to $17.91, according to Headset market data reported by KOLAS. California still outsold every other tracked state that month. The correct read for product teams is not retreat — it is that growth now has to be taken from competitors and adjacent categories, not from a rising tide.
+
+Price pressure is structural: more licensed competition, persistent unlicensed supply, and shoppers who compare menus before they visit. Products that cannot explain their price on the label — format, strength, count, provenance — lose to products that can.
+
+## Where the units went: pre-rolls took the crown
+
+The single largest format shift in US cannabis is complete. Custom Cones USA's 2026 market report, built on Headset data, found that pre-rolls passed flower for the first time in 2025 to become the top cannabis category by units, generating an estimated $3.6 billion in revenue across more than 383 million units — a 15.9% share of total sales. Pre-roll unit sales rose 18.6% year over year while the broader market grew just 1.5%, and the category's revenue has more than doubled since 2021.
+
+Inside the category, the growth is concentrated, not uniform:
+
+- Infused pre-rolls accounted for 47% of category revenue and posted the fastest growth — the premium tier inside a convenience format.
+
+- The 1-gram single remained the top-selling product format — low-commitment trial drives the category's volume.
+
+- Millennials accounted for nearly 44% of pre-roll revenue, making this the core working-age format, not a niche.
+
+California's April 2026 category table shows the same gravity at state level: pre-rolls held up best among the large inhalable categories (down 2.5% year over year) while flower fell 10.6%.
+
+## California category snapshot, April 2026 (Headset)
+
+ CategoryApril 2026 salesYear-over-year
+ Flower$96.43 million−10.6%
+ Vapor pens$89.21 million−5.5%
+ Pre-rolls$57.39 million−2.5%
+ Edibles$38.06 million−3.8%
+ Concentrates$15.43 million−9.6%
+ Beverages$7.43 million+8.0%
+
+Two details matter for developers. First, beverages grew units (+14.6%) faster than dollars (+8.0%) as the average beverage price fell from $7.52 to $7.09 — trial pricing is working, and the category is buying new drinkers. Second, every declining category still dwarfs beverages in absolute dollars. The opportunity is asymmetric: small base, real growth, low shelf commitment.
+
+## What this means for product teams
+
+- Lead with ready-to-use formats. The unit crown belongs to pre-rolls. If your roadmap is flower-first, it is fighting the last market. Singles for trial, multi-packs for regulars, infused variants for margin.
+
+- Build an explicit value ladder. With the average item at $17.91 and falling, every SKU needs a legible rung: entry, core, premium. Unpriced ambiguity reads as overpriced.
+
+- Treat beverages as a development priority, not a side project. The only growing major category in the largest market deserves formulation resources now — see our beverage deep-dive (thc-beverages-deep-dive.html) for strength, format, and channel specifics.
+
+- Differentiate inside proven formats. Infused pre-rolls at 47% of category revenue show where premiumization works: upgrades to formats consumers already buy, not untested formats they must be taught.
+
+- Plan for a flat market. A −7.1% headline in California and +1.5% national unit growth mean share-taking math: your launch case should name whose sales you are taking.
+
+### Go deeper — the dataset behind this brief
+
+Several figures in this brief come from BDSA retail sales tracking. If your team needs the underlying dataset — category, brand, and market-level sales to cut your own roadmap numbers — BDSA (https://bdsa1.referralrock.com/l/TAYLORAUGU09/) is the source the research cites. Signing up through this link gets you 10% off your first BDSA solution, and CannActuality earns a referral commission, at no cost to you; see our Disclosure (../disclosure.html).
+
+### Sources
+
+- KOLAS, “California Cannabis 2026: Market Guide for Buyers & Retailers” (2026), reporting Headset California market data for April 2026 — kolas.com (https://kolas.com/blog/category-essential/california-cannabis-market-trends-2026/)
+
+- Custom Cones USA, 2026 pre-roll market report (Headset data), as reported in GlobeNewswire, “THCA Pre-Rolls 2026: Exhale Wellness Reports Rising Demand…”, June 25, 2026 — globenewswire.com (https://www.globenewswire.com/news-release/2026/06/25/3317372/0/en/THCA-Pre-Rolls-2026-Exhale-Wellness-Reports-Rising-Demand-for-Ready-to-Smoke-Hemp-Pre-Rolls-as-Buyers-Move-Away-From-Loose-Flower.html)
+
+CannActuality briefs are market research and education for licensed cannabis vendors. They are not legal, medical, or investment advice, and they make no health or benefit claims about cannabis products. Figures are as reported by the cited publishers; CannActuality does not independently audit third-party point-of-sale data. Intended for adults 21+.
+
+---
+
+Source: https://cannactuality.com/briefs/lighting-science-cultivation-2026.html
+
+Research Brief · Cultivation Science
+
+# Lighting Science for Cultivation: Spectrum, Intensity, and Product Consistency
+
+Published November 9, 2026 · CannActuality Research Desk · For licensed vendors and product teams
+
+### Key takeaways
+
+- Intensity is the yield dial, not the potency dial. In the Guelph trials, dry inflorescence yield rose linearly with canopy PPFD up to 1,800 µmol·m⁻²·s⁻¹, and a high-THC cultivar produced 1.6 times the inflorescence dry weight at 1,000 versus 600 µmol·m⁻²·s⁻¹ — while cannabinoid concentration did not move with intensity in either study. Grams are bought with photons; percentage points are set mainly by genetics and spectrum.
+
+- Spectrum moves chemistry at the margins, and the direction depends on the cultivar. Blue-rich light raised CBGA, the central cannabinoid precursor, in the Bernstein group's work; LED spectra raised THC and CBD concentrations relative to HPS in a repeated head-to-head trial, while HPS produced more flower mass; and end-of-day far-red raised THC concentration in two high-THC lines. No spectrum recipe transfers across cultivars untested.
+
+- UV is the most oversold dial in the grow room. Two controlled programs found no change in inflorescence cannabinoid content from added UV. The one positive result is narrow: low-dose, UVA-dominant light lifted linalool by 29%, limonene by 25% and myrcene by 22%, with yield and cannabinoid concentration unchanged (Huebner et al., 2024).
+
+- Photoperiod is a consistency variable, not a fixed constant. Across three medicinal cultivars, schedules starting at 14 hours of light produced the highest flower biomass in every line — but a static 14-hour day significantly reduced THC concentration in the two THC lines while raising the CBD line's total CBD yield by 50–100% (Peterswald et al., 2023). Batch consistency starts with one locked recipe per cultivar.
+
+## LED vs HPS: a redistribution, not a verdict
+
+The cleanest head-to-head remains a 2018 Italian trial. Magagnini, Grassi and Kotiranta grew clones of the drug-type cultivar G-170 under three spectra at the same canopy intensity — about 450 µmol·m⁻²·s⁻¹ — on an 18-hour vegetative and 12-hour flowering schedule: high-pressure sodium (HPS) and two LED spectra, Valoya's AP673L and NS1. Then they repeated the entire experiment. HPS produced taller plants and more flower dry weight. Both LED treatments produced higher THC and CBD concentrations, and NS1 the highest CBG content. Total cannabinoid yield per plant did not differ significantly between the three light sources, and the pattern was similar in both runs.
+
+Read carefully, that is evidence that spectrum redistributes output between flower mass and concentration — the two numbers a biomass buyer prices separately. A cultivation partner who swaps HPS for LED, or the reverse, between contract cycles can move the certificate of analysis and the kilogram count in opposite directions without changing genetics, feed or room. A 2021 Frontiers in Plant Science review of the spectrum literature adds the compound-specific caveat: visible LED light can augment THC and terpene accumulation, but not CBD. There is no general "quality" direction from a fixture change — only per-compound responses that have to be measured cultivar by cultivar.
+
+## Blue, green and far-red: three different levers
+
+Blue:red ratio. Danziger and Bernstein's 2021 trial in Industrial Crops and Products — its findings summarized in the Frontiers review — varied the blue:red ratio across three medical cannabis cultivars. Blue-rich light stimulated accumulation of CBGA, the central precursor from which THCA, CBDA and CBCA are made, relative to far-red-rich HPS light; the downstream cannabinoids responded less strongly and in cultivar-specific ways, and blue light was the most effective lever for keeping plants compact. Namdar and colleagues' rich-blue flowering treatment likewise raised CBGA content and the CBGA:THCA ratio. The discipline point for product teams: a precursor shift is not a finished-potency guarantee. What reaches the certificate of analysis depends on how each cultivar converts CBGA onward.
+
+Green light and the lower canopy. Hawley's 2018 subcanopy work, as reviewed in Frontiers in Plant Science, put light inside the canopy rather than above it. Blue+red and blue+green+red subcanopy treatments both raised Δ9-THC content and CBGA levels, and the green-containing treatment had the stronger effect on terpene accumulation in both the upper and the lower canopy. This matters because light intensity falls steeply with distance from the fixture — in the Guelph intensity work, small changes in distance from the source produced substantial differences in leaf-level light — so the bottom of a tall plant grows in a different light environment from the top. Spectrum decisions are usually made for the top of the canopy; the chemistry of the lower canopy is where within-batch variance is manufactured.
+
+Far-red as a timed signal. Far-red light (roughly 700–750 nm) works through the phytochrome system: a falling red:far-red ratio is the plant's shade signal, triggering elongation. Peterswald and colleagues (Scientific Reports, 2025) tested whether end-of-day far-red could substitute for full-spectrum hours in three medicinal cultivars. Adding 2 hours of far-red in darkness after a 10-hour day raised total cannabinoid yield in Northern Lights by nearly 70% over the 12-hour control (0.43 vs 0.25 g per plant), far-red treatments elevated THC concentration in both high-THC varieties, and that schedule used 5.5% less power than 12 hours of full light. Dose discipline is the catch: 4 hours of far-red layered onto a full 12-hour photoperiod significantly reduced trimmed flower weight in all genotypes. Far-red is a signal applied at a specific time of day — not a background ingredient to blend into a spectrum and forget.
+
+## UV: strong claims, narrow evidence
+
+The popular claim — add ultraviolet light, raise THC — has been tested in two modern controlled programs and failed in both. Llewellyn and colleagues (Frontiers in Plant Science, 2022) grew the high-THC cultivar Meridian at 600 µmol·m⁻²·s⁻¹ with either UVA added across flowering or UVA+UVB for the last 20 days. There were no UV effects on any biomass metric and no effects on inflorescence cannabinoid concentrations. The single positive signal sat in the sugar leaves, where UVA+UVB raised THC concentration by about 30% without changing the total THC held in that tissue — a shift inside a trim fraction, not a potency gain in flower. The authors' conclusion is blunt: no commercially relevant benefits of adding UV to indoor production. An earlier UVB study they discuss, using short-wave 287 nm LEDs, found only deleterious effects on morphology, physiology, yield and quality.
+
+Huebner and colleagues (Frontiers in Plant Science, 2024) ran the most granular UV trial to date — three UV spectra at five intensities on the CBD cultivar Fedora 17 — and found the same null for cannabinoids: no UV treatment altered the cannabinoid profile. One treatment did move terpenes. The lowest-dose, UVA-dominant variant (99:1 UVA:UVB at 1.81 W/m²) raised linalool by 29%, limonene by 25% and myrcene by 22% versus the no-UV control, at constant yield and cannabinoid concentration. Higher UVB shares shrank leaf area, and the authors judged only that one low-dose variant suitable for practical use in commercial cultivation. On current evidence, UV is a narrow terpene tool with a dose ceiling — not a potency tool.
+
+## Intensity and DLI: photons buy grams
+
+Intensity is the best-documented lever in this literature. Rodriguez-Morrison, Llewellyn and Zheng (Frontiers in Plant Science, 2021) grew cannabis across canopy PPFDs from 120 to 1,800 µmol·m⁻²·s⁻¹ through a 12-week flowering period: dry inflorescence yield increased linearly across the entire range, and apical inflorescence density and harvest index rose with it — more light meant more flower, and a larger share of the plant that was saleable flower. Cannabinoid potency showed no response to intensity; terpene potency shifted only slightly. Llewellyn's 2022 trial found the same shape over a commercial range in a high-THC cultivar: moving from 600 to 1,000 µmol·m⁻²·s⁻¹ — the 600 level corresponds to a daily light integral (DLI) of 25.9 mol·m⁻²·d⁻¹ under 12 hours — made inflorescence dry weight 1.6 times higher, other biomass metrics 1.3–1.5 times higher, and harvest index 7% higher, again with no change in cannabinoid concentration.
+
+One hemp result cuts the other way, and it is worth keeping in view precisely because it breaks the pattern. In a 2025 Frontiers in Plant Science vertical-farm trial, raising white-LED intensity from 200 to 600 µmol·m⁻²·s⁻¹ during flowering raised total CBD in the hemp cultivar Queen Dream by about 37%, alongside coordinated upregulation of cannabinoid-pathway genes, including CBDAS. It was a small trial, in a different chemotype and production system from the drug-type studies — which is the point. Whether intensity moves potency is a per-cultivar question, not a law. What is consistent across every program is the input side: the crop is responding to total photons delivered, PPFD multiplied by hours (the DLI), so the commercial question is grams per unit of light delivered — and the energy and infrastructure that light requires — not maximum light for its own sake.
+
+## Photoperiod and the consistency problem
+
+Photoperiod is usually treated as a fixed industry constant: 18 hours to vegetate, 12 to flower. Peterswald and colleagues (Plants, 2023) tested nine flowering schedules across three medicinal cultivars — static 10-, 12- and 14-hour days plus mid-flower switches of two and four hours. Treatments starting at 14 hours produced the highest flower biomass in all three lines. But in the two high-THC lines, a static 14-hour day significantly reduced THC concentration, while in the CBD line Cannatonic the 14-hour starts raised CBD concentration enough to lift total CBD yield by 50–100%. The authors conclude that the assumption that 12:12 is optimal for all lines is incorrect. For product teams, the same finding doubles as a consistency warning: one facility-wide schedule change is a yield improvement for one cultivar and a potency change for another.
+
+That is the thread connecting every section of this brief. Where researchers held a light recipe constant and repeated it — Magagnini's duplicate runs are the clearest case — spectrum effects reproduced. Variance enters when the recipe moves: a fixture swap, a dimming or schedule change, a spectrum experiment rolled out across cultivars it was never tested on, or a canopy gradient nobody changed on purpose. A brand buying biomass sees the end of that chain on a certificate of analysis. Unexplained COA drift between batches is, very often, a lighting recipe that drifted first — in the grow room, weeks earlier, and auditable only if the recipe was written down.
+
+## What this means for product teams
+
+- Buy the recipe, not the fixture. Require cultivation partners to record, per cultivar, the spectrum class, canopy PPFD or DLI, and photoperiod — and to treat any change to those as a process change. A fixture swap, a new dimming profile or a schedule adjustment should trigger comparative certificates of analysis on the first batch under the new recipe before it ships against the old specification.
+
+- Price intensity as yield, never as potency. For drug-type cannabis, the controlled evidence is consistent: more photons buy grams and harvest index, linearly to very high PPFD, at flat cannabinoid concentration. A supplier pitch that ties a lighting upgrade to higher THC percentage needs that supplier's own per-cultivar trial data behind it.
+
+- Ask UV users for the waveband, the dose and their COAs. Added UV showed no cannabinoid benefit in two controlled programs, and the one positive result is low-dose UVA lifting specific terpenes (linalool, limonene, myrcene) at constant cannabinoids. If a growing partner runs UV, those three items are the diligence — a fixture name is not.
+
+- Pilot every spectrum or schedule change on one cultivar first. Blue-rich spectra, end-of-day far-red and longer photoperiods all produced genotype-dependent effects — in the photoperiod work, opposite in sign between THC and CBD lines. One room, one cultivar, with COAs, is the unit of evidence; rolling a recipe out on another cultivar's data is how COA drift gets built into a supply contract.
+
+- Audit the lower canopy. Light falls steeply below the top of the canopy, and subcanopy work shows chemistry differs by canopy layer. Ask how lower-canopy flower is lit, and whether it is segregated or blended at harvest. Blending policy is a consistency decision that belongs in the specification, not an afterthought at the trim table.
+
+### Sources
+
+- Magagnini, G., Grassi, G. & Kotiranta, S., “The Effect of Light Spectrum on the Morphology and Cannabinoid Content of Cannabis sativa L.,” Medical Cannabis and Cannabinoids (Karger), June 12, 2018 — HPS vs two LED spectra at ~450 µmol·m⁻²·s⁻¹: HPS more flower dry weight; both LED treatments higher THC and CBD concentrations; NS1 highest CBG; no significant difference in total cannabinoid yield; results similar across two repeated experiments — karger.com (https://karger.com/mca/article-split/1/1/19/189037/The-Effect-of-Light-Spectrum-on-the-Morphology-and)
+
+- Rodriguez-Morrison, V., Llewellyn, D. & Zheng, Y., “Cannabis Yield, Potency, and Leaf Photosynthesis Respond Differently to Increasing Light Levels in an Indoor Environment,” Frontiers in Plant Science, May 11, 2021 — flowering PPFD from 120 to 1,800 µmol·m⁻²·s⁻¹: dry inflorescence yield, apical density and harvest index increased linearly; no light-intensity effect on cannabinoid potency; minor effects on terpene potency — pmc.ncbi.nlm.nih.gov (https://pmc.ncbi.nlm.nih.gov/articles/PMC8144505/)
+
+- Llewellyn, D. et al., “Indoor grown cannabis yield increased proportionally with light intensity, but ultraviolet radiation did not affect yield or cannabinoid content,” Frontiers in Plant Science, 2022 — high-THC cultivar 'Meridian' at 600, 800 and 1,000 µmol·m⁻²·s⁻¹ (DLI 25.9 mol·m⁻²·d⁻¹ at 600 under 12 h): inflorescence dry weight 1.6× higher at the top intensity, harvest index 7% higher; UVA and UVA+UVB treatments without effect on inflorescence cannabinoid concentrations — frontiersin.org (https://www.frontiersin.org/articles/10.3389/fpls.2022.974018)
+
+- Huebner, D.S. et al., “Influence of different UV spectra and intensities on yield and quality of cannabis inflorescences,” Frontiers in Plant Science, December 17, 2024 — three UV spectra at five intensities on 'Fedora 17': no UV treatment altered the cannabinoid profile; the lowest-dose UVA-dominant variant (99:1, 1.81 W/m²) raised linalool (+29%), limonene (+25%) and myrcene (+22%) at constant yield and cannabinoid concentration — pmc.ncbi.nlm.nih.gov (https://pmc.ncbi.nlm.nih.gov/articles/PMC11685020/)
+
+- Peterswald, T.J. et al., “The effects of far-red light on medicinal Cannabis,” Scientific Reports, May 20, 2025 — end-of-day far-red under 10 h and 12 h photoperiods in three cultivars: THC concentration elevated in both high-THC varieties; Northern Lights total cannabinoid yield nearly 70% higher under 10 h light + 2 h dark-period far-red (0.43 vs 0.25 g per plant), with 5.5% lower power use; 4 h of far-red on a 12 h photoperiod reduced trimmed flower weight in all genotypes — pmc.ncbi.nlm.nih.gov (https://pmc.ncbi.nlm.nih.gov/articles/PMC12092679/)
+
+- Peterswald, T.J. et al., “Moving Away from 12:12; the Effect of Different Photoperiods on Biomass Yield and Cannabinoids in Medicinal Cannabis,” Plants, 2023 — nine flowering photoperiod treatments across three cultivars: treatments starting at 14 h gave the highest flower biomass in all lines; a static 14 h day significantly reduced THC concentration in the two THC lines; in the CBD line 'Cannatonic', 14 h starts raised CBD concentration and total CBD yield by 50–100% — doi.org (https://doi.org/10.3390/plants12051061)
+
+- “High light intensity enhances cannabinoid biosynthesis through concerted gene expression in hemp (Cannabis sativa) flowers,” Frontiers in Plant Science, 2025 — hemp 'Queen Dream' under white LED at 200, 400 and 600 µmol·m⁻²·s⁻¹ in flowering: flower dry mass and CBD, CBDA and THCA rose linearly with intensity; total CBD about 37% higher at 600 than at 200, with upregulation of cannabinoid-pathway genes including CBDAS — frontiersin.org (https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2025.1687794/full)
+
+- “Cannabinoids and Terpenes: How Production of Photo-Protectants Can Be Manipulated to Enhance Cannabis sativa L. Phytochemistry” (review), Frontiers in Plant Science, 2021 — visible LED light can augment THC and terpene accumulation but not CBD; Hawley (2018) subcanopy blue+red vs blue+green+red results; CBGA findings of Danziger & Bernstein (2021) and Namdar et al. (2019) as summarized therein — frontiersin.org (http://frontiersin.org/articles/10.3389/fpls.2021.620021)
+
+- Danziger, N. & Bernstein, N., “Light matters: Effect of light spectra on cannabinoid profile and plant development of medical cannabis (Cannabis sativa L.),” Industrial Crops and Products, June 2021 — blue:red ratio across three medical cultivars; blue-rich light stimulated CBGA accumulation relative to far-red-rich HPS light, with cultivar-specific responses in CBDA, THCA and CBCA (findings as summarized in the Frontiers review above) — doi.org (https://doi.org/10.1016/j.indcrop.2021.113351)
+
+CannActuality briefs are market research and education for licensed cannabis vendors. They are not legal, medical, or investment advice, and they make no health or benefit claims about cannabis products. Figures are as reported by the cited publishers. Intended for adults 21+.
+
+---
+
+Source: https://cannactuality.com/briefs/minor-cannabinoids-2026.html
+
+Research Brief · Product Intelligence
+
+# Minor Cannabinoids in Product Development: CBN, CBG, THCV and the 2026 Formulation Map
+
+Published November 9, 2026 · CannActuality Research Desk · For licensed vendors and product teams
+
+### Key takeaways
+
+- Minor cannabinoids are a ratio business, not a standalone one. In BDSA's licensed-market tracking, gummies accounted for about 75% of sales dollars for CBN-containing products and about 70% for CBG-containing products — and 2026 point-of-sale data and launches show the same pattern: CBN, CBG and THCV appear inside multi-cannabinoid gummies, tablets and softgels alongside THC and CBD, not as single-cannabinoid products.
+
+- CBG is the largest minor cannabinoid by modelled US market share — about 45% in 2024 — while CBN is the fastest-growing, at a forecast 15% CAGR (Emergen Research). THCV is the scarcest of the three: most cannabis plants yield less than 0.2% THCV, according to the Washington State Liquor and Cannabis Board's July 2026 research brief.
+
+- How a minor cannabinoid is made is now a legal variable, not just a cost variable. Washington permits only naturally extracted THCV in its licensed market and prohibits semi-synthetic conversion. Federally, cannabinoids the plant cannot naturally produce lose hemp status on November 12, 2026; natural cannabinoids that were synthesized or manufactured outside the plant — and finished hemp products above 0.4 mg of total THC per container — follow on December 11, 2026.
+
+- California preserves one narrow hemp lane for CBN: under AB 8, CBD or CBN isolate above 99% purity, with no THC and no synthetic cannabinoids, may still be used in foods and beverages outside the licensed system (California Department of Public Health). Everything intoxicating in California moves through licensed channels.
+
+## The map in one view: fast growth, small base
+
+Two kinds of evidence describe this market, and they measure different things. Emergen Research models the total US minor cannabinoid market — licensed cannabis, hemp-derived and wellness channels combined — at $1.5 billion in 2024, projected to reach $4.5 billion by 2034 at an 11.5% compound annual growth rate. That is a modelled estimate, not point-of-sale data, and its scope is deliberately broad. BDSA's Retail Sales Tracking measures the narrower licensed dispensary channel, and its most detailed public cut remains the baseline every later dataset builds on: in Q1 2022, across California, Colorado, Illinois, Massachusetts, Michigan, Nevada and Oregon, there were about 70% more products containing CBN than a year earlier, and more than twice as many products containing CBG.
+
+The growth rates were dramatic precisely because the base was small. In the mature markets BDSA tracks separately, Q1 2022 sales of CBG-containing products rose 655% year over year in California, 1,105% in Nevada, 1,185% in Oregon and 1,251% in Colorado, while CBN-containing product sales rose 22% to 145% in the same states. In those same markets, CBD-containing product sales were still roughly three times CBN sales and more than nine times CBG sales — and CBD sales were falling by double digits. Consumer familiarity explains the headroom: BDSA consumer data put familiarity with CBN at 14% and with CBG at 13% in fall 2021, up from 11% and 8% in fall 2019. Minor cannabinoids are where formulation differentiation is happening; they are not yet where most dollars are.
+
+ Market (BDSA, Q1 2022 vs Q1 2021)CBN productsCBG productsCBD products
+ California+29%+655%−24%
+ Colorado+145%+1,251%−19%
+ Nevada+30%+1,105%−29%
+ Oregon+22%+1,185%−17%
+
+Sales-dollar change for products containing each cannabinoid, BDSA Retail Sales Tracking.
+
+## Where they show up: gummies first, then tablets and softgels
+
+The format map is unusually concentrated. In BDSA's Q1 2022 data, gummies took about 75% of sales dollars for CBN-containing products and about 70% for CBG-containing products. The next formats were an order of magnitude smaller: for CBN, chocolate and tinctures at about 5% each; for CBG, tinctures at about 10% and taffy at about 5%. A development plan that starts anywhere other than gummies is starting away from the demonstrated demand.
+
+Current licensed-market data shows the pattern holding in 2026. Headset's October 2026 brand data for Jams — an edibles-only brand whose top 10 products account for 83.1% of its sales — lists four multi-cannabinoid ratio gummies in that top 10: a THC/CBD/CBN 2:1:1 gummy as the brand's number-one product at 17.2% of brand sales, a THC/CBG/THCV 2:1:1 gummy at 7.5%, a THC/CBD/CBG 2:1:1 gummy at 4.7%, and a CBD/CBN/THC 1:1:1 gummy at 2.4%. The ratio is printed as the product's identity; the minor cannabinoid is the differentiator inside a format buyers already understand.
+
+The 2026 launch record adds two formats beside gummies. In October 2026, Ascend Wellness Holdings launched a seven-formula tablet line in Massachusetts, Illinois and New Jersey in which every formula pairs THC with one or more minor cannabinoids: CBN in the two nighttime-positioned formulas, THCV and CBC in the daytime-positioned formula, and CBG in three of the seven. In May 2026, Canopy Growth's Spectrum Therapeutics expanded its medical softgel lineup to 30- and 90-count packs built entirely on minor-cannabinoid ratios — CBD:CBG 1:1, CBD:CBC:CBG 2:1:1 and 5:2:2, CBD:CBN 2:1, and CBN:CBD:THC 1:1:2. Note the supporting player in both lineups: CBC, rarely headlined, appears in Ascend's THCV formula and Canopy's core daily softgel. The 2026 formulation map is therefore a ladder — gummies for reach, tablets and softgels for measured, repeatable formats — with CBN, CBG, THCV and CBC assigned by use occasion in the brand's own labelling.
+
+A discipline note on that labelling: brand positioning is market evidence about what companies believe buyers want; it is not evidence of effect. CannActuality reports positioning as positioning. The Washington LCB's THCV brief makes the underlying point plainly — human research on THCV is limited and the bulk of the literature is preclinical — and product teams should hold the same line in their own claims review.
+
+## Cannabinoid by cannabinoid: three different supply problems
+
+CBN (cannabinol) — the degradation product with the clearest format fit. CBN is not a primary plant product: it forms as THC oxidizes with age, heat and light, which is why commercial supply depends on controlled conversion and purification of plant-derived material rather than on a CBN-rich harvest. Its market position is the most established of the three: BDSA found the top-selling CBN products in California, Colorado and Illinois were positioned around nighttime use, and Emergen projects CBN as the fastest-growing minor cannabinoid segment at a 15% CAGR. California's AB 8 also gives CBN a distinction no other minor cannabinoid in this brief has: CBN isolate above 99% purity, with no THC, is expressly preserved as an ingredient that can be added to foods in the state's hemp program, per the Department of Public Health.
+
+CBG (cannabigerol) — the precursor, harvested early or bred for. CBG's acid form, CBGA, is the biosynthetic precursor the plant converts into THCA, CBDA and CBCA, so by maturity most CBGA has already been converted onward and CBG itself remains at low levels in mature plants. Commercial CBG supply therefore comes mainly from CBG-dominant hemp cultivars bred for that profile. CBG is the largest minor cannabinoid segment in Emergen's US model at about 45% share in 2024, and its licensed-market products skew to daytime-positioned ratios — BDSA's top-selling CBG product in California and Colorado was a 1:1 CBG pear gummy, and Canopy's 2026 softgel expansion leads its daytime line with a CBD:CBG 1:1 formulation.
+
+THCV (tetrahydrocannabivarin) — the scarce varin. THCV is the propyl-side-chain counterpart of THC, produced through a separate varin pathway (from CBGVA, not CBGA). The Washington LCB's July 2026 research brief — written because the state's licensing team asked whether THCV is only available synthetically — reports that most cannabis plants yield less than 0.2% THCV, that certain African-origin cultivars such as Durban Poison are reported to test higher (while noting cultivar names are not reliable indicators and the batch certificate of analysis governs), and cites one market-research estimate valuing the US THCV market at $130 million by 2033. The LCB distinguishes Δ9-THCV, which occurs naturally, from Δ8-THCV, which has not been documented to occur naturally and is only semi-synthetically derived, typically by converting CBDV. In Washington's licensed market, only naturally occurring, in-state-extracted THCV is permitted; semi-synthetic and fully synthetic conversion are prohibited, and CBD is the only cannabinoid that may be brought in from outside the licensed system as an additive. THCV is thus a small, supply-constrained ingredient whose legal production method varies by state — the opposite of a commodity input.
+
+## What the December 2026 federal hemp dates do to supply
+
+The federal change is a redefinition, not a product-by-product ban list, and it sorts minor-cannabinoid supply by how the molecule was made. Section 781 of Public Law 119-37 rewrote the hemp definition around a 0.3% total-THC standard (counting THCA) and excluded three classes of hemp-derived cannabinoid products, as the Congressional Research Service summarizes in In Focus IF13136: products containing cannabinoids not capable of being naturally produced by the plant; products containing natural cannabinoids that were synthesized or manufactured outside the plant; and finished products above 0.4 mg of combined total THC per container. Products outside the definition are treated as marijuana under the Controlled Substances Act.
+
+The September 2026 delay law (Public Law 119-103, §2019) split the effective dates. On November 12, 2026 — three days after this brief publishes — only the first class loses hemp status: cannabinoids the plant cannot naturally produce at all, with THC-O the clearest case in the legal reporting. CBN, CBG and THCV are all naturally producible, so none of them is in the November group by identity. On December 11, 2026, the rest takes effect: the total-THC test, the 0.4 mg per-container cap, and the exclusion for natural cannabinoids manufactured outside the plant. That second date is the one that reaches mainstream minor-cannabinoid supply, because a large share of hemp-derived CBN, CBG and converted THCV ingredients is produced by converting abundant hemp CBD or CBDV outside the plant rather than by extracting the target molecule directly. A hemp-derived finished product that pairs a minor cannabinoid with THC above the per-container cap also fails on December 11, regardless of how the minor itself was made.
+
+Two uncertainties should be written into supply plans rather than assumed away. First, the statute directed FDA to publish lists of naturally producible and THC-class cannabinoids within 90 days of enactment; as of the Congressional Research Service's September 28, 2026 update, no list had been published, and industry reporting checking again in October 2026 found none — so the natural-versus-converted determination currently rests on the manufacturer's own production records and certificates of analysis. Second, bills to delay, repeal or replace the redefinition remained pending without passage as of mid-October 2026 reporting; December 11 is the planning date. What does not change: products made and sold inside state-licensed cannabis and medical systems are not hemp products, and the redefinition does not alter their status — which is why the licensed channel is the stable home for minor-cannabinoid formulation work in 2027, with hemp-derived supply requalifying ingredient by ingredient on production method.
+
+## What this means for product teams
+
+- Formulate minors as ratio partners in proven formats first. The evidence across BDSA tracking, Headset's October 2026 data and the 2026 launch record points the same way: gummies carry roughly 70–75% of minor-cannabinoid sales, and the winning SKUs name a ratio — THC/CBD/CBN, THC/CBG/THCV, CBD:CBG — rather than a lone minor. Tablets and softgels are the credible second format, as the Ascend and Canopy launches show.
+
+- Write the production method into every ingredient specification. "Extracted from the plant" and "converted outside the plant" are now different legal goods with different federal dates. Require suppliers to state and document the method — extraction, semi-synthesis from a named precursor, or full synthesis — and keep the batch records with the certificate of analysis.
+
+- Audit hemp-derived minor supply against December 11, 2026, not November 12. CBN, CBG and THCV are naturally producible, so the November date does not reach them by identity; converted supply and any finished hemp product above 0.4 mg of total THC per container lose hemp status on December 11. Requalify, reformulate, or move affected SKUs into licensed channels before that date.
+
+- Build THCV plans around scarcity. At typical yields below 0.2% in most plants, THCV is a constrained input: secure cultivar-specific extraction supply, verify content on the batch certificate of analysis rather than the cultivar name, and do not base a Washington or similarly restrictive state's plan on converted THCV, which that state's licensed market prohibits.
+
+- Use California's CBN isolate lane deliberately — and only as specified. AB 8 preserves CBD and CBN isolate above 99% purity with no THC and no synthetic cannabinoids for foods and beverages in the hemp program. That is a narrow, documented lane, not a general hemp exemption; anything with detectable THC belongs in the licensed system now, ahead of full integration on January 1, 2028.
+
+- Keep the claims line where the evidence is. Ratio and content labelling is what the market leaders share; outcome claims are not supported by the current human literature, which the Washington LCB describes as limited and largely preclinical for THCV. Differentiate on format fit, ratio clarity and documented sourcing — the attributes a buyer can verify on the label and the certificate of analysis.
+
+### Go deeper — the dataset behind this brief
+
+Several figures in this brief come from BDSA retail sales tracking. If your team needs the underlying dataset — category, brand, and market-level sales to cut your own roadmap numbers — BDSA (https://bdsa1.referralrock.com/l/TAYLORAUGU09/) is the source the research cites. Signing up through this link gets you 10% off your first BDSA solution, and CannActuality earns a referral commission, at no cost to you; see our Disclosure (../disclosure.html).
+
+### Sources
+
+- BDSA, “CBN Sales & CBG Sales See Rapid Growth as CBD Sales Slow” (published June 6, 2022; updated March 22, 2023), reporting BDSA Retail Sales Tracking and Consumer Insights for Q1 2021–Q1 2022 — bdsa.com (https://bdsa.com/cbn-and-cbg-sales-see-rapid-growth/)
+
+- Emergen Research, “US Minor Cannabinoid Market” report (2024 base year; market valued at $1.5 billion in 2024, projected $4.5 billion by 2034; CBG about 45% share in 2024; CBN fastest-growing segment at 15% CAGR) — emergenresearch.com (https://www.emergenresearch.com/industry-report/us-minor-cannabinoid-market)
+
+- Washington State Liquor and Cannabis Board, Research Brief: “Tetrahydrocannabivarin (THCV),” July 2026 (natural yields below 0.2% in most plants; Δ8-THCV only semi-synthetic; Washington natural-extraction-only rule; US THCV market estimate of $130 million by 2033 as cited therein) — lcb.wa.gov (PDF) (https://lcb.wa.gov/sites/default/files/2026-09/ResearchBrief-THCV-20260804.pdf)
+
+- Headset, Jams brand retail sales data, data snapshot November 3, 2026 (October 2026 point-of-sale data: top-10 products 83.1% of brand sales; THC/CBD/CBN 2:1:1 gummies 17.2%; THC/CBG/THC-V 2:1:1 gummies 7.5%; THC/CBD/CBG 2:1:1 gummies 4.7%; CBD/CBN/THC 1:1:1 gummies 2.4%) — headset.io (https://www.headset.io/brands/jams)
+
+- Ascend Wellness Holdings, “Ascend Wellness Holdings Launches Effin' Tabs” (PR Newswire, October 22, 2026; seven tablet formulas pairing THC with CBN, CBG, THCV and CBC; Massachusetts, Illinois and New Jersey rollout) — morningstar.com (https://www.morningstar.com/news/pr-newswire/20261022to78251/ascend-wellness-holdings-launches-effin-tabs-a-new-line-of-precision-dosed-thc-tablets)
+
+- Canopy Growth Corporation and Spectrum Therapeutics, “Expand Medical Portfolio with New 30 and 90-Pack Softgels” (Business Wire, May 7, 2026; CBD:CBG 1:1, CBD:CBC:CBG 2:1:1 and 5:2:2, CBD:CBN 2:1, CBN:CBD:THC 1:1:2 softgels) — businesswire.com (https://www.businesswire.com/news/home/20260507336358/en/Canopy-Growth-and-Spectrum-Therapeutics-Expand-Medical-Portfolio-with-New-30-and-90-Pack-Softgels-and-Enhanced-Dosing-Options)
+
+- Congressional Research Service, “Changes to the Statutory Definition of Hemp and Issues for Congress,” In Focus IF13136 (updated September 28, 2026; 0.3% total-THC standard including THCA; exclusions for non-naturally-producible and outside-plant-manufactured cannabinoids; 0.4 mg per-container cap; FDA lists not yet published) — congress.gov (https://www.congress.gov/crs-product/IF13136)
+
+- GreenScreens, “Nov 12, 2026 Federal Hemp Date: What Changes First” (October 14, 2026; Public Law 119-103 §2019 split of the November 12 and December 11, 2026 effective dates; FDA list unpublished as of October 12, 2026) — greenscreens.tv (https://greenscreens.tv/v2/blog/federal-hemp-november-12-2026-what-changes-florida-dispensaries/)
+
+- The Weed Street Journal, “Hemp Ban Dates: November 12 vs. December 11, 2026” (updated November 2026; statute-bucket analysis of Section 781 of Public Law 119-37 and §2019 of Public Law 119-103; no further delay passed as of October 16, 2026) — theweedstreetjournal.com (https://theweedstreetjournal.com/hemp-ban-november-12-vs-december-11/)
+
+- California Department of Public Health, “Assembly Bill 8 Frequently Asked Questions” (2026; AB 8 signed October 2, 2025, effective January 1, 2026; CBD or CBN isolate above 99% purity with no THC or synthetic cannabinoids preserved for foods; hemp extraction licensing moves to the Department of Cannabis Control on January 1, 2028) — cdph.ca.gov (https://www.cdph.ca.gov/Programs/CEH/DFDCS/Pages/FDBPrograms/FoodSafetyProgram/AssemblyBill8FAQ.aspx)
+
+- Cannabis Training University, “Types of Cannabinoids: THC, CBD, CBG, CBN, THCV & More” (checked October 2026; CBGA precursor pathway after Gülck & Møller 2020; CBN as the oxidation product of THC; THCV via the CBGVA varin pathway; commercial CBG mainly from CBG-dominant hemp cultivars) — cannabistraininguniversity.com (https://cannabistraininguniversity.com/medical-cannabis/types-of-cannabinoids/)
+
+CannActuality briefs are market research and education for licensed cannabis vendors. They are not legal, medical, or investment advice, and they make no health or benefit claims about cannabis products. Figures are as reported by the cited publishers. Intended for adults 21+.
+
+---
+
+Source: https://cannactuality.com/briefs/nutrient-programs-cultivation-2026.html
+
+Research Brief · Cultivation Science
+
+# Nutrient Programs and Mineral Nutrition: What the Evidence Supports
+
+Published November 9, 2026 · CannActuality Research Desk · For licensed vendors and product teams
+
+### Key takeaways
+
+- Across the controlled dose-response literature, one pattern repeats for nitrogen, phosphorus and potassium: cannabinoid and terpenoid concentrations are highest at or below the supply level that maximizes yield, and fall as supply rises. THCA concentration dropped 69% as nitrogen supply increased from 30 to 320 mg/L in the Volcani Center trials. A nutrient program is a chemotype decision, not only a yield decision.
+
+- More feed is not more flower. In Utah State closed-system hydroponic trials, raising phosphorus from 15 to 90 mg/L and doubling solution EC from 2 to 4 mS/cm changed neither yield nor cannabinoid quality — the extra phosphorus accumulated in leaf and flower tissue and in the root-zone solution instead.
+
+- Magnesium runs the other way: it is the one macronutrient tested whose deficiency lowers cannabinoid and terpene production, with an optimum at 35 mg/L. And the industry's most universal finishing practice, pre-harvest flushing, is the best-tested and least supported — a Guelph thesis, an industry trial and a five-cultivar peer-reviewed study all find no meaningful change in flower mineral content, potency or terpene profile.
+
+## Nitrogen, phosphorus, potassium: concentration and yield pull in opposite directions
+
+Almost everything known from controlled cannabis nutrition research comes from a small number of programs — the Volcani Center in Israel, the University of Guelph, and Utah State University — working in soilless media under controlled environments. Their shared method is the dose-response trial: hold everything constant, vary one element, and measure both biomass and chemistry. Read together, the macronutrient trials tell a consistent story. The supply level that maximizes inflorescence yield is at or above the level that maximizes cannabinoid and terpenoid concentration, so every feed chart embeds a trade-off between the two.
+
+Nitrogen is the nutrient cannabis consumes in the largest quantity, and the most studied. In the Volcani trials, plants were grown at five nitrogen levels from 30 to 320 mg/L. Yield rose with supply up to the 160–320 mg/L range, but cannabinoid and terpenoid concentrations fell as nitrogen increased — THCA concentration decreased by 69% between the 30 and 320 mg/L treatments. The lab's conclusion, at both the vegetative and flowering stages, is an optimum of 160 mg/L: high enough for yield, low enough to limit dilution of secondary metabolites. The form of nitrogen matters as much as the amount. In a 2022 Frontiers in Plant Science trial at a uniform 200 mg/L, shifting the ammonium share of nitrogen from 0% to 50% cut inflorescence yield by 46%; ratios of 10–30% ammonium were tolerated with small penalties, 50% produced toxicity symptoms that appeared only late in maturation, and 100% ammonium killed the plants. Secondary metabolite production was highest under all-nitrate nutrition.
+
+Phosphorus shows the same trade-off at much lower numbers. Shiponi and Bernstein grew two cultivars at 5, 15, 30, 60 and 90 mg/L: supply at or below 15 mg/L was insufficient for optimal plant function, 30–90 mg/L was the optimal range for development, and 30 mg/L already produced 80% of maximum yield. About 80% of plant phosphorus accumulated in the inflorescences. Yet P supply above 5 mg/L reduced THCA and CBDA concentrations by up to 25%, and concentrations fell linearly as yield rose — a dilution effect, since total cannabinoid content per plant still increased. A Utah State trial in closed-system hydroponics pushed the point further: raising P input from 15 to 90 mg/L doubled leaf P concentration and raised flower P concentration by 70%, with no difference in yield or quality at any level. Cannabis takes up phosphorus beyond its requirement and stores it in the flower; the excess is cost and waste-stream load, not potency.
+
+Potassium completes the pattern. At five supply levels from 15 to 240 mg/L, the 15 mg/L treatment caused visible chlorosis and reduced yield in both cultivars tested; 60–175 mg/L gave optimal plant function and high yield; and 240 mg/L produced over-supply symptoms in one of the two cultivars. The concentrations of most cannabinoids and terpenoids declined as K supply rose, leading the authors to suggest 60 mg/L — the bottom of the functional range — as the application level that keeps yield and secondary metabolism high together. A Guelph response-surface analysis of NPK combinations points the same way: inflorescence yield responded to elevated nitrogen and phosphorus, with no yield response to potassium supply at all.
+
+## EC and pH: wide tolerance, narrow returns
+
+The Utah State group grew medical cannabis in closed deep-flow hydroponics at solution electrical conductivities of 2 and 4 mS/cm, crossed with the phosphorus levels above. Doubling nutrient input from 2 to 4 mS/cm increased nutrient accumulation in the solution but not yield or quality, and even the highest root-zone concentrations produced no leaf necrosis. Cannabis, on this evidence, tolerates strong solutions — it simply does not reward them. The operational EC signal in the Volcani work is subtler: leachate EC ran steady at 7–16% above the irrigation solution across treatments, which is a monitoring benchmark for root-zone salt accumulation, not a reason to raise input strength.
+
+Solution pH in the controlled literature is strikingly uniform. The Volcani phosphorus trial held pH at 5.5–6.0, the ammonium/nitrate trial adjusted its solution to 5.6–6.0, and the magnesium trial adjusted to 5.8. No controlled cannabis study in this literature establishes an optimum outside that band, and one mechanism argues for holding it steady: roots taking up ammonium release hydrogen ions and acidify the rhizosphere, while nitrate uptake alkalinizes it, so the nitrogen-form ratio is itself a pH-management variable. The micronutrient side of the research recipes is similarly modest — the ammonium/nitrate trial's published solution carried iron at 1.31 mg/L, manganese 0.6, zinc 0.3, copper 0.13, boron 0.1 and molybdenum 0.003 mg/L alongside its macronutrients.
+
+## Calcium, magnesium, silicon: strong evidence for one, thin evidence for two
+
+Magnesium is the outlier in the macronutrient set, and the reason is biochemical: Mg is required for the formation of geranyl diphosphate (GPP), the shared precursor of cannabinoids and terpenes, and for the activity of key enzymes in both biosynthesis pathways. In the Volcani reproductive-stage trial at 2, 20, 35, 70 and 140 mg/L, low supply of 2–20 mg/L restricted plant function and metabolite concentrations; 35 mg/L was optimal for both yield and metabolite production; and over-supply at 70–140 mg/L cut reproductive biomass by 12.5% while leaving secondary metabolism unharmed. Where N, P and K deficiency raises cannabinoid concentration (in smaller plants), Mg deficiency lowers it — the lab describes the response as unique among the macronutrients it has tested. At the vegetative stage, the optimal Mg range was 35–70 mg/L.
+
+Calcium has no equivalent dose-response trial in the controlled cannabis literature — a genuine evidence gap, given that Ca appears in every research recipe (at 57 mg/L in the ammonium/nitrate trial's solution and 110 mg/L in the magnesium trial's). What the literature does establish is the interaction: K, Ca and Mg compete significantly for root uptake, and ammonium uptake inhibits the uptake of all three cations. A program that pushes any one cation hard — a potassium "booster," a heavy ammonium share — can manufacture a deficiency of the others. Silicon, a beneficial but non-essential element, sits between evidence and marketing. A 2026 review in Agriculture classifies cannabis as an intermediate silicon accumulator that deposits silica in bast fibers and trichomes, with the clearest benefits in propagation and vegetative growth and under stress: root-zone silicon lowered cadmium and zinc uptake in hemp work, and silicon suppressed powdery mildew while raising tissue silicon about 2.1-fold and inflorescence biomass about 1.2-fold without reducing cannabinoid or terpene quality — though that yield effect was only marginally significant and the silicon was co-supplied with a phosphite component. The review's central caution is that no peer-reviewed study has yet isolated silicon's effect on cannabinoid or terpene biosynthesis under standardized flower-production conditions.
+
+## Delivery strategy: fertigation precision versus organic complexity
+
+Every dose-response result above exists because mineral fertigation into inert media — perlite, in the Volcani work — makes the dose knowable to the milligram. That precision is itself the finding: chemotype responds measurably to single-element changes, and the cannabinoid profile also varies between plants and within a single plant, so batch consistency is pursued by narrowing every input that can be narrowed. Organic programs trade some of that precision for biological complexity, and the best-controlled organic study shows the cost clearly. Caplan, Dixon and Zheng at the University of Guelph applied a liquid organic fertilizer at rates supplying 57 to 283 mg/L nitrogen to flowering cannabis in two coir-based substrates. The optimum moved with the medium: in the lower-container-capacity substrate, rates supplying 212–261 mg/L maximized yield and cannabinoid yield, while in the higher-capacity substrate the highest rate tested, 283 mg/L, maximized yield but lower rates gave higher cannabinoid concentrations. The substrate alone mattered independently — the lower-capacity mix produced 11% higher floral dry weight, 20% higher THC concentration and 57% higher THC yield per plant — and in both substrates, raising the fertilizer rate increased growth and yield while diluting THC, THCA and CBGA concentrations.
+
+For living-soil systems specifically, the controlled literature is effectively silent: no study reviewed here compares living-soil against fertigated production on chemotype consistency. What can be said from the evidence is structural. In a fertigated system, a nutrient program is a written specification, auditable against a certificate of analysis. In an organic system, the Guelph results show the specification has to be re-derived for each substrate, because the medium changes both the optimum rate and the outcome. Neither approach changes the underlying dose-response biology; they differ in how precisely the dose can be held.
+
+## Flushing: the best-tested claim in cultivation, and the weakest result
+
+Pre-harvest flushing — stopping mineral feed and irrigating with plain water for the final days before harvest, on the theory that it clears minerals from the flower — is the one cultivation practice with three independent lines of controlled evidence, and they agree. A University of Guelph thesis on irrigation management (Stemeroff) tested flushing directly and concluded it "was found to be ineffective in removing any significant amount of nutrient from the bud." The most-cited industry trial, run by RX Green Technologies in 2019, grew 48 Cherry Diesel plants in coco and flushed for 14, 10, 7 or 0 days: cured flower weight averaged 97.3 g per plant, THC averaged 21.9%, and total terpenes ran 1.46% to 1.64%, with no statistically significant difference on any measure, and no significant overall change in flower mineral content (nitrogen was 6.7% lower after 14 days, while iron and zinc were actually higher in the longer flushes, consistent with plain water releasing accumulated micronutrients from the media). A blind panel of industry experts found no significant difference in flavor, smoke harshness or ash color; smoothness ratings, if anything, trended toward the unflushed flower. The trial's one real effect was in extraction: trim from the 10- and 14-day flushes yielded about two percentage points more extract (18.2% and 18.0% versus 16.2% unflushed), while the unflushed trim produced the clearest wax. RX Green's trial was industry-run and single-cultivar, not peer-reviewed — but the peer-reviewed test that followed reached the same place. Saloner, Sade and Bernstein (2024) compared flushing against feeding to harvest across five medical cannabis cultivars: flushing changed terpenoid concentrations in 3% of samples and cannabinoid concentrations in 30%, and where cannabinoids did move, they moved in both directions — up in two cultivars, down in one. Leaf fade during a flush is real; it is chlorophyll breaking down in the leaf, and on this evidence it is not a change in the flower. Flushing is a harvest-logistics and extraction decision, not a quality lever — and, as the RX Green report itself notes, it is not a substitute for managing root-zone salts during the cycle, which is a separate job done with runoff and feed adjustment.
+
+## What this means for product teams
+
+- Specify feed programs by element and stage, not by brand recipe. The published optima from the dose-response literature — nitrogen near 160 mg/L, phosphorus near 30 mg/L, potassium near 60 mg/L, magnesium near 35 mg/L in solution culture — sit well below many commercial feed charts. Require cultivation partners and nutrient suppliers to state solution concentrations per element, per growth stage, so a program can be compared against the evidence rather than against a label.
+
+- Treat a feed change as a chemotype change. Because cannabinoid and terpenoid concentrations fall as N, P and K supply rises past the functional optimum, changing the nutrient program changes the product specification. Lock the feed program into batch specs, and re-validate against certificates of analysis whenever the program, the nitrogen-form ratio, or the substrate changes.
+
+- Do not pay for EC headroom or phosphorus loading. Doubling solution strength from 2 to 4 mS/cm bought no yield or quality, and phosphorus fed at 90 mg/L rather than 15 mg/L showed up as tissue loading and leachate, not flower. Excess P is a fertilizer cost and a wastewater exposure; the evidence supports feeding to the requirement and monitoring leachate EC instead.
+
+- Manage the cation triangle as one system. Potassium, calcium and magnesium compete for root uptake, and ammonium suppresses all three. Single-element boosters can induce the deficiency they claim to fix. Magnesium deserves the opposite care: keep it sufficient (the trial optimum was 35 mg/L), because Mg deficiency is the one macronutrient shortage shown to cut both yield and cannabinoid/terpene production.
+
+- Retire flushing as a quality claim. If a cultivation partner flushes, the defensible reasons are extraction yield and harvest logistics, not flower chemistry — three controlled tests find no meaningful change in mineral content, potency or terpenes. Do not build product quality narratives, or label copy, on a pre-harvest flush.
+
+- Price the evidence gaps into vendor claims. There is no controlled calcium dose-response for cannabis, no isolated silicon dose-response for cannabinoid or terpene production, and no controlled living-soil-versus-fertigation comparison on chemotype consistency. Input products marketed on those claims are ahead of the published literature; silicon's supported role today is crop resilience — mildew suppression and stress tolerance — not potency.
+
+### Sources
+
+- Bernstein, N., "Advances in science-based fertilization technologies for medical cannabis," IsraelAgri (Israel Agricultural Technology & Innovations Hub), published June 7, 2022, summarizing the Volcani Center dose-response program: nitrogen optimum 160 mg/L with THCA down 69% between 30 and 320 mg/L; potassium function optimal at 60–175 mg/L in flowering with 60 mg/L suggested; magnesium vegetative optimum 35 mg/L — israelagri.com (https://israelagri.com/advances-in-science-based-fertilization-technologies-for-medical-cannabis/)
+
+- Saloner, A. & Bernstein, N., "Nitrogen Source Matters: High NH4/NO3 Ratio Reduces Cannabinoids, Terpenoids, and Yield in Medical Cannabis," Frontiers in Plant Science 13:830224 (2022) — five ammonium shares at 200 mg/L N; 46% inflorescence yield decrease from 0% to 50% ammonium; 10–30% tolerated; solution pH adjusted to 5.6–6.0; published solution micronutrients Fe 1.31, Mn 0.6, Zn 0.3, Cu 0.13, B 0.1, Mo 0.003 mg/L; leachate EC 7–16% above input — frontiersin.org (https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2022.830224/full)
+
+- Shiponi, S. & Bernstein, N., "The Highs and Lows of P Supply in Medical Cannabis: Effects on Cannabinoids, the Ionome, and Morpho-Physiology," Frontiers in Plant Science 12:657323 (published July 15, 2021) — P at 5–90 mg/L; ≤15 mg/L insufficient; 30 mg/L produced 80% of maximum yield; about 80% of plant P accumulated in inflorescences; P above 5 mg/L reduced THCA and CBDA concentrations by up to 25%; solution pH kept at 5.5–6.0 — pmc.ncbi.nlm.nih.gov (https://pmc.ncbi.nlm.nih.gov/articles/PMC8320666/)
+
+- Saloner, A. & Bernstein, N., "Effect of Potassium (K) Supply on Cannabinoids, Terpenoids and Plant Function in Medical Cannabis," Agronomy 12:1242 (published May 23, 2022) — K at 15–240 mg/L; 15 mg/L impaired both cultivars; 60–175 mg/L optimal function and high yield; 240 mg/L over-supply symptoms in one cultivar; most cannabinoid and terpenoid concentrations declined as K rose; 60 mg/L suggested; K, Ca and Mg compete for root uptake; Guelph response-surface analysis found no yield response to K — mdpi.com (PDF) (https://mdpi-res.com/d_attachment/agronomy/agronomy-12-01242/article_deploy/agronomy-12-01242.pdf)
+
+- Morad, D. & Bernstein, N., "From deficiency to toxicity: Magnesium increases cannabinoid and terpene production in cannabis plants," Journal of Cannabis Research 7:103 (2025) — Mg at 2–140 mg/L at the reproductive stage; 2–20 mg/L restricted function and metabolite concentrations; 35 mg/L optimal; 70–140 mg/L reduced reproductive biomass by 12.5% with secondary metabolism unharmed; Mg required for geranyl diphosphate formation and biosynthesis-pathway enzymes; solution pH adjusted to 5.8 — link.springer.com (https://link.springer.com/article/10.1186/s42238-025-00358-9)
+
+- Hershkowitz, J.A., Westmoreland, F.M. & Bugbee, B., "Elevated root-zone P and nutrient concentration do not increase yield or cannabinoids in medical cannabis," Frontiers in Plant Science 16:1433985 (published February 19, 2025) — P at 15–90 mg/L crossed with solution EC of 2 and 4 mS/cm in closed-system hydroponics; leaf P doubled and flower P rose 70% from 15 to 90 mg/L with no yield or quality difference; doubling EC did not significantly increase yield or quality — digitalcommons.usu.edu (https://digitalcommons.usu.edu/psc_stures/22/)
+
+- Caplan, D., Dixon, M. & Zheng, Y., "Optimal rate of organic fertilizer during the flowering stage for cannabis grown in two coir-based substrates," HortScience 52(12):1796–1803 (2017) — liquid organic fertilizer supplying 57–283 mg/L nitrogen; optimum 212–261 mg/L in the lower-container-capacity substrate; lower-capacity substrate produced 11% higher floral dry weight, 20% higher THC concentration and 57% higher THC yield; higher rates diluted THC, THCA and CBGA — mendeley.com (abstract) (https://www.mendeley.com/catalogue/8ed48919-f1fd-3edd-87a2-7847861e3038/)
+
+- RX Green Technologies, "Cannabis Flushing Myth: What Our Trial Found" (trial conducted 2019; Cherry Diesel in coco, 48 plants, flushes of 14, 10, 7 and 0 days) — flower weight averaged 97.3 g per plant, THC 21.9%, total terpenes 1.46–1.64%, no statistically significant differences; flower nitrogen 6.7% lower at 14 days with iron and zinc higher; extraction yield 18.2% (10-day) and 18.0% (14-day) versus 16.2% unflushed; blind panel found no significant differences — rxgreentechnologies.com (https://www.rxgreentechnologies.com/rxgt_trials/flushing-trial/)
+
+- Saloner, A., Sade, Y. & Bernstein, N., "To flush or not to flush: Does flushing the growing media affect cannabinoid and terpenoid production in cannabis?" Industrial Crops and Products 220:119157 (2024) — five cultivars, flushing versus feeding to harvest; terpenoid concentrations changed in 3% of samples and cannabinoid concentrations in 30%, with cannabinoid changes in both directions (five-cultivar results as summarized in the RX Green Technologies trial report above) — doi.org (https://doi.org/10.1016/j.indcrop.2024.119157)
+
+- Stemeroff, J., "Irrigation Management Strategies for Medical Cannabis in Controlled Environments," University of Guelph thesis (School of Environmental Sciences) — flushing "was found to be ineffective in removing any significant amount of nutrient from the bud" — atrium.lib.uoguelph.ca (https://atrium.lib.uoguelph.ca/xmlui/handle/10214/12125)
+
+- Malík, M., Hoffmannová, V. & Tlustoš, P., "Integrating Silicon into Fertigation Strategies for Cannabis Production: A Comprehensive Review," Agriculture 16:1522 (published July 15, 2026) — cannabis as an intermediate silicon accumulator; silicon suppressed powdery mildew with tissue Si up about 2.1-fold and inflorescence biomass about 1.2-fold, the yield effect marginally significant and silicon co-supplied with phosphite; no peer-reviewed study has isolated silicon's effect on cannabinoid or terpene biosynthesis under standardized flower-production conditions — mdpi.com (PDF) (https://mdpi-res.com/d_attachment/agriculture/agriculture-16-01522/article_deploy/agriculture-16-01522.pdf?version=1784104764)
+
+CannActuality briefs are market research and education for licensed cannabis vendors. They are not legal, medical, or investment advice, and they make no health or benefit claims about cannabis products. Figures are as reported by the cited publishers. Intended for adults 21+.
+
+---
+
+Source: https://cannactuality.com/briefs/post-harvest-drying-curing-2026.html
+
+Research Brief · Post-Harvest
+
+# Post-Harvest Science: Drying, Curing, and Water Activity
+
+Published November 9, 2026 · CannActuality Research Desk · For licensed vendors and product teams
+
+### Key takeaways
+
+- Drying is a chemical step, not just water removal — and it is chemovar-specific. In the Volcani Center controlled-atmosphere trials, a high-THCA chemovar lost 2–20% of its THCA across drying methods while a hybrid chemovar's THCA and CBDA stayed statistically flat under identical conditions (Birenboim et al., Plants, 2024). The same room, run the same way, does not produce the same result for every cultivar.
+
+- Water activity is the number the system grades. ASTM D8197 sets 0.55–0.65 aw for dry cannabis flower and NIST Handbook 130 carries 0.60 ± 0.05 — yet FTI Consulting's analysis of state laboratory data found all ten states' mean water activity below the range, with 75% of samples at or below the 0.55 floor in all but one state (ATACH, 2026). The industry's systematic error is over-drying, not under-drying.
+
+- Every accelerated or reordered step trades something measurable. Freeze-drying limited cannabinoid decarboxylation but stripped volatiles: 45 compounds measured lower than tray drying, 28 of them terpenes — including the four compounds that contribute up to half of cannabis aroma (Spadafora et al., 2024). Trim timing is the same kind of fork: mild wet trimming measured highest for cannabinoids, post-drying trimming highest for terpenes (Brikenstein et al., 2024).
+
+## Fresh flower is mostly water — and still chemically alive
+
+Freshly harvested inflorescence is 78–80% moisture (Spadafora et al., 2024), and the dry-cure sequence removes most of it: the Volcani trimming trial measured a weight loss of 75 ± 2.6% from harvest to finished flower (Brikenstein et al., 2024). What leaves is not only water. While the tissue stays moist, its own enzymes keep working. In Birenboim et al.'s drying trials (Plants, 2024), the precursor cannabinoid CBGA fell 42% in the high-THCA chemovar and 37% in the hybrid chemovar under open-air drying — with no corresponding rise in the THCA, CBDA or CBCA it normally feeds, a mass balance the authors could not close. Decarboxylation runs during drying too: in the high-THCA chemovar, neutral THC measured roughly 3.5 times its harvest-day level after open-air drying, and in the hybrid, THC and CBD measured about eight and three times harvest levels respectively under the same conditions. A long, uncontrolled dry is therefore not a pause between cultivation and product. It is a second, unmonitored production step.
+
+## Speed is a mold control: the controlled-atmosphere evidence
+
+The strongest head-to-head evidence comes from the Agricultural Research Organization's Volcani Center, which dried two commercial chemovars in controlled-atmosphere (CA) chambers — set gas composition, dry gases and desiccant — against traditional open-air drying (Birenboim et al., Plants, 2024). The CA lots reached stable dry weight in six days. The open-air lots had still not stabilized after 14 days: the high-THCA chemovar retained 45% more water than its CA-dried counterpart, and the hybrid 16% more, and both needed an extra day with desiccant to finish — a process the authors put at 2.5 times slower overall, before the two-to-three-week container cure traditional processing then adds. The extra days at high moisture were not benign. By day 12, roughly 80% of the traditionally dried high-THCA inflorescences were highly infested with Alternaria alternata, with low-level Botrytis cinerea also present; Alternaria counts ran one to two orders of magnitude above the CA-dried and fresh samples, and no visible mold was detected in any CA-dried lot. Chemistry tracked the same split: THCA in the high-THCA chemovar fell 2–20% depending on drying condition, worst under open air, while the hybrid chemovar's THCA and CBDA changed less than 10% — not statistically significant — under every condition including open air. Even the optimal gas mixture depended on the target: a 5% CO₂ / 5% O₂ / 90% N₂ atmosphere best preserved monoterpenes in both chemovars, while pure N₂ best preserved sesquiterpenes. The finding is not a recipe. It is that drying conditions are a chemovar-level specification.
+
+## Terpenes: the light compounds leave first, on a measured curve
+
+The reference decay curve is old and has never been contradicted. Ross and ElSohly measured terpene losses of 31.0% after one week, 44.8% after one month and 55.2% after three months in air-dried, stored inflorescence versus freshly harvested material (1996 measurements, reported in Bueno et al., Journal of Cannabis Research, 2020). The losses are not uniform across the profile. Monoterpenes — the lightest, most volatile fraction — go first: in Birenboim et al.'s trials, β-myrcene fell 3–20% during drying while α-pinene and d-limonene held stable, and sesquiterpene concentrations rose 20–50% in relative terms as water and monoterpenes left, lifting total measured terpenes roughly 25–30% on a dry-weight basis. A dried sample can therefore test "higher" in total terpenes than the fresh plant while smelling noticeably flatter: the ratio has shifted toward the heavy end. Heat steepens every part of this. Prior hot-air drying work reviewed by Birenboim et al. found monoterpene reductions of 38–95% against fresh inflorescence. The protocols in the studies that preserved chemistry ran cool: 15°C in the Volcani controlled-atmosphere chambers (Brikenstein et al., 2024), and 18–21°C at 50–55% relative humidity for about five days in Spadafora et al.'s traditional tray-drying protocol (2024). The decline continues after the dry: across four months of post-cure storage, THCA fell a further 4–23% depending on storage treatment, and monoterpenes degraded faster than sesquiterpenes throughout (Birenboim et al., Plants, 2024, storage trial).
+
+## Wet trim or dry trim is a measured fork, not a preference
+
+Trimming is usually argued from handling lore — fresh trichomes are less brittle, so trim wet; dry flower is easier to manicure, so trim dry. The Volcani group ran the comparison directly on a commercial hybrid chemovar (Brikenstein et al., Medical Cannabis and Cannabinoids, 2024): mild wet trimming (stems removed, sugar leaves cut halfway) before drying, aggressive wet trimming before drying, and trimming only after a six-day dry, all dried at 15°C to a final water content of 10% ± 1%. Mild pre-drying trimming produced the highest cannabinoid concentrations. Post-drying trimming produced the highest terpene content. The authors' conclusion is the operational one: optimizing for both at once appears difficult, so the trim decision is a prioritization decision — cannabinoid-led or aroma-led — and it belongs in the product specification, not in room habit.
+
+## The cure: equilibration under seal, with the decay clock running
+
+Curing, as the literature describes it, is the sealed-container phase after drying: inflorescences are held in containers that are periodically aired to release residual moisture, traditionally for two to three weeks, until moisture equalizes through the lot (Birenboim et al., 2024). Its purpose is equilibration, not further bulk drying — a lot that enters the cure unevenly exits it unevenly. The container evidence is thinner than the drying evidence, but Spadafora et al.'s six-month storage trial (18°C, 60% relative humidity) is directly relevant to cure and pack-out choices: flower stored in a sealed glass bottle retained its initial volatile profile better than flower in a closed high-density polyethylene box or on an open tray, though the glass-stored flower also showed more conversion of acidic cannabinoids to their neutral forms. Two disciplines follow. First, the cure endpoint should be set by measured equilibration — moisture and water activity stable across the lot — rather than by a fixed calendar, because every week in the cure sits on the Ross and ElSohly decay curve above. Second, "shelf life" has a working definition in this literature: the period over which the major cannabinoid holds at or above 95% of its post-dry concentration (Birenboim et al., 2024). Cure and storage conditions are what move a lot along that definition.
+
+## Water activity: where post-harvest becomes compliance
+
+Water activity (aw) measures the water available for microbial growth and chemical reactions — not the total water present, which is moisture content, a different number that correlates loosely and varies by cultivar and grind (ATACH, 2026). It is the metric the standards system adopted. ASTM D8197 specifies 0.55–0.65 aw for dry cannabis flower, ASTM D8196 sets the measurement practice, and NIST Handbook 130 carries the range as 0.60 ± 0.05 at the point flower is offered for sale or transferred. State cannabis regulators have adopted aw limits inconsistently, but licensed laboratories report the number on certificates of analysis across the major markets — which makes FTI Consulting's analysis for ATACH (2026) the best available picture of where the industry actually lands:
+
+ State (FTI analysis of lab data, via ATACH 2026)Median awMean awSamplesPeriod
+ Colorado0.410.4030,4732023
+ Missouri0.450.4318,6912023
+ Washington0.470.432,9172022
+ Michigan0.490.4846,3962022
+ Oregon0.510.5023,0932023
+
+All ten states in the analysis had mean water activity below the ASTM D8197 range; in all but one, 75% of samples tested at or below the 0.55 floor.
+
+The over-dry side of the window is an economic and quality problem before it is a compliance one. A pound of flower dried from 0.65 to 0.45 aw loses about 18 grams of sellable weight, and flower held at 0.65 aw measured higher terpene concentrations than flower at 0.45 aw in the Cannabis Research Coalition work ATACH cites. The under-dry side is the safety problem: risk of yeast and mold growth rises above 0.65, and Aspergillus — the genus behind most cannabis recalls — is reported to thrive at water activities of 0.83–0.99, far above a compliant cure but reachable inside a sealed, unevenly dried lot where pockets of flower never equilibrated. Between 2019 and 2025, 61% of Colorado Marijuana Enforcement Division health and safety advisories involved unsafe mold or yeast levels (30% named Aspergillus), and 67% of California's mandatory cannabis recalls between September 2024 and December 2025 cited Aspergillus (ATACH, 2026). Water activity control governs whether organisms present can grow; it does not remediate contamination a lot already carries — which is why the drying-room evidence above, where slow open-air drying multiplied Alternaria counts, and the aw evidence here are the same story told at two points in the process.
+
+## Freeze-drying and the other shortcuts
+
+Freeze-drying is the accelerated method with the most confident marketing and the clearest head-to-head result against it. The process freezes flower below −40°C and removes water by sublimation under vacuum, finishing in 24–48 hours (Spadafora et al., Analytical and Bioanalytical Chemistry, 2024). Against traditional tray drying, freeze-drying did preserve the cannabinoid side of the ledger — it limited decarboxylation of the acidic cannabinoids. But of 149 metabolites profiled, 45 measured significantly lower in freeze-dried flower, and 28 of the 45 were terpenes. The most affected compounds — β-myrcene, α-pinene, d-limonene and terpinolene — are, in the authors' accounting, responsible for up to 50% of the aroma of cannabis. The mechanism is physical: ice crystals damage the microstructure of the trichomes, and the volatiles they held escape under vacuum. The authors' conclusion is unusually direct — freeze-drying "does not represent an optimal alternative" where both cannabinoids and aroma compounds matter. Heat-driven acceleration fares no better in the literature Birenboim et al. review: hot-air, infrared and microwave drying cut drying time sharply, but one reviewed study measured reductions of more than 45% in CBDA, CBGA, total CBD and total cannabinoid content versus fresh inflorescence across all three methods. The accelerated approach with preservation evidence behind it is the controlled-atmosphere chamber: six days instead of fourteen-plus, no detected mold, and terpene preservation at or above harvest levels in the chemovars tested — at the cost of equipment and per-chemovar validation rather than chemistry.
+
+## How post-harvest variance becomes finished-product variance
+
+Read the studies together and the certificate of analysis stops looking like a property of the cultivar. The same genetics, dried two ways, produced THCA outcomes ranging from a 20% loss to no significant change, neutral-THC multiples from about 3.5× to 8× harvest levels, and terpene profiles rebalanced toward sesquiterpenes by double-digit percentages. A lot tested at pack-out and the same lot tested after three months of storage sit 55% apart on the terpene decay curve. Water activity at the lab ranged across state medians from 0.41 to 0.51 — all for flower sold under the same product category. None of that variance was created in the grow room. For product teams, the practical translation is that "the cultivar tests at X" is not a specification; the specification is the cultivar plus a defined dry, a defined cure endpoint, a defined aw at pack-out, and a defined time-to-test. Where any of those four is left to room practice, it re-enters the product as batch-to-batch variance that no downstream formulation step can remove.
+
+## What this means for product teams
+
+- Specify the drying endpoint in water activity, not days. Target the ASTM D8197 window of 0.55–0.65 aw, measured by the D8196 practice, at pack-out — and audit the distribution, not just the mean. FTI's state data (medians 0.41–0.51) shows what calendar-based drying produces at scale: systematic over-drying that costs roughly 18 g of sellable weight per pound between 0.65 and 0.45 aw, plus terpene content.
+
+- Validate the dry per chemovar before locking an SOP. Under identical conditions, one Volcani chemovar lost up to 20% of its THCA while another's major cannabinoids did not move significantly, and the best-performing gas mixture differed by compound class. Run harvest-day versus post-dry retention checks for each cultivar and treat the drying curve as part of the cultivar's specification sheet.
+
+- Treat trim timing as a formulation decision. In the only direct comparison, mild wet trimming measured highest for cannabinoid content and post-drying trimming highest for terpene content (Brikenstein et al., 2024). Decide per SKU which the product is — cannabinoid-led or aroma-led — and write the trim protocol to match, instead of running one house method for everything.
+
+- Price freeze-drying by what it actually buys. It buys 24–48-hour turnaround and preservation of acidic cannabinoid forms. It costs the volatile fraction — 28 terpenes measured lower, including compounds contributing up to half of aroma (Spadafora et al., 2024). That trade can be right for extraction-bound or acid-form product; for aroma-led flower, vendor retention claims are not what the head-to-head evidence found.
+
+- Set the cure endpoint by equilibration, then package like it matters. The cure's job is moisture equalization across the lot; sealed glass retained the volatile profile best over six months in Spadafora et al.'s storage trial, ahead of HDPE and open storage. Uneven lots sealed early are where localized high-aw pockets — and the Aspergillus risk that follows them — come from.
+
+- Write time-to-test into the product spec. Terpene content falls 31% in the first week and 55% by three months on the classic decay curve, and THCA fell a further 4–23% over four months of storage. A COA is a point on a curve: define when in the post-harvest timeline your label values are measured, and manage shelf life against the 95%-of-initial benchmark the preservation literature uses.
+
+### Sources
+
+- Birenboim, M., et al., “In Pursuit of Optimal Quality: Cultivar-Specific Drying Approaches for Medicinal Cannabis,” Plants 13(7):1049 (MDPI, April 8, 2024) — controlled-atmosphere vs open-air drying: six days to stable weight vs 14+ days, ~80% Alternaria infestation in traditionally dried high-THCA flower, THCA changes of −2 to −20% by condition, chemovar-specific optima — mdpi.com (https://www.mdpi.com/2223-7747/13/7/1049)
+
+- Brikenstein, N., et al., “Optimization of Trimming Techniques for Enhancing Cannabinoid and Terpene Content in Medical Cannabis Inflorescences,” Medical Cannabis and Cannabinoids 7(1):111–118 (Karger, June 27, 2024) — mild pre-drying trim highest in cannabinoids, post-drying trim highest in terpenes; 15°C drying to 10% ± 1% final water content; 75 ± 2.6% harvest weight loss — pmc.ncbi.nlm.nih.gov (https://pmc.ncbi.nlm.nih.gov/articles/PMC11249524/)
+
+- Birenboim, M., et al., “Improved Long-Term Preservation of Cannabis Inflorescence by Utilizing Integrated Pre-Harvest Hexanoic Acid Treatment and Optimal Post-Harvest Storage Conditions,” Plants 13(7):992 (MDPI, April 2024) — THCA decline of 4–23% over four months of storage by treatment; monoterpenes degrading faster than sesquiterpenes; shelf life defined at ≥95% of initial major cannabinoid — pmc.ncbi.nlm.nih.gov (https://pmc.ncbi.nlm.nih.gov/articles/PMC11013627/)
+
+- Spadafora, N. D., et al., “The influence of drying and storage conditions on the volatilome and cannabinoid content of Cannabis sativa L. inflorescences,” Analytical and Bioanalytical Chemistry (Springer, 2024; doi:10.1007/s00216-024-05321-w) — tray drying at 18–21°C and 50–55% RH vs freeze-drying below −40°C: 45 compounds lower after freeze-drying, 28 of them terpenes; glass-bottle storage best retained the volatile profile over six months — iris.unife.it (PDF) (https://iris.unife.it/retrieve/2f769ec5-9db2-486d-bd2a-1c4966a8dbed/51%20Spadafora%20et%20al%20ABC%202024.pdf)
+
+- Bueno, J., et al., “The preservation and augmentation of volatile terpenes in cannabis inflorescence,” Journal of Cannabis Research 2:27 (2020), reporting Ross & ElSohly's 1996 measurements of terpene loss in air-dried, stored inflorescence: 31.0% at one week, 44.8% at one month, 55.2% at three months vs fresh — link.springer.com (https://link.springer.com/article/10.1186/s42238-020-00035-z)
+
+- American Trade Association for Cannabis and Hemp (ATACH) with FTI Consulting, “Standards in Practice: Water Activity and Moisture Control in Cannabis Products” (2026) — ASTM D8197 range of 0.55–0.65 aw and D8196 measurement practice; NIST Handbook 130 at 0.60 ± 0.05; FTI analysis of state laboratory data (all ten state means below the range); ~18 g per pound between 0.65 and 0.45 aw; Colorado advisory and California recall shares for mold/yeast and Aspergillus — atach.org (PDF) (https://www.atach.org/s/ATACH-Standards-in-Practice-Water-Activity-Report-2026.pdf)
+
+CannActuality briefs are market research and education for licensed cannabis vendors. They are not legal, medical, or investment advice, and they make no health or benefit claims about cannabis products. Figures are as reported by the cited publishers. Intended for adults 21+.
+
+---
+
+Source: https://cannactuality.com/briefs/pre-roll-architecture-2026.html
+
+Research Brief · Category Deep-Dive
+
+# Pre-roll Architecture 2026: Singles, Multi-Packs, and the Infused Tier
+
+Published November 2, 2026 · CannActuality Research Desk · For licensed vendors and product teams
+
+### Key takeaways
+
+- Pre-rolls are now the top US cannabis category by units and still the fastest-growing major category: $4.4 billion in the 12 months ending July 2026, up 13% year over year, for 14% of all cannabis retail dollars (BDSA).
+
+- The 1-gram single is still the largest single format — 29% of pre-roll dollars in BDSA tracking — but it is flat. Growth is in multi-packs: five-packs, ten-packs and larger formats grew 18% to 55% year over year, and 90 of the top 100 products in Headset 2025 data were multi-packs (Custom Cones USA).
+
+- Infused has crossed the line from premium add-on to category centre: infused passed uninfused in dollars for the first time, has held more than 50% of pre-roll dollars every month since October 2025, and reached 64% of California pre-roll dollars and 71% in Michigan in July 2026 (BDSA).
+
+- The architecture that matches the data is a three-rung ladder — a 1-gram single for trial and volume, a 0.5-gram five-pack (2.5 grams total) as the core repeat format, and an infused version of that same pack architecture as the premium tier — not a scatter of unrelated sizes.
+
+## The category in one view
+
+Two independent trackers tell the same story at different windows. Custom Cones USA's 2026 State of the Pre-Roll Market report, built on Headset point-of-sale data from 15 states, put 2025 pre-roll sales at $3.6 billion across 383.2 million units — a 15.9% market share, revenue up 9.8% and units up 18.6% while the broader market grew 1.5%. BDSA's more recent window, the 12 months ending July 2026, puts the category at $4.4 billion, up 13%, and the fastest-growing major category ahead of vapor pens at 6%. Revenue has more than doubled since 2021 in the Headset series. This is not a niche format decision any more; for most licensed brands, pre-roll architecture is the portfolio.
+
+The category is also unusually open: more than 7,100 distinct brands recorded pre-roll sales in BDSA's 12-month window, and the top 10 brands together account for only about 21% of dollars. Format fit can still beat scale — a point Headset's California data makes independently, below.
+
+## Rung 1: the 1-gram single still anchors the line
+
+Start with the single, because the data does. In BDSA tracking the single 1-gram remains the largest format in the category at 29% of all pre-roll dollars ($1.25 billion in the 12 months ending July 2026). Custom Cones USA reaches the same conclusion in the 2025 Headset data: the 1-gram single was the top-selling individual product format at $1.44 billion, and the 1-gram package size moved nearly 210 million units through the first 10 months of 2025.
+
+Its role, however, has changed. BDSA splits that 1-gram single into an uninfused portion that was flat year over year and an infused portion that grew 9% — in other words, the single holds its ground as the trial and entry format, but it is not where incremental dollars are coming from. A line without a credible 1-gram single has no front door; a line that is only a 1-gram single is standing still in a category growing at double digits.
+
+Underneath the single, the volume segment is single-strain hybrid: 175.6 million units and $1.3 billion in revenue in 2025, the unit leader for the fifth consecutive year in Headset data, with infused second in units at 144.6 million. Together, hybrid single-strain and infused account for more than 84% of category revenue and nearly 84% of units. That concentration is the brief's central constraint: variety beyond those two segments is assortment breadth, not the core business.
+
+## Rung 2: multi-packs are the growth engine
+
+If the single is the anchor, the multi-pack is the engine. In the 2025 Headset data, multi-packs reached 48.5% of pre-roll products — up from 46.8% in 2024 and 37.7% in 2021 — accounted for 90 of the top 100 products (up from 78 in 2024), and, for the first time, made up more than half of the 63,552 new pre-roll products launched in 2025. Among manufacturers surveyed by Custom Cones USA, 72.4% said they sell multi-packs, with five-packs the most common configuration.
+
+BDSA's 2026 window shows the same shift in dollars, not just SKU counts:
+
+ Format (BDSA, 12 months ending July 2026)SalesShare / growth
+ Single 1-gram$1.25 billion29% of pre-roll dollars; uninfused portion flat, infused portion up 9%
+ 5-pack of 0.5-gram (2.5 grams total)$683 million16% of pre-roll dollars; infused portion up 23%, uninfused up 18%
+ 5-pack of 0.7-gram, infusedAbout $87 millionUp 44% year over year
+ 10-pack of 0.35-gram, uninfusedAbout $60 millionUp 55% year over year
+ 14-pack of 0.5-gram, uninfusedAbout $53 millionUp 29% year over year
+
+The 2.5-gram five-pack deserves its status as the default core format. It leads the multi-pack field in both trackers: $612 million and 17.2% of total pre-roll revenue on nearly 24 million units in the 2025 Headset data — across 9,817 distinct products in that one configuration — and the second-largest format overall in BDSA's 2026 window. Half-gram units inside a five-pack are the repeatable unit of the category; the even smaller 70mm, roughly 0.3-gram “dogwalker” format is the other established building block, sold primarily in multi-packs and growing as the small-format end of the same ladder.
+
+California confirms the direction at state level. Headset's January–August 2026 California data puts multi-packs at 65% of pre-roll category dollars in the state, with multi-pack units up 10.2% — nearly double the growth rate of singles — in a period when California pre-roll overall grew 7.3% in units and 4.5% in dollars. In the largest US market, the multi-pack is no longer the challenger format; it is the majority format.
+
+## Rung 3: where the infused tier starts
+
+An infused pre-roll combines flower with a concentrate in the same product. The question product teams actually face is not whether to have an infused tier, but where it starts — and the data now gives a clear answer: it starts at the category's centre, not at its edge.
+
+In the 2025 Headset data, infused generated $1.68 billion, or 47% of category revenue, up from $1.44 billion the year before, with the fastest growth in the category — units up 27.8% and revenue up 16.4%. In BDSA's window ending July 2026, infused then passed uninfused outright at $2.22 billion versus $2.15 billion, growing 17% against 10% for uninfused, after crossing 50% of pre-roll dollars in October 2025 and holding above it every month since. BDSA also reports that brands selling infused generated about 41% more monthly revenue per brand than brands selling uninfused in July 2026, from a smaller competitive field.
+
+Geography sets the ceiling and the pace. Infused share of state pre-roll dollars in July 2026 was 71% in Michigan, 69% in Arizona, and 64% in California, with BDSA noting Michigan has held near that level for a year — suggesting a practical ceiling near 70% in mature markets. Newer markets are converging quickly: New York moved from 45% to 54% infused share and Illinois from 41% to 50% in the same BDSA window. A brand entering a mature market without an infused offer is entering without the majority segment; a brand entering a newer market should expect the infused share to arrive during its first planning cycles, not after them.
+
+Inside infused, type is the differentiation decision. Among classified infusion types in BDSA's 12-month window, diamonds are by far the largest at $699 million, up 34%, for 42% of classified infused dollars. The faster growth is in live and solventless-leaning types from smaller bases: live resin up 49% to $96 million (about 6% of classified infused dollars) and rosin up 36% to $88 million. The pattern for product teams is therefore split: diamonds are the proven volume type today; live resin and rosin are where premium differentiation is being built, at roughly one-seventh of diamonds' current scale.
+
+Two cautions belong in the same section. First, premium is compressing: on an equivalised per-gram basis, BDSA measured infused pricing down 9.5% year over year against 6.4% for uninfused, with Michigan, Arizona and Nevada each down about 27% — so an infused tier built only on a price premium, with no format or type distinction, is building on a shrinking gap. Second, California diverged in early 2026: Headset's January–August data shows non-infused pre-roll growing 10.6% in California against 0.5% for infused. Nationally infused leads; in the most mature market, the uninfused multi-pack had the stronger recent run. State-level data, not the national headline, should set the mix in each market.
+
+## What this means for product teams
+
+- Build three rungs, in this order. (1) A 1-gram single — the largest format at 29% of dollars and the category's trial door. (2) A 2.5-gram five-pack of 0.5-gram units — the proven core repeat format in both Headset and BDSA data. (3) An infused version built on that same pack architecture — the segment that now holds more than half of category dollars. Launching the infused tier in an unrelated size forces buyers to learn a new format and a new tier at the same time.
+
+- Keep the small-format option inside the multi-pack, not beside it. The fastest-growing smaller configurations are packs of small units — the 10-pack of 0.35-gram units up 55% is the clearest example — rather than new standalone singles. Use 0.35- to 0.5-gram units as pack building blocks.
+
+- Decide pack count before strain breadth. Multi-packs are 48.5% of products, 90 of the top 100 sellers, and 65% of California pre-roll dollars, while hybrid single-strain and infused together are over 84% of the category. Depth in those two segments and the core pack formats earns more than a long tail of additional segments.
+
+- Place the infused tier by state, not by national average. At 71% infused share Michigan and 64% California are infused-majority markets; markets crossing 50% this year, such as New York and Illinois in BDSA data, are mid-transition. Match the infused share of your launch portfolio to the state you are actually entering, and re-check it each cycle — California's early-2026 non-infused outperformance shows the mix can move the other way locally.
+
+- Give the infused tier a type story, not just a tier label. Diamonds carry proven scale (42% of classified infused dollars); live resin (+49%) and rosin (+36%) carry the growth. A credible premium tier names its infusion type and holds it consistent across the single and the five-pack.
+
+- Plan for compression in the premium rung. With equivalised infused pricing down 9.5% nationally and about 27% in three states in BDSA data, the business case for an infused SKU should survive a lower premium than today's — through pack economics and repeat format fit, not through holding a price gap the market is closing.
+
+- Use the forecast as context, not as a launch case. Custom Cones USA projects, on what it calls a conservative estimate, category revenue of $3.8–$4.0 billion in 2026 and more than $5.2 billion by 2030. Treat that as the direction of travel; size your own launch on your state's format and infused shares above.
+
+### Partner resource — production equipment
+
+The pack ladder above is a production problem as much as a product one: singles, multi-packs, and infused runs at volume need consistent grinding, filling, and closing. STM Canna (https://stmcanna.com) builds pre-roll automation equipment — the RocketBox line — for manufacturers scaling exactly those formats. CannActuality may earn a referral commission if you become a customer, at no cost to you; see our Disclosure (../disclosure.html).
+
+### Sources
+
+- Custom Cones USA, “State of the Pre-Roll Market 2026” (2026), reporting Headset point-of-sale data for 2025 from 15 states and a survey of more than 125 pre-roll operators — customconesusa.com (https://customconesusa.com/pre-roll-expert-blog/pre-roll-reports/?utm_source=website&utm_medium=white_paper&utm_id=wp_newsletter)
+
+- BDSA, “Cannabis Pre-Roll Trends 2026” (published September 16, 2026), reporting BDSA Retail Sales Tracking for the 12 months ending July 2026 — bdsa.com (https://bdsa.com/cannabis-pre-roll-trends/)
+
+- Headset, “California Market Overview 2026: Signals From a Shifting Market,” presented by Mitchell Laferla at IgniteIt Market Spotlight: California, October 7, 2026, reporting Headset point-of-sale data for January–August 2026 — headset.io (https://www.headset.io/blog/mitchell-laferla-igniteit-california-recap-2026)
+
+- Cannabis Industry Journal, “Move Over Flower, Pre-roll is King” (2026), reporting the Custom Cones USA 2026 report and Headset 2025 data — cannabisindustryjournal.com (https://cannabisindustryjournal.com/column/move-over-flower-pre-roll-is-king/)
+
+- Custom Cones USA, “Pre-Roll Packaging Trends: The Rise of the Pre-Roll Multi-Pack” (2026), reporting Headset data in the Custom Cones USA 2026 report — customconesusa.com (https://customconesusa.com/pre-roll-expert-blog/pre-roll-packaging/a-rise-in-preroll-multipacks/)
+
+- Custom Cones USA, “Pre-Roll Trends Heading Into 2026” (2026), reporting Headset data through the first 10 months of 2025 — customconesusa.com (https://customconesusa.com/pre-roll-expert-blog/pre-roll-reports/preroll-trends-in-2026/)
+
+CannActuality briefs are market research and education for licensed cannabis vendors. They are not legal, medical, or investment advice, and they make no health or benefit claims about cannabis products. Figures are as reported by the cited publishers. Intended for adults 21+.
+
+---
+
+Source: https://cannactuality.com/briefs/regulatory-watch-2026-10.html
+
+Research Brief · Regulatory Watch
+
+# Regulatory Watch: Two Federal Clocks and California's Hemp Integration
+
+Published October 29, 2026 · Status verified as of October 29, 2026 · CannActuality Research Desk
+
+### Key takeaways
+
+- Already in force: DEA's April 23, 2026 final order placed FDA-approved marijuana products and marijuana under qualifying state medical licenses into Schedule III, with a federal registration pathway. Adult-use marijuana remains Schedule I under federal law.
+
+- Paused: The broader rulemaking to move all marijuana to Schedule III was stayed on September 29, 2026, while the DEA's chief administrative law judge weighs a GAO report. There is no decision date.
+
+- November 12, 2026: Cannabinoids the cannabis plant cannot naturally produce lose federal hemp status.
+
+- December 11, 2026: The rest of the federal hemp redefinition takes effect — a 0.3% total-THC (including THCA) plant standard and a 0.4 mg total-THC cap per finished container — ending the federal basis for today's intoxicating hemp market.
+
+- California: AB 8's interim rules have applied since January 1, 2026 (intoxicating hemp only through licensed channels; hemp flower and pre-rolls banned; 15% excise tax extended to hemp products). Full integration into the licensed framework lands January 1, 2028.
+
+## Federal clock one: rescheduling split in two
+
+2026 divided federal marijuana policy into a finished piece and an unfinished one. The finished piece: on April 23, 2026, DEA issued a final order under 21 U.S.C. § 811(d)(1) placing three categories into Schedule III — marijuana within an FDA-approved product; marijuana cultivated and sold under qualifying state medical marijuana licenses; and covered extracts and naturally derived delta-9 THC tied to those channels. The order creates a federal registration pathway (21 C.F.R. § 1301.13(k)) with an expedited six-month review in which a qualifying state medical license is treated as conclusive evidence of authorization. DEA stated expressly that marijuana outside those channels — including all state adult-use activity — remains a Schedule I controlled substance, and that hemp and synthetically derived THC fall outside the order. Whether registered medical operators are also relieved of Internal Revenue Code § 280E deduction limits is flagged as unresolved by the order's own text; DEA and Treasury signals point in different directions, and operators are being advised to take tax counsel before booking the benefit.
+
+The unfinished piece: the general rulemaking to move all marijuana from Schedule I to Schedule III. Following Executive Order 14370 (December 2025) directing DOJ to complete the process expeditiously, DEA held merits hearings from June 29 to July 15, 2026. On September 29, 2026, Chief Administrative Law Judge Derek C. Julius stayed the proceedings while he considers admitting a September 23, 2026 GAO report (GAO-26-108623) on federal drug-scheduling process into the record. The government's response was due October 13, 2026; the ALJ must still decide on admission and briefing before any recommendation issues, and no final-rule date exists. A stay is a pause, not a ruling against rescheduling — but roadmaps that assume a completion date are assuming something no source supports.
+
+## Federal clock two: the hemp redefinition
+
+Section 781 of Public Law 119-37 (signed November 12, 2025) rewrote the federal definition of hemp. Three changes do the work: the 0.3% plant threshold now counts total THC, including THCA; cannabinoids that are synthesized or cannot be naturally produced by the plant are excluded from hemp entirely; and finished hemp products are capped at 0.4 mg of total THC per container — a level no intoxicating gummy, beverage, or flower product on the market meets. Products outside the new definition are marijuana under the Controlled Substances Act.
+
+The effective dates split in two. Under the original law, everything landed November 12, 2026. The Continuing Appropriations and Extensions Act, 2027 (Public Law 119-103, signed September 2, 2026) moved the main body of the redefinition to December 11, 2026, while the exclusion for non-naturally-producible cannabinoids still takes effect November 12, 2026. As of September 28, 2026, FDA had not yet published the list of naturally occurring and THC-class cannabinoids the law directed it to issue. Bills to delay, repeal, or replace the redefinition with a regulatory framework were pending in committee as of October 2026 — none had passed. State-licensed medical and adult-use programs are not changed by the hemp law; what ends is the unlicensed federal channel.
+
+## California: AB 8 integration is already running
+
+California moved first. AB 8 (signed October 2, 2025) phases hemp-derived cannabinoids into the licensed cannabis framework. Interim provisions effective January 1, 2026 prohibit intoxicating hemp sales outside licensed channels, ban hemp flower and pre-rolls outright, extend the state's 15% cannabis excise tax to hemp products, and bar tobacco retailers from selling cannabis or hemp products. On January 1, 2028, full integration takes effect: intoxicating hemp products must move through state-licensed channels with full MAUCRSA compliance — licensing, testing, track-and-trace, and age verification. Separately, the cannabis excise tax rate sits at 15% from October 1, 2025 through June 30, 2028 (set by AB 564), giving licensed operators a stable — if still substantial — tax assumption for 2026–2027 planning. The Governor's 2026-27 budget funds DCC and CDTFA enforcement of the hemp integration, which is the practical signal that the interim rules are being policed, not parked.
+
+## What this means for product teams
+
+- Split your portfolio by legal channel today. Every SKU should be tagged: state-licensed cannabis, state-licensed medical, or hemp-derived unlicensed. The third tag has a federal end date of December 11, 2026 (November 12 for synthetic-cannabinoid products).
+
+- Hemp brands: choose the licensed conversion or the exit, now. Reformulating under a 0.4 mg/container cap is not a viable path for intoxicating products. The real options are migration into state licensed channels — in California, under AB 8's framework — or an orderly wind-down of affected SKUs.
+
+- Medical-channel operators: evaluate DEA registration. The April 2026 order's registration pathway and the possible § 280E change are material to product economics — but treat the tax benefit as unconfirmed until Treasury guidance lands, and model both outcomes.
+
+- Do not schedule launches against broad rescheduling. The proceeding is stayed with no decision date. Rescheduling is a scenario to plan for, not a milestone to plan around.
+
+- California roadmaps: design for MAUCRSA from the start. New hemp-derived products aimed at California should be developed to licensed-channel standards — testing, track-and-trace, packaging, age-gated retail — because that is the only channel the state is leaving open, with enforcement funded.
+
+### Sources
+
+- Troutman Pepper Locke, Regulatory Oversight, “Pending Marijuana Rescheduling Put on Hold,” October 5, 2026 — regulatoryoversight.com (https://www.regulatoryoversight.com/2026/10/pending-marijuana-rescheduling-put-on-hold/)
+
+- Dickinson Wright PLLC, client alert, “DEA Final Order Creates Federal Pathway for Medical Marijuana,” 2026 (April 23, 2026 final order; 21 C.F.R. § 1301.13(k); § 280E ambiguity) — dwlaw.com (https://www.dwlaw.com/news-alerts/client-alert-federal-pathway-for-medical-marijuana)
+
+- Foley Hoag LLP, Cannabis and the Law blog, “A Temporary Reprieve for Hemp-THC Products… But What Now?”, September 2026 (P.L. 119-37 § 781; H.R. 6500 / P.L. 119-103 moving the main effective date to December 11, 2026) — foleyhoag.com (https://foleyhoag.com/news-and-insights/blogs/cannabis-and-the-law/2026/september/a-temporary-reprieve-for-hemp-thc-products%E2%80%A6-but-what-now/)
+
+- Shay Gilmore Law, “California Cannabis M&A in 2026: Rescheduling Momentum, Hemp Bans, and State Integration Collide,” updated October 7, 2026 (AB 8 interim provisions; FDA cannabinoid list status as of September 28, 2026) — shaygilmorelaw.com (https://shaygilmorelaw.com/california-cannabis-ma-2026-rescheduling-momentum-hemp-bans-state-integration-collide/)
+
+- State of California, Governor's Budget Summary 2026-27, General Government chapter (15% excise tax October 1, 2025–June 30, 2028; AB 8 enforcement funding) — budget summary (PDF mirror) (https://us.list-manage.com/10IRcrelC6x?e=ad974c4bf8&c2id=d413becc102531d8f67a44f85f1cd163)
+
+This brief is regulatory reporting and education for licensed cannabis vendors, current as of its publication date. It is not legal advice; cannabis law is changing on the timelines described above, and product decisions with legal exposure should be reviewed with qualified counsel in the relevant jurisdiction. CannActuality makes no health or benefit claims about cannabis products. Intended for adults 21+.
+
+---
+
+Source: https://cannactuality.com/briefs/terpene-preservation-packaging-2026.html
+
+Research Brief · Product Development
+
+# Terpene Preservation: Packaging, Storage, and Shelf Life
+
+Published November 9, 2026 · CannActuality Research Desk · For licensed vendors and product teams
+
+### Key takeaways
+
+- Terpenes are the shelf-life-limiting fraction of dried flower. Losses start during drying and curing — d-limonene and β-myrcene fell 21–48% by day six in one controlled trial — and in a year-long storage study, significant terpene declines appeared by month four at every temperature tested, while cannabinoids degraded more slowly.
+
+- Packaging is a barrier decision. In a six-month head-to-head, brown glass best preserved the volatile profile while a high-density polyethylene box aged flower much like open air, and vacuum storage protected compounds that air storage lost. The variable is gas permeation through the container, not the flower.
+
+- Dates need data behind them. ASTM D8197-22 fixes the water-activity window for dry flower at 0.55–0.65, and stability testing — cannabinoids, a terpene panel, water activity and microbials, run in the final retail pack at long-term and accelerated conditions — is what turns a packaged date into a defensible expiry date.
+
+## Losses start before the package is sealed
+
+Terpenes are the most fragile fraction of dried flower, and the clock starts earlier than most shelf-life plans assume. In Birenboim and colleagues' controlled storage trial (Plants, 2024), the drying and curing step alone reduced d-limonene and β-myrcene by 21–48% by day six — before any packaging decision had been made. Milay and colleagues (Frontiers in Plant Science, 2020), tracking two chemovars for a full year, found terpenoid concentrations decreased under every condition tested, with significant α-pinene and β-caryophyllene declines already visible at four months. Cannabinoids moved more slowly: THCA fell about 33% over a full year at 25 °C in their THC-rich chemovar. The practical consequence: a product's aroma profile — the attribute that differentiates one SKU from the next — runs on a faster clock than its potency number, and a shelf-life plan that tracks only cannabinoids overstates how long the product stays itself.
+
+Spadafora and colleagues (2024) found freeze drying best preserved cannabinoid content but lost volatiles, while tray drying best preserved the volatile profile; no route maximized both.
+
+## Degradation kinetics: every terpene keeps its own schedule
+
+The most granular evidence is Raeber and colleagues' stability study (Phytochemical Analysis, 2025), which quantified 29 terpenes in standards, extracts and flower under ultraviolet light and heat stress. Each compound degraded at its own rate, into its own products — there is no single "terpene half-life" to design against. α-Terpinene was the most fragile compound tracked: it degraded completely within 72 hours of stress exposure. Myrcene degraded rapidly, and UV exposure converted it into other monoterpenes, including α-pinene, β-pinene and p-cymene. The sesquiterpene β-caryophyllene was nearly completely degraded after 400 hours of UV exposure.
+
+The drivers differ by compound, which is why single-lever fixes disappoint. Raeber found γ-terpinene's degradation was driven mainly by light — light protection specifically improved its stability — while α-terpinene's was driven mainly by temperature. Limonene was more stable against heat and UV than the terpinenes — though Birenboim's drying losses show stress stability is not the same as retention through processing — and oxygenated terpenes were comparatively stable overall. One compound accumulates as the others fall: p-cymene, a major product of terpene aging in Raeber's analysis, functions as a chemical marker of an aged profile.
+
+Birenboim's four-month storage trial shows the same ordering at a real-world pace: monoterpenes fell 19–51% across every storage group, most sesquiterpenes stayed broadly stable, and β-caryophyllene fell 15–22% only in air — under vacuum it held. Temperature multiplies all of it: Milay and colleagues cite the storage-literature rule of thumb that degradation rate roughly doubles with every 10 °C increase.
+
+A discipline note on the stress data: Raeber's hour-and-day figures come from accelerated UV and heat exposure designed to rank vulnerability, not from ambient shelf storage. They tell a product team which compounds to monitor and which stressor to design against; they do not print an expiry date. The storage trials supply the calendar.
+
+ CompoundWhat the cited studies found
+ α-TerpineneCompletely degraded within 72 h under accelerated UV/heat stress (Raeber 2025)
+ Myrcene (β-myrcene)Down 21–48% during drying and curing alone; down 19–51% over four months of storage in all groups (Birenboim 2024)
+ β-CaryophylleneNearly completely degraded after 400 h of UV stress; fell 15–22% over four months in air storage, but not under vacuum (Raeber 2025; Birenboim 2024)
+ β-Pinene75% remaining after 18 days of UV stress, against 94% for α-pinene (Raeber 2025)
+ Sesquiterpenes (α-humulene, guaiol, eudesmols)Broadly stable across four months of storage (Birenboim 2024)
+
+Stress-test figures are accelerated-exposure results, not ambient shelf-life timelines.
+
+## Storage temperature: cool helps; deep-freezing does not
+
+Milay and colleagues stored whole and ground flower in the dark at 25, 4, −30 and −80 °C for a year. Room temperature was the most unfavourable condition across compounds. The surprise sits at the cold end: over the first four months, −80 °C produced the greatest terpenoid decline of any condition, and the authors conclude that temperatures below −20 °C are among the least favourable for terpene stability. Their optimum was whole inflorescences at 4 °C — refrigeration, not freezing. Physical form mattered as much: ground flower carried lower terpenoid concentrations than whole flower under every condition, and grinding before storage accelerated decomposition, worst at 25 °C. The readings are direct: mill as late as the process allows, store cool, and do not assume a freezer is an aroma-preservation strategy.
+
+## Packaging materials: specify the barrier, not the material name
+
+The cleanest packaging comparison in the literature is Spadafora and colleagues' six-month trial: hemp inflorescences stored in darkness at 18 °C and 60% relative humidity, split three ways — an open tray, a closed high-density polyethylene (HDPE) box, and a closed brown glass bottle. Glass best retained the initial volatile profile. The HDPE box and the open tray produced very similar volatile patterns, which the authors read as evidence that oxidation reactions are favoured in both relative to glass: plastics are permeable to gases, so a closed plastic box is not a sealed system the way glass is. Birenboim's trial points the same direction — its reference arm, flower sealed in polyethylene packages in air, was the worst performer in the study: the only group in which α- and β-pinene fell (13–14%), and the group with the deepest THCA losses over four months.
+
+Permeation is only half of the plastic question. Packaging science also documents absorption — aroma compounds partitioning into the polymer itself, or "scalping" — which the cannabis studies reviewed here did not quantify; it is a second, qualitative reason the same flower ages differently in different containers. Glass carries its own trade-off: in Spadafora's data its samples kept volatiles best but showed more conversion of acid cannabinoids to their neutral forms over the six months. The specification that follows is a performance one — an oxygen and light barrier, verified in the finished container — rather than a material name. Where glass is impractical in a retail supply chain, high-barrier laminate films are the usual engineering answer, held to the same retention evidence.
+
+## Oxygen exclusion: what vacuum proved, and where nitrogen fits
+
+Birenboim's vacuum arms are the strongest controlled evidence that headspace oxygen is a controllable variable. β-Caryophyllene's 15–22% decline appeared only in the air-stored groups, and the trial's only arm to meet a 95% THCA-retention shelf-life bar at four months combined a pre-harvest treatment with vacuum storage; every other group finished at 77–90% retention and counted as expired under that definition. Nitrogen flushing and modified-atmosphere packaging apply the same principle at pack-out: displace the oxygen before sealing rather than remove the air. In the cannabis-specific literature reviewed for this brief, the tested intervention is vacuum and sealed storage rather than nitrogen itself, so claims for nitrogen systems are best treated as engineering extrapolations of the vacuum result — directionally supported, and worth verifying with a team's own retention pulls rather than a brochure figure. Either way, the benefit lives and dies with seal integrity — a flushed pack with a leaking seal is an air pack with extra steps.
+
+## Humidity packs: buffering a specified window
+
+Moisture is the one variable with a consensus specification. ASTM D8197-22 sets the water activity (aw) range for dry cannabis flower at 0.55 to 0.65: below 0.65 to guard against undesirable growth of microorganisms such as mould, above 0.55 to guard against physical damage such as breakage in routine handling — and if aw exceeds 0.68, further drying is required. The standard itself names the humidity pack's mechanism: co-storage with a salt-based aw (relative humidity) control sachet designed to maintain RH between 0.55 and 0.65 can bring flower into the specified range and maintain optimum storage conditions in sealed containers.
+
+The trade-offs follow from what a sachet is. It buffers in both directions but has finite capacity; it cannot rescue flower packaged above the window — that flower needs drying, per the standard, not a larger pack. It works only inside a sealed container whose barrier holds the humidity in; in a permeable pack, the sachet is fighting the container. And it addresses moisture alone: oxygen, light and heat degrade terpenes on their own schedules regardless of humidity. Humidity control is a microbial-safety and product-integrity specification first; terpene retention still has to be engineered separately.
+
+## Retail and display: the last stress test
+
+ASTM D8197-22's range is specified to hold "throughout the supply chain from completion of drying through merchandising" — retail is inside the specification, not after it. The display environment is also where the laboratory stress conditions reappear in mild form: Raeber's work shows what sustained light does to the most light-sensitive compounds (γ-terpinene's degradation was light-driven; β-caryophyllene was nearly eliminated under sustained UV exposure), and display lighting plus case heat supply low doses of both stressors for weeks at a time. The specifications are unglamorous: opaque or UV-limiting packaging for anything displayed, sealed display units rather than open product, first-in-first-out rotation by packaged date, and back-stock held cool and dark rather than beside the lit cases.
+
+## Shelf-life testing: what to specify before printing a date
+
+Start by defining the endpoint numerically. Birenboim and colleagues adopted the European drug-substance convention — shelf life ends when a major cannabinoid falls below 95% of its initial level — and under that bar, most of their storage arms expired inside four months. A terpene-based endpoint would be stricter still, because the terpene fraction moves first: Milay measured significant terpene losses by month four at every temperature, including refrigeration. A defensible house standard specifies both endpoints — a cannabinoid retention floor and a terpene-profile retention floor — each measured, not modelled.
+
+The regulatory frame differs by market. In Canada, the packaged date is mandatory on the label and an expiry date is not required under the Cannabis Regulations — but a producer that prints one must be able to substantiate it with shelf-life stability data. Stability programs run on the standard pharmaceutical conditions described by CAL Laboratories: long-term at 25 °C ± 2 °C / 60% RH ± 5%, intermediate at 30 °C / 65% RH, and accelerated at 40 °C / 75% RH. US state programs layer their own expiration or use-by dating rules on top.
+
+Three protocol choices decide whether the data holds up. Test in the final retail container — Spadafora's result means stability data from a bulk bin does not transfer to a permeable retail pack. Pull samples at intervals that bracket the intended date, not after it. And set the panel at each pull to cover what actually fails: cannabinoids, a terpene panel built around the SKU's signature compounds including the fragile ones (myrcene, the terpinenes, β-caryophyllene), water activity measured per ASTM D8196 against the D8197-22 window, and microbials. Print only the date the weakest measured attribute supports.
+
+## What this means for product teams
+
+- Set the date from the terpene data, not the potency data. Terpenes degrade faster than cannabinoids in every study reviewed — losses during drying and curing alone reached 21–48% for d-limonene and β-myrcene, and significant terpene declines appeared by month four at every storage temperature. A potency-only stability protocol systematically overstates shelf life.
+
+- Specify barrier performance, and verify it in the finished container. In the six-month head-to-head, brown glass retained the volatile profile best while an HDPE box aged flower much like open air. Whatever the format — glass, high-barrier film, sealed tin — require oxygen- and light-barrier evidence for the finished pack, not the raw material.
+
+- Build oxygen exclusion into pack-out. Vacuum storage protected β-caryophyllene and produced the trial's only arm meeting a 95% THCA-retention bar at four months. Nitrogen flushing applies the same oxygen-displacement principle; whichever system is chosen, validate it with retention pulls and seal-integrity checks rather than vendor figures.
+
+- Hold water activity at 0.55–0.65, and use humidity packs as buffers, not fixes. That is the ASTM D8197-22 window, maintained throughout the supply chain through merchandising. Flower above 0.68 aw needs drying before packaging; a salt-based RH sachet then maintains the range inside a sealed, barrier-intact container. It does not slow oxidation, light damage or heat.
+
+- Store cool, whole and dark — and skip the deep freeze. The year-long temperature trial favoured whole flower at 4 °C, found 25 °C the most damaging condition, and measured its greatest early terpene losses at −80 °C. Mill as late as the process allows, and treat warehouse temperature as a shelf-life decision: degradation rates roughly double per 10 °C.
+
+- Extend the specification to the retail shelf. Rotate by packaged date, display sealed product in opaque or UV-limiting packaging, and keep back-stock out of lit, warm cases. The light-sensitive terpenes face the same stressors in a display case as in the laboratory — only slower.
+
+- Print only the expiry the data supports. Run stability in the final retail pack at long-term (25 °C/60% RH) and accelerated (40 °C/75% RH) conditions, pulling cannabinoids, a terpene panel, water activity and microbials at each interval. Where an expiry date is printed — optional but substantiation-bound in Canada, state-required in much of the US — the weakest measured attribute sets the date.
+
+### Sources
+
+- Raeber, Bajor, Poetzsch & Steuer (ETH Zürich), "Comprehensive analysis of chemical and enantiomeric stability of terpenes in Cannabis sativa L. flowers," Phytochemical Analysis 36(1): 205–217 (published January 2025; 29 terpenes under UV and heat stress; α-terpinene fully degraded within 72 h; β-caryophyllene nearly fully degraded after 400 h UV; 94% of α-pinene vs 75% of β-pinene remaining after 18 days UV) — doi.org (https://doi.org/10.1002/pca.3432)
+
+- Birenboim, Chalupowicz, Kenigsbuch & Shimshoni, "Improved Long-Term Preservation of Cannabis Inflorescence by Utilizing Integrated Pre-Harvest Hexanoic Acid Treatment and Optimal Post-Harvest Storage Conditions," Plants (MDPI) (published March 30, 2024; four-month storage trial, vacuum vs air; d-limonene and β-myrcene down 21–48% in drying/curing; monoterpenes down 19–51%; β-caryophyllene down 15–22% in air storage only; shelf life defined as ≥95% retention of initial major cannabinoid) — mdpi.com (https://www.mdpi.com/2734648)
+
+- Milay, Berman, Shapira, Guberman & Meiri, "Metabolic Profiling of Cannabis Secondary Metabolites for Evaluation of Optimal Postharvest Storage Conditions," Frontiers in Plant Science (published October 15, 2020; one year of dark storage at 25, 4, −30 and −80 °C; 25 °C most unfavourable; greatest early terpenoid decline at −80 °C; whole flower at 4 °C identified as optimal) — frontiersin.org (https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2020.583605/full)
+
+- Spadafora et al., "The influence of drying and storage conditions on the volatilome and cannabinoid content of Cannabis sativa L. inflorescences," Analytical and Bioanalytical Chemistry (Springer), via PubMed Central (2024; six months in darkness at 18 °C and 60% RH; open tray vs HDPE box vs brown glass bottle; glass best retained the volatile profile; HDPE tracked open-air oxidation) — pmc.ncbi.nlm.nih.gov (https://pmc.ncbi.nlm.nih.gov/articles/PMC11180634/)
+
+- ASTM International, ASTM D8197-22, "Standard Specification for Maintaining Acceptable Water Activity (aw) Range (0.55 to 0.65) for Dry Cannabis Flower Intended for Human/Animal Use" (published September 30, 2022; aw below 0.65 against microorganism growth, above 0.55 against breakage; further drying required above 0.68; salt-based RH-control sachets specified to hold the range; measurement per ASTM D8196) — standards.iteh.ai (https://standards.iteh.ai/catalog/standards/astm/1382e0b6-23c5-4860-bbba-a289fa8adcde/astm-d8197-22)
+
+- Ontario Cannabis Store, FAQ on cannabis product expiration, best-before and packaged dates (accessed November 9, 2026; Canadian labels must show the packaging date; expiry dates are not mandatory under the Cannabis Regulations) — ocs.ca (https://www.ocs.ca)
+
+- CAL Laboratories, "Stability Studies" (accessed November 9, 2026; a printed expiry date must be substantiated with shelf-life stability data; studies run at long-term 25 °C ± 2 °C / 60% RH ± 5%, intermediate 30 °C / 65% RH and accelerated 40 °C / 75% RH conditions) — callaboratories.com (https://callaboratories.com)
+
+CannActuality briefs are market research and education for licensed cannabis vendors. They are not legal, medical, or investment advice, and they make no health or benefit claims about cannabis products. Figures are as reported by the cited publishers. Intended for adults 21+.
+
+---
+
+Source: https://cannactuality.com/briefs/thc-beverages-deep-dive.html
+
+Research Brief · Category Deep-Dive
+
+# THC Beverages: The Dose Moved, the Channel Moved, the Clock Is Ticking
+
+Published October 29, 2026 · CannActuality Research Desk · For licensed vendors and product teams
+
+### Key takeaways
+
+- Convenience-store sales of hemp-derived THC beverages rose 74% year over year, and the channel now accounts for nearly a quarter of tracked THC beverage sales — second only to liquor stores (NielsenIQ data presented at the 2026 NACS Show).
+
+- The center of gravity on strength moved: 10 mg beverages now account for 56% of convenience-store sales by THC content, up from 16% in 2025, while 5 mg fell to 19% (NielsenIQ).
+
+- Seltzers lead the channel (37% of sales), ahead of sodas (31%) and mocktails (22%); single-serve sales grew 122% year over year (NielsenIQ).
+
+- Trial is not the problem — repeat is: buyers grew 56% year over year, but only 34% made a second purchase (NielsenIQ).
+
+- Every hemp-channel plan now runs against a federal deadline: most intoxicating hemp products lose federal hemp status on December 11, 2026. See the regulatory watch brief (regulatory-watch-2026-10.html).
+
+## Two beverage markets, one development team
+
+Cannabis beverages now develop along two distinct tracks. In licensed dispensaries, beverages remain a small but growing category: California recorded $7.43 million in beverage sales in April 2026, up 8.0% in dollars and 14.6% in units year over year, with the average price easing from $7.52 to $7.09 (Headset data). In mainstream retail, hemp-derived THC beverages have built a second market in liquor and convenience stores — and the convenience channel is where the 2026 growth story lives.
+
+## The convenience channel, by the numbers
+
+NielsenIQ data presented at the 2026 NACS Show (Las Vegas, October 2026) shows convenience-store hemp THC beverage sales up 74% year over year, with the channel taking nearly a quarter of tracked THC beverage sales. The case study retailers cited is instructive: South Carolina chain Spinx generated more than $267,000 in THC beverage sales in its first three months after introducing the products in late 2025 — with no advertising spend — and has since passed $1.8 million across its nearly 100 stores. Spinx projects $2.3 million next year if the products remain legal.
+
+The structural details product teams should design against:
+
+- Strength: 10 mg is 80% of Spinx's THC beverage sales, matching the national NielsenIQ read (56% of channel sales by THC content for 10 mg, vs 19% for 5 mg and 10% for 20 mg).
+
+- Style: seltzers 37%, sodas 31%, mocktails 22% of convenience-store sales.
+
+- Flavor: Circana's 2026 retail data puts fruit blends first at 19% of tracked dollar sales, then orange (11%), lemon (10%), and pineapple (4%) — with orange the fastest grower, up 270% year over year.
+
+- Pack: singles are growing more than twice as fast as four-packs (+122% vs +53% year over year), though four-packs still hold 51% of revenue to singles' 45%.
+
+- Decision window: presenters at NACS put the convenience shopper's attention at roughly 30 seconds — packaging and strength callouts do the selling, not education.
+
+## The repeat-purchase problem
+
+The category's weak metric is retention. Earlier NielsenIQ research cited at the show found beverage buyers up 56% year over year, but only 34% made a second purchase, averaging about two trips and $52 in annual spending. Circana's 2026 consumer research is more encouraging — 60% of beverage buyers said they were willing to try or continue THC-infused products over the next 12 months — but willingness is not velocity. Beverage brands that treat trial as the finish line will keep re-buying their own customers. Experienced operators budget the channel as a 12-to-18-month investment, in the words of Delta Beverages' CSO at the show, with cooler placement and promotional support as real line items, not afterthoughts.
+
+## The regulatory clock on the hemp channel
+
+The convenience and liquor-store beverage market exists because hemp-derived products sit outside state cannabis licensing. That foundation closes on a published schedule: cannabinoids the plant cannot naturally produce lose federal hemp status on November 12, 2026, and the rest of the federal redefinition — including a 0.4 mg total-THC-per-container cap that no current intoxicating beverage can meet — takes effect December 11, 2026. California has already moved intoxicating hemp into licensed channels under AB 8. NACS presenters described buyers as enthusiastic but cautious ahead of December for exactly this reason. Any beverage development plan that does not state, in writing, which side of December 11 each SKU lives on is not finished. Full analysis in our Regulatory Watch brief (regulatory-watch-2026-10.html).
+
+## What this means for product teams
+
+- Anchor the line at 10 mg for mainstream retail. The 2025 assumption that low-dose (5 mg) leads in convenience is a year out of date. Keep a session-strength tier, but expect 10 mg to carry volume.
+
+- Lead with seltzer, differentiate on flavor. Seltzer is the default style; fruit blends and citrus — orange above all — are where flavor development is paying off.
+
+- Design singles first. Single-serve is the trial engine and the fastest-growing pack format in convenience; four-packs monetize the converted.
+
+- Budget for retention, not just placement. With only about a third of buyers repeating, spend on the second purchase — pack inserts, loyalty hooks, consistent strength — not only on getting into the cold vault.
+
+- Run a two-track regulatory plan. For every hemp-derived SKU, document the licensed-channel path (state cannabis licensing, testing, track-and-trace) or an exit before December 11, 2026. Dispensary-channel beverages are unaffected by the federal hemp dates and keep growing at high single digits.
+
+### Sources
+
+- Hemp Beverage News, “THC Beverage Sales and Retail Trends From the 2026 NACS Show,” October 15, 2026, reporting NielsenIQ data presented at the 2026 NACS Show and Circana 2026 retail/consumer data — hempbeveragenews.com (https://hempbeveragenews.com/thc-beverage-sales-jump-74-in-convenience-stores/)
+
+- KOLAS, “California Cannabis 2026: Market Guide for Buyers & Retailers” (2026), reporting Headset California dispensary data for April 2026 — kolas.com (https://kolas.com/blog/category-essential/california-cannabis-market-trends-2026/)
+
+- Foley Hoag, “A Temporary Reprieve for Hemp-THC Products… But What Now?”, September 2026 (federal hemp effective dates) — foleyhoag.com (https://foleyhoag.com/news-and-insights/blogs/cannabis-and-the-law/2026/september/a-temporary-reprieve-for-hemp-thc-products%E2%80%A6-but-what-now/)
+
+CannActuality briefs are market research and education for licensed cannabis vendors. They are not legal, medical, or investment advice, and they make no health or benefit claims about cannabis products. This brief reports market data about product strengths and formats; it is not dosing or consumption guidance. Figures are as reported by the cited publishers. Intended for adults 21+.

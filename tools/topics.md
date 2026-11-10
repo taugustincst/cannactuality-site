@@ -21,8 +21,17 @@ or medical advice" note; publication date on the page.
 8. **Regulatory watch update: rescheduling after the stay, FDA's cannabinoid list, and state hemp laws** — Refresh the October 2026 regulatory brief with whatever the ALJ, FDA, and state legislatures have done since; re-date and re-verify every status.
 9. **Concentrates' niche: who is still buying, and what premium means there** — Concentrates fell 9.6% in CA April 2026 data but remain a high-value enthusiast category; map the surviving segments for targeted, smaller-run product development.
 10. **Packaging and claims compliance as a design input, 2026** — Child-resistance, labeling, and advertising restrictions by major state, framed as design constraints to brief packaging teams with — not legal advice.
+11. **Cultivar and chemotype stability: genetics as a product spec** — How much of finished-product variance is genetic vs environmental; what seed/clone sourcing and chemotype verification mean for brands buying biomass.
+12. **Irrigation and substrate systems: coco, rockwool, living soil** — Compare the controlled evidence on yield, consistency, cost, and failure modes across the three dominant substrate strategies.
+13. **Integrated pest management and microbial control for licensed cultivation** — Predatory controls, UV-C, and sanitation protocols vs the state microbial testing limits they have to pass; what the evidence supports at commercial scale.
+14. **Extraction inputs: how biomass quality decisions price into oil** — Fresh-frozen vs cured material, storage before extraction, and grade segregation — the upstream choices that determine extract cost and quality.
 
 ## Done
+
+- 2026-11-09 — **Lighting Science for Cultivation: Spectrum, Intensity, and Product Consistency** (`briefs/lighting-science-cultivation-2026.html`) — written directly at Tj's request, outside the queue
+- 2026-11-09 — **Nutrient Programs and Mineral Nutrition: What the Evidence Supports** (`briefs/nutrient-programs-cultivation-2026.html`) — written directly at Tj's request, outside the queue
+- 2026-11-09 — **Post-Harvest Science: Drying, Curing, and Water Activity** (`briefs/post-harvest-drying-curing-2026.html`) — written directly at Tj's request, outside the queue
+- 2026-11-09 — **Terpene Preservation: Packaging, Storage, and Shelf Life** (`briefs/terpene-preservation-packaging-2026.html`) — written directly at Tj's request, outside the queue
 
 - 2026-11-09 — **Minor Cannabinoids in Product Development: CBN, CBG, THCV and the 2026 Formulation Map** (`briefs/minor-cannabinoids-2026.html`)
 - 2026-11-02 — **Pre-roll Architecture 2026: Singles, Multi-Packs, and the Infused Tier** (`briefs/pre-roll-architecture-2026.html`)

@@ -225,6 +225,9 @@ def main():
     update_feed(args.slug, args.title, args.category, args.summary, date)
     if not validate_links():
         sys.exit(2)
+    # Keep the AI full-text corpus current with every new brief.
+    import subprocess
+    subprocess.run([sys.executable, str(ROOT / "tools" / "build_llms_full.py")], check=False)
     print("done. Next: write the brief body in briefs/%s.html, then commit and push." % args.slug)
 
 

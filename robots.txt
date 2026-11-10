@@ -53,4 +53,10 @@ Allow: /
 User-agent: MistralAI-User
 Allow: /
 
+User-agent: Claude-User
+Allow: /
+
+User-agent: DuckAssistBot
+Allow: /
+
 Sitemap: https://cannactuality.com/sitemap.xml
