@@ -1200,25 +1200,27 @@ Research Brief · Regulatory Watch
 
 # Regulatory Watch: Two Federal Clocks and California's Hemp Integration
 
-Published October 29, 2026 · Status verified as of October 29, 2026 · CannActuality Research Desk
+Published October 29, 2026 · Updated November 11, 2026 · CannActuality Research Desk
+
+Correction, November 11, 2026: this brief originally said California's 15% excise tax reached hemp products on January 1, 2026, gave the 15% rate an end date of June 30, 2028, described the rescheduling stay as still running, and called the DEA order's § 280E language unresolved. Those passages are corrected below, with sources.
 
 ### Key takeaways
 
-- Already in force: DEA's April 23, 2026 final order placed FDA-approved marijuana products and marijuana under qualifying state medical licenses into Schedule III, with a federal registration pathway. Adult-use marijuana remains Schedule I under federal law.
+- Already in force: DEA's final order, announced April 23 and effective April 28, 2026, placed FDA-approved marijuana products and marijuana under qualifying state medical licenses into Schedule III, with a federal registration pathway. Adult-use marijuana remains Schedule I under federal law.
 
-- Paused: The broader rulemaking to move all marijuana to Schedule III was stayed on September 29, 2026, while the DEA's chief administrative law judge weighs a GAO report. There is no decision date.
+- Undecided: The broader rulemaking to move all marijuana to Schedule III was stayed on September 29, 2026. On October 22 the chief administrative law judge admitted the GAO report and set a short briefing schedule; the stay expired when replies closed on November 5. No recommended decision or final-rule date had been published as of November 11, 2026.
 
 - November 12, 2026: Cannabinoids the cannabis plant cannot naturally produce lose federal hemp status.
 
 - December 11, 2026: The rest of the federal hemp redefinition takes effect — a 0.3% total-THC (including THCA) plant standard and a 0.4 mg total-THC cap per finished container — ending the federal basis for today's intoxicating hemp market.
 
-- California: AB 8's interim rules have applied since January 1, 2026 (intoxicating hemp only through licensed channels; hemp flower and pre-rolls banned; 15% excise tax extended to hemp products). Full integration into the licensed framework lands January 1, 2028.
+- California: AB 8's interim rules have applied since January 1, 2026 (hemp flower and pre-rolls banned; until new rules, the licensed channel cannot take hemp inputs or sell hemp products). Full integration into the licensed framework, and the 15% excise on hemp-concentrate products, land January 1, 2028.
 
 ## Federal clock one: rescheduling split in two
 
-2026 divided federal marijuana policy into a finished piece and an unfinished one. The finished piece: on April 23, 2026, DEA issued a final order under 21 U.S.C. § 811(d)(1) placing three categories into Schedule III — marijuana within an FDA-approved product; marijuana cultivated and sold under qualifying state medical marijuana licenses; and covered extracts and naturally derived delta-9 THC tied to those channels. The order creates a federal registration pathway (21 C.F.R. § 1301.13(k)) with an expedited six-month review in which a qualifying state medical license is treated as conclusive evidence of authorization. DEA stated expressly that marijuana outside those channels — including all state adult-use activity — remains a Schedule I controlled substance, and that hemp and synthetically derived THC fall outside the order. Whether registered medical operators are also relieved of Internal Revenue Code § 280E deduction limits is flagged as unresolved by the order's own text; DEA and Treasury signals point in different directions, and operators are being advised to take tax counsel before booking the benefit.
+2026 divided federal marijuana policy into a finished piece and an unfinished one. The finished piece: a final order signed April 22, announced April 23 and published and effective April 28, 2026 (91 Fed. Reg. 22714), issued under 21 U.S.C. § 811(d)(1) placing three categories into Schedule III — marijuana within an FDA-approved product; marijuana cultivated and sold under qualifying state medical marijuana licenses; and covered extracts and naturally derived delta-9 THC tied to those channels. The order creates a federal registration pathway (21 C.F.R. § 1301.13(k)) with an expedited six-month review in which a qualifying state medical license is treated as conclusive evidence of authorization. DEA stated expressly that marijuana outside those channels — including all state adult-use activity — remains a Schedule I controlled substance, and that hemp and synthetically derived THC fall outside the order. On taxes, the order states that state medical licensees "will no longer be subject to the deduction disallowance imposed by Section 280E," while also saying nothing in the rule "constitutes a determination regarding federal tax liability." Treasury's April 23 release points the same way: relief generally applies for the full taxable year that includes the effective date, with § 280E still applying to Schedule I activity such as adult-use. What is not settled is formal IRS guidance (listed in the 2026–2027 Priority Guidance Plan, none published as of November 11, 2026), whether DEA registration is required for relief, how mixed businesses apportion expenses, and prior tax years. Operators should still take tax counsel before booking the benefit. On October 30, 2026, DOJ announced the first registrations under the order: more than 900 dispensaries in seven medical-only states.
 
-The unfinished piece: the general rulemaking to move all marijuana from Schedule I to Schedule III. Following Executive Order 14370 (December 2025) directing DOJ to complete the process expeditiously, DEA held merits hearings from June 29 to July 15, 2026. On September 29, 2026, Chief Administrative Law Judge Derek C. Julius stayed the proceedings while he considers admitting a September 23, 2026 GAO report (GAO-26-108623) on federal drug-scheduling process into the record. The government's response was due October 13, 2026; the ALJ must still decide on admission and briefing before any recommendation issues, and no final-rule date exists. A stay is a pause, not a ruling against rescheduling — but roadmaps that assume a completion date are assuming something no source supports.
+The unfinished piece: the general rulemaking to move all marijuana from Schedule I to Schedule III. Following Executive Order 14370 (December 2025) directing DOJ to complete the process expeditiously, DEA held merits hearings from June 29 to July 15, 2026. On September 29, 2026, Chief Administrative Law Judge Derek C. Julius stayed the proceedings while he considered admitting a September 23, 2026 GAO report (GAO-26-108623) on federal drug-scheduling process into the record. On October 22 he admitted the report, denied a request to reopen the hearing, and allowed limited briefs due October 29 with replies due November 5; his order said the stay would expire by its own terms at the end of that schedule. As of November 11, 2026 no recommended decision had been published and no final-rule date exists. Roadmaps that assume a completion date are assuming something no source supports.
 
 ## Federal clock two: the hemp redefinition
 
@@ -1228,7 +1230,7 @@ The effective dates split in two. Under the original law, everything landed Nove
 
 ## California: AB 8 integration is already running
 
-California moved first. AB 8 (signed October 2, 2025) phases hemp-derived cannabinoids into the licensed cannabis framework. Interim provisions effective January 1, 2026 prohibit intoxicating hemp sales outside licensed channels, ban hemp flower and pre-rolls outright, extend the state's 15% cannabis excise tax to hemp products, and bar tobacco retailers from selling cannabis or hemp products. On January 1, 2028, full integration takes effect: intoxicating hemp products must move through state-licensed channels with full MAUCRSA compliance — licensing, testing, track-and-trace, and age verification. Separately, the cannabis excise tax rate sits at 15% from October 1, 2025 through June 30, 2028 (set by AB 564), giving licensed operators a stable — if still substantial — tax assumption for 2026–2027 planning. The Governor's 2026-27 budget funds DCC and CDTFA enforcement of the hemp integration, which is the practical signal that the interim rules are being policed, not parked.
+California moved first. AB 8 (signed October 2, 2025) phases hemp-derived cannabinoids into the licensed cannabis framework. Interim provisions effective January 1, 2026 ban hemp flower and pre-rolls outright and bar tobacco retailers from selling cannabis or hemp products. Until new rules are adopted, the Department of Cannabis Control (DCC) says licensed manufacturers may use only cannabinoids from licensed sources, licensed distributors cannot transport hemp, and licensed retailers cannot sell hemp products, so moving a hemp product into California's licensed channel today means remaking it from licensed cannabis. On January 1, 2028, full integration takes effect: intoxicating hemp products must move through state-licensed channels with full MAUCRSA compliance — licensing, testing, track-and-trace, and age verification. Separately, the cannabis excise tax rate is 15% of gross receipts on retail sales from October 1, 2025; under the statute the rate can next be adjusted for fiscal year 2028-29, capped at 19%. CDTFA says the excise tax reaches hemp-concentrate products (other than CBD-isolate-only products) from January 1, 2028. That gives licensed operators a stable, if still substantial, tax assumption for 2026–2027 planning. The Governor's 2026-27 budget funds DCC and CDTFA enforcement of the hemp integration, which is the practical signal that the interim rules are being policed, not parked.
 
 ## What this means for product teams
 
@@ -1236,9 +1238,9 @@ California moved first. AB 8 (signed October 2, 2025) phases hemp-derived cannab
 
 - Hemp brands: choose the licensed conversion or the exit, now. Reformulating under a 0.4 mg/container cap is not a viable path for intoxicating products. The real options are migration into state licensed channels — in California, under AB 8's framework — or an orderly wind-down of affected SKUs.
 
-- Medical-channel operators: evaluate DEA registration. The April 2026 order's registration pathway and the possible § 280E change are material to product economics — but treat the tax benefit as unconfirmed until Treasury guidance lands, and model both outcomes.
+- Medical-channel operators: evaluate DEA registration. The April 2026 order's registration pathway and its § 280E language are material to product economics. Until formal IRS guidance is published, model both outcomes.
 
-- Do not schedule launches against broad rescheduling. The proceeding is stayed with no decision date. Rescheduling is a scenario to plan for, not a milestone to plan around.
+- Do not schedule launches against broad rescheduling. The proceeding has no recommended decision and no decision date. Rescheduling is a scenario to plan for, not a milestone to plan around.
 
 - California roadmaps: design for MAUCRSA from the start. New hemp-derived products aimed at California should be developed to licensed-channel standards — testing, track-and-trace, packaging, age-gated retail — because that is the only channel the state is leaving open, with enforcement funded.
 
@@ -1246,13 +1248,33 @@ California moved first. AB 8 (signed October 2, 2025) phases hemp-derived cannab
 
 - Troutman Pepper Locke, Regulatory Oversight, “Pending Marijuana Rescheduling Put on Hold,” October 5, 2026 — regulatoryoversight.com (https://www.regulatoryoversight.com/2026/10/pending-marijuana-rescheduling-put-on-hold/)
 
-- Dickinson Wright PLLC, client alert, “DEA Final Order Creates Federal Pathway for Medical Marijuana,” 2026 (April 23, 2026 final order; 21 C.F.R. § 1301.13(k); § 280E ambiguity) — dwlaw.com (https://www.dwlaw.com/news-alerts/client-alert-federal-pathway-for-medical-marijuana)
+- Dickinson Wright PLLC, client alert, “DEA Final Order Creates Federal Pathway for Medical Marijuana,” 2026 (final order; 21 C.F.R. § 1301.13(k)) — dwlaw.com (https://www.dwlaw.com/news-alerts/client-alert-federal-pathway-for-medical-marijuana)
 
 - Foley Hoag LLP, Cannabis and the Law blog, “A Temporary Reprieve for Hemp-THC Products… But What Now?”, September 2026 (P.L. 119-37 § 781; H.R. 6500 / P.L. 119-103 moving the main effective date to December 11, 2026) — foleyhoag.com (https://foleyhoag.com/news-and-insights/blogs/cannabis-and-the-law/2026/september/a-temporary-reprieve-for-hemp-thc-products%E2%80%A6-but-what-now/)
 
 - Shay Gilmore Law, “California Cannabis M&A in 2026: Rescheduling Momentum, Hemp Bans, and State Integration Collide,” updated October 7, 2026 (AB 8 interim provisions; FDA cannabinoid list status as of September 28, 2026) — shaygilmorelaw.com (https://shaygilmorelaw.com/california-cannabis-ma-2026-rescheduling-momentum-hemp-bans-state-integration-collide/)
 
-- State of California, Governor's Budget Summary 2026-27, General Government chapter (15% excise tax October 1, 2025–June 30, 2028; AB 8 enforcement funding) — budget summary (PDF mirror) (https://us.list-manage.com/10IRcrelC6x?e=ad974c4bf8&c2id=d413becc102531d8f67a44f85f1cd163)
+- State of California, Governor's Budget Summary 2026-27, General Government chapter (AB 8 enforcement funding) — budget summary (PDF mirror) (https://us.list-manage.com/10IRcrelC6x?e=ad974c4bf8&c2id=d413becc102531d8f67a44f85f1cd163)
+
+- U.S. Department of Justice / DEA, Federal Register, 91 FR 22714, April 28, 2026 (final order; effective date; § 280E language) — govinfo.gov (https://govinfo.gov/content/pkg/FR-2026-04-28/html/2026-08176.htm)
+
+- U.S. Department of the Treasury, “Treasury, IRS Announce Process for Tax Guidance Following DOJ Final Order on Medical Marijuana Rescheduling,” April 23, 2026 — home.treasury.gov (https://home.treasury.gov/news/press-releases/sb0471)
+
+- Internal Revenue Service / Treasury, “2026-2027 Priority Guidance Plan,” September 29, 2026 — irs.gov (https://www.irs.gov/pub/irs-counsel/2026-2027-initial-pgp.pdf)
+
+- Holland & Hart LLP, The Pulse, “Burning Question: Is DEA Registration Necessary for 280E Tax Relief?,” August 20, 2026 — thepulse.hollandhart.com (https://thepulse.hollandhart.com/post/102nqsd/burning-question-is-dea-registration-necessary-for-280e-tax-relief)
+
+- U.S. Department of Justice, “Justice Department Announces Issuance of Federal Registrations for Medical Marijuana Dispensaries,” Press Release No. 26-1276, October 30, 2026 — justice.gov (https://www.justice.gov/opa/pr/justice-department-announces-issuance-federal-registrations-medical-marijuana-dispensaries)
+
+- DEA Office of Administrative Law Judges, “Order Granting Motion to Admit GAO Report and Briefs; Denying Motion to Reopen Hearing,” October 22, 2026 — dea.gov (https://www.dea.gov/sites/default/files/2026-10/Proposed%20Marijuana%20Rescheduling_Order%20Granting%20Motion%20to%20Admit%20GAO%20Report%20and%20Briefs%3B%20Denying%20Motion%20to%20Reopen%20Hearing%20%28002%29.pdf)
+
+- California Department of Cannabis Control, “Hemp for enforcement agencies,” last reviewed November 5, 2026 — cannabis.ca.gov (https://www.cannabis.ca.gov/cannabis-laws/hemp/hemp-enforcement/)
+
+- California Department of Tax and Fee Administration, “New Cannabis Excise Tax Rate Effective October 1, 2025,” L-992, September 2025 — cdtfa.ca.gov (https://cdtfa.ca.gov/formspubs/l992.pdf)
+
+- California Department of Tax and Fee Administration, “Cannabis Tax Law, Section 34011.2,” annotated text, accessed November 11, 2026 — cdtfa.ca.gov (https://cdtfa.ca.gov/lawguides/vol3/ctl/ctl-34011-2.html)
+
+- California Department of Tax and Fee Administration, “Tax Guide for Cannabis Businesses,” accessed November 11, 2026 — cdtfa.ca.gov (https://cdtfa.ca.gov/Industry/cannabis/)
 
 This brief is regulatory reporting and education for licensed cannabis vendors, current as of its publication date. It is not legal advice; cannabis law is changing on the timelines described above, and product decisions with legal exposure should be reviewed with qualified counsel in the relevant jurisdiction. CannActuality makes no health or benefit claims about cannabis products. Intended for adults 21+.
 
