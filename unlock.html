@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Access unlocked — CannActuality</title>
+<style>
+  body{margin:0;font-family:Georgia,'Times New Roman',serif;background:#F7F5EF;color:#14261B}
+  .wrap{max-width:640px;margin:0 auto;padding:48px 20px}
+  .card{background:#fff;border:1px solid #DDD8C8;border-top:6px solid #173F2C;border-radius:12px;padding:32px 28px}
+  h1{font-size:26px;margin:0 0 12px;color:#173F2C}
+  p{font-size:16px;line-height:1.6}
+  a.btn{display:inline-block;margin-top:10px;padding:12px 20px;border-radius:8px;background:#C79A2E;color:#14261B;font-weight:700;text-decoration:none}
+  a.alt{display:inline-block;margin-top:10px;margin-left:10px;padding:12px 20px;border-radius:8px;background:#173F2C;color:#fff;font-weight:700;text-decoration:none}
+  .fine{font-size:13px;color:#5A6055}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="card">
+    <h1 id="ca-title">Thanks — checking your access…</h1>
+    <p id="ca-msg"></p>
+    <p>
+      <a class="btn" id="ca-back" href="research.html" style="display:none">Read the brief</a>
+      <a class="alt" href="research.html">Browse all research</a>
+    </p>
+    <p class="fine">Access is stored on this browser. If you read on more than
+    one device, this early version of CannActuality access does not follow you
+    between them yet.</p>
+  </div>
+</div>
+<script>
+(function () {
+  var params = new URLSearchParams(location.search);
+  var paid = params.get("paid");
+  var title = document.getElementById("ca-title");
+  var msg = document.getElementById("ca-msg");
+  var back = document.getElementById("ca-back");
+  function get(k) { try { return localStorage.getItem(k); } catch (e) { return null; } }
+  function set(k, v) { try { localStorage.setItem(k, v); } catch (e) {} }
+  function del(k) { try { localStorage.removeItem(k); } catch (e) {} }
+
+  if (paid === "sub" || get("ca_pw_pending_sub") === "1") {
+    set("ca_pw_sub", "1");
+    del("ca_pw_pending_sub");
+    title.textContent = "You're subscribed — all-access is on.";
+    msg.textContent = "Every CannActuality brief is now open on this browser, including new briefs as they publish.";
+    var pending = get("ca_pw_pending");
+    if (pending) { back.href = "briefs/" + pending + ".html"; back.style.display = "inline-block"; del("ca_pw_pending"); }
+    return;
+  }
+  if (paid === "brief") {
+    var slug = get("ca_pw_pending");
+    var owned = [];
+    try { owned = JSON.parse(get("ca_pw_owned") || "[]"); } catch (e) {}
+    if (slug && owned.indexOf(slug) === -1) {
+      owned.push(slug);
+      set("ca_pw_owned", JSON.stringify(owned));
+    }
+    del("ca_pw_pending");
+    title.textContent = "This brief is yours.";
+    msg.textContent = "Your purchased brief is now open on this browser and stays open.";
+    if (slug) { back.href = "briefs/" + slug + ".html"; back.style.display = "inline-block"; }
+    return;
+  }
+  title.textContent = "No checkout found";
+  msg.textContent = "This page is where readers land after buying a brief or subscribing. If you just paid and landed here without access, write to us from the contact form on the home page and we will sort it out.";
+})();
+</script>
+</body>
+</html>
