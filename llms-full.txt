@@ -82,6 +82,319 @@ CannActuality briefs are market research and education for licensed cannabis ven
 
 ---
 
+Source: https://cannactuality.com/briefs/december-11-hemp-to-licensed-readiness-2026.html
+
+Research Brief · Regulatory
+
+# The December 11 Readiness Brief: Converting Hemp SKUs to Licensed Channels
+
+Published November 11, 2026 · CannActuality Research Desk · For licensed vendors and product teams
+
+### Key takeaways
+
+- Two federal dates, one direction. Hemp-derived products with cannabinoids the plant cannot naturally produce lose hemp status on November 12, 2026. The rest of the redefinition, including the 0.3% total-THC standard (THCA counted) and the 0.4 mg total-THC cap per container, takes effect December 11, 2026 (Congressional Research Service).
+
+- California's licensed channel does not take hemp yet. Until new rules are adopted, the Department of Cannabis Control (DCC) says licensed manufacturers may use only cannabinoids from licensed sources, licensed distributors cannot transport hemp, and licensed retailers cannot sell hemp products. Hemp entry into the licensed supply chain begins January 1, 2028.
+
+- So "conversion" in California means reformulation. A hemp SKU becomes a licensed SKU by being remade from licensed-source cannabis by a DCC-licensed manufacturer, then tested, tracked, packaged, labeled and taxed like any other cannabis product.
+
+- Other states split three ways. Illinois folds intoxicating hemp into its cannabis law on November 12, 2026; Washington and New York already route detectable-THC products through licensees; Texas and Florida have no adult-use channel to migrate into.
+
+- Still open: FDA's cannabinoid lists had not been published as of October 28, 2026, bills to delay or repeal the redefinition had not passed, and California's integration rules are still being written.
+
+## The federal clock, re-verified
+
+Section 781 of Public Law 119-37 rewrote the federal hemp definition around a total-THC concentration "including tetrahydrocannabinolic acid" of not more than 0.3% on a dry weight basis, and excluded several classes of product: those with cannabinoids not capable of being naturally produced by the plant, those with natural cannabinoids synthesized or manufactured outside the plant, and final products containing more than 0.4 mg combined total THC (and similar-effect cannabinoids) per container. CRS notes that "container" means the innermost packaging in direct contact with the product. Excluded products are classified as marijuana under the Controlled Substances Act.
+
+The Continuing Appropriations and Extensions Act, 2027 (Public Law 119-103) delayed most of those amendments to December 11, 2026. The exclusion for cannabinoids the plant cannot naturally produce stays on November 12, 2026. CRS's October 28, 2026 Legal Sidebar reports that FDA had published none of the four items the law required (lists of naturally occurring, THC-class and similar-effect cannabinoids, plus guidance on "container"), and that bills to delay the definition by two more years (H.R. 7024, H.R. 7010, S. 3686) or to repeal it (H.R. 6209) were pending. None had been enacted as of that date. Plan to December 11.
+
+## California first: what the licensed channel actually requires
+
+AB 8 (Chapter 248, Statutes of 2025) was signed October 2, 2025, and most provisions took effect January 1, 2026. Since then, hemp flower and hemp pre-rolls cannot be sold in California, and the DCC lists five product types as prohibited: alcoholic beverages containing hemp cannabinoids, inhalable hemp products (pre-rolls, vape cartridges, integrated vaporizers), hemp flower, products with synthetic cannabinoids, and products made outside the regulated market. Food, beverages and dietary supplements made with industrial hemp extract may not contain THC or synthetic cannabinoids; the one remaining ingredient lane is CBD or CBN isolate above 99% purity, which still needs a CDPH registration. Tobacco retailers may not possess or sell cannabis at their locations (Business and Professions Code § 22980.6, per Kight Law).
+
+The important detail for migration planning is the DCC's interim position: licensed manufacturers "can only use cannabinoids from licensed sources," licensed distributors "cannot transport hemp," and licensed retailers "cannot sell hemp products." Full integration on January 1, 2028 changes that. From then, distributors may bring hemp plant material into the supply chain under cannabis rules, anyone making intoxicating cannabinoid products in California needs a DCC manufacturing license, and retailers may sell products containing cannabis, hemp or both.
+
+A brand moving into California's licensed market before 2028 is therefore entering the existing MAUCRSA system, not a hemp variant of it:
+
+- Inputs: cannabinoids sourced from licensed operators only; no hemp-derived or synthetic inputs.
+
+- Manufacturing: production by a DCC-licensed manufacturer.
+
+- Testing: every batch tested by a licensed laboratory before sale, covering cannabinoids and terpenes, residual solvents and processing chemicals, pesticides, heavy metals, microbial impurities, mycotoxins, moisture content and water activity, and foreign material. Labs upload the certificate of analysis to track-and-trace within one day of finishing a batch.
+
+- Distribution: a licensed distributor arranges testing and may transport goods to retail only if they pass; Type 11 distributors also run a quality-assurance review.
+
+- Track-and-trace: California's system runs on Metrc, and the label must carry the system-issued UID.
+
+- Labeling: primary panel with product identity, net weight or volume, and the universal symbol (at least 0.5 inch tall), plus "Cannabis-Infused" on edibles; informational panel with the government warning, UID, batch or lot number, packaging date, ingredients and licensee contact; THC and CBD content per package (and per serving where applicable).
+
+- Excise tax: 15% of gross receipts on retail sales, effective October 1, 2025 (CDTFA). The rate can next be adjusted for fiscal year 2028-29, capped at 19%. CDTFA says the excise tax reaches hemp-concentrate products (other than CBD-isolate-only products) from January 1, 2028.
+
+The state is building the 2028 bridge now. The DCC's January 9, 2026 budget change proposal asks for 22 positions and $7.3 million in 2026-27, with rulemaking to start in 2026-27 and finish in 2027-28. It also seeks $800,000 for Metrc changes to allow hemp entry and exit, which it estimates will take about 12 months, and new laboratory capacity to detect synthetic cannabinoids. A budget request is not an enacted rule, so the 2028 details remain pending.
+
+## State-by-state checklist
+
+ StateLicensed path for an intoxicating hemp SKUStatus and open questions
+ CaliforniaReformulate on licensed-source cannabis; DCC-licensed manufacturer; licensed lab testing; Metrc UID; DCC labeling; licensed distributor and retailer; 15% excise at retail.Interim rules in force since January 1, 2026. Hemp enters the licensed chain January 1, 2028; DCC rulemaking pending.
+ IllinoisSB 3222 (signed June 12, 2026) reclassifies intoxicating hemp as cannabis under the Cannabis Regulation and Tax Act from November 12, 2026. Only non-intoxicating CBD products under 0.4 mg total THC may be sold outside the licensed market.Sales under 21 banned on signing. A standalone processor license was created; 45 infuser licenses may be issued in January 2027 to applicants with social equity experience. Whether hemp-derived inputs can be used by licensed processors is not addressed in the sources reviewed.
+ New YorkThe Adult-Use Processor Type 3 (Branding) license lets a brand white-label through licensed processors without a New York premises; it is one of the only application types currently open. Track-and-trace runs on Metrc.OCM says the federal law does not replace New York's cannabinoid hemp framework but may affect out-of-state products, and that management of the transition is uncertain.
+ WashingtonOnly licensed cannabis retailers may sell products with any detectable THC. CBD is the only cannabinoid that may enter the licensed system from outside, and only if tested and verified below 0.3% THC.Semi- or fully synthetic conversion is prohibited in the licensed market (WSLCB, July 2026). Hemp-derived THC has no licensed entry point.
+ ColoradoNo hemp entry: using hemp to make THC distillate sold as marijuana is against state law, and MED has threatened embargo, suspension or revocation and law enforcement referral.Hemp products remain capped at 1.75 mg THC per serving under SB 23-271; SB 164, which would have loosened beverage limits, was withdrawn in spring 2026. Revised MED rules on diversion and tracking took effect November 1, 2026.
+ MichiganSince October 11, 2021, cannabis-derived THC products such as delta-8 are regulated by the state cannabis regulator and sold only through licensed retailers after testing and approval.SB 599-602 (consumable hemp licensing; 1.75 mg per container threshold in the Senate version) were referred to the House Regulatory Reform Committee on December 17, 2025. Later status not verified.
+ Texas (contrast)No adult-use channel. The Compassionate Use Program is a medical, low-THC program; DPS is adding 12 dispensing licenses under HB 46.DSHS rules banned smokable hemp sales from March 31, 2026, added a total-THC standard counting THCA, and set a $5,000 annual retail registration per location. Spencer Fane reports delta-8 and similar converted cannabinoids stopped qualifying as hemp in Texas on July 31, 2026. Most hemp THC products fail the federal test on December 11.
+ Florida (contrast)No adult-use channel; the 2026 adult-use amendment failed to qualify for the ballot (Department of State, February 2, 2026; the campaign disputed the count).State hemp-extract rules require 21+ sales, child-resistant packaging, QR-linked certificates of analysis and full-panel testing, but sit on the federal definition. No state path absorbs intoxicating hemp after December 11.
+
+Status as of the source dates listed below. Massachusetts was not covered because no current primary source on hemp migration could be confirmed for this brief.
+
+## What is uncertain or pending
+
+- FDA's lists. Until FDA publishes which cannabinoids are naturally producible and THC-class, the November 12 versus December 11 sorting rests on manufacturers' own records.
+
+- Congress. Two-year delay bills and a repeal bill were pending as of October 28, 2026. None had passed.
+
+- California's 2028 rules. Distributor hemp endorsements, hemp testing and labeling, and Metrc entry and exit are still in rulemaking.
+
+- Michigan and New York. Michigan's hemp package and New York's transition approach had not been resolved in the sources reviewed.
+
+## What this means for product teams
+
+- Inventory your hemp SKUs against both dates. Flag anything with non-naturally-producible cannabinoids for November 12 and everything above 0.4 mg total THC per container for December 11.
+
+- In California, budget a reformulation, not a relabel. The licensed channel accepts only licensed-source cannabinoids until 2028, so plan new input sourcing, a licensed manufacturer, fresh batch testing and a new label built around the Metrc UID.
+
+- Re-run unit economics with the 15% excise. It applies to licensed retail sales now and is scheduled to reach hemp-concentrate products in 2028.
+
+- Pick states by entry mechanism. New York's branding license and Illinois's new processor and infuser licenses are possible routes for brands; Washington and Colorado do not admit hemp-derived THC; Texas and Florida offer no adult-use channel.
+
+- Keep production-method records with every certificate of analysis. Washington bans synthetic conversion, Colorado treats hemp-derived inputs as a violation, and the federal sorting depends on how each cannabinoid was made.
+
+- Watch three dockets: FDA's cannabinoid lists, the federal delay bills, and DCC's AB 8 rulemaking.
+
+### Sources
+
+- Congressional Research Service, “Delay in Changes to Hemp Definition: Cannabinoids Not Capable of Being Naturally Produced by the Cannabis Plant,” Legal Sidebar LSB11496, October 28, 2026 — everycrsreport.com (https://www.everycrsreport.com/files/2026-10-28_LSB11496_2a4809149da4fb31c7c2e387e239a244e0e80157.html)
+
+- Congressional Research Service, “Changes to the Statutory Definition of Hemp and Implications for Agricultural Policy,” In Focus IF13136, updated September 28, 2026 — everycrsreport.com (https://www.everycrsreport.com/files/2026-09-28_IF13136_aa36fad7d69289127cbbbafef54e2aede431b2c4.html)
+
+- California Department of Cannabis Control, “Hemp,” undated, accessed November 11, 2026 — cannabis.ca.gov (https://www.cannabis.ca.gov/cannabis-laws/hemp/)
+
+- California Department of Cannabis Control, “Hemp for enforcement agencies,” last reviewed November 5, 2026 — cannabis.ca.gov (https://www.cannabis.ca.gov/cannabis-laws/hemp/hemp-enforcement/)
+
+- California Department of Public Health, “Assembly Bill 8 Frequently Asked Questions,” undated, accessed November 11, 2026 — cdph.ca.gov (https://www.cdph.ca.gov/Programs/CEH/DFDCS/Pages/FDBPrograms/FoodSafetyProgram/AssemblyBill8FAQ.aspx)
+
+- California Department of Cannabis Control, Budget Change Proposal 1115-021-BCP-2026-GB, “Hemp Enforcement and Regulation under Cannabis Framework (AB 8),” January 9, 2026 — bcp.dof.ca.gov (https://bcp.dof.ca.gov/2627/FY2627_ORG1115_BCP8466.pdf)
+
+- California Department of Cannabis Control, “Testing laboratories,” undated, accessed November 11, 2026 — cannabis.ca.gov (https://www.cannabis.ca.gov/licensees/testing-laboratories/)
+
+- California Department of Cannabis Control, “Distribution,” undated, accessed November 11, 2026 — cannabis.ca.gov (https://www.cannabis.ca.gov/licensees/distribution/)
+
+- California Department of Cannabis Control, “Labeling requirements: Manufactured cannabis products in final form,” last revised June 6, 2024 — cannabis.ca.gov (https://www.cannabis.ca.gov/licensees/cannaconnect-compliance-hub/labeling/manufactured-final-form/)
+
+- California Department of Tax and Fee Administration, “New Cannabis Excise Tax Rate Effective October 1, 2025,” L-992, September 2025 — cdtfa.ca.gov (https://cdtfa.ca.gov/formspubs/l992.pdf)
+
+- California Department of Tax and Fee Administration, “Cannabis Tax Law, Section 34011.2,” annotated text, accessed November 11, 2026 — cdtfa.ca.gov (https://cdtfa.ca.gov/lawguides/vol3/ctl/ctl-34011-2.html)
+
+- California Department of Tax and Fee Administration, “Tax Guide for Cannabis Businesses,” undated, accessed November 11, 2026 — cdtfa.ca.gov (https://cdtfa.ca.gov/Industry/cannabis/)
+
+- Kight Law (Amber Lengacher), “California AB 8 Changes Effective January 1, 2026,” December 14, 2025 — cannabusiness.law (https://cannabusiness.law/california-ab-8-changes-effective-january-1-2026/)
+
+- Office of the Governor of Illinois, press release on signing SB 3222, June 12, 2026 — gov.illinois.gov (https://gov.illinois.gov/news/press-release.32614.html)
+
+- Fox Rothschild LLP, “Illinois Overhauls Its Cannabis and Hemp Regulations,” June 16, 2026 — foxrothschild.com (https://www.foxrothschild.com/publications/illinois-overhauls-its-cannabis-and-hemp-regulations)
+
+- New York Office of Cannabis Management, “Licensing: An Overview,” accessed November 11, 2026 — cannabis.ny.gov (https://cannabis.ny.gov/licensing)
+
+- New York Office of Cannabis Management, federal hemp law FAQ one-pager, last updated November 2025 — cannabis.ny.gov (https://cannabis.ny.gov/system/files/documents/2026/01/hemp-2025-federal-law_faq-1-pager_260109.pdf)
+
+- Washington State Liquor and Cannabis Board, “Hemp-Derived and Synthetic THC Products,” undated, accessed November 11, 2026 — lcb.wa.gov (https://lcb.wa.gov/education/hemp-synthetic-thc-products)
+
+- Washington State Liquor and Cannabis Board, “Hemp/CBD FAQ's,” undated, accessed November 11, 2026 — lcb.wa.gov (https://lcb.wa.gov/hemp/hemp-cbd-faqs)
+
+- Washington State Liquor and Cannabis Board, Research Brief, “Tetrahydrocannabivarin (THCV),” July 2026 — lcb.wa.gov (https://lcb.wa.gov/sites/default/files/2026-09/ResearchBrief-THCV-20260804.pdf)
+
+- Colorado Politics (Christopher Osher), “Colorado marijuana regulators pledge crackdown on intoxicating hemp,” April 14, 2026 — coloradopolitics.com (https://www.coloradopolitics.com/2026/04/14/colorado-marijuana-regulators-pledge-crackdown-on-intoxicating-hemp/)
+
+- Colorado Politics (Marissa Ventrelli), “Colorado could soon loosen regulations on intoxicating hemp products, countering new federal bans,” November 19, 2025 — coloradopolitics.com (https://www.coloradopolitics.com/2025/11/19/colorado-could-soon-loosen-regulations-on-intoxicating-hemp-products-countering-new-federal-bans)
+
+- MJBizDaily, “Push to allow more hemp THC drinks in Colorado fails as federal ban looms,” May 1, 2026 — mjbizdaily.com (https://mjbizdaily.com/news/push-to-allow-more-hemp-thc-drinks-in-colorado-fails-as-federal-ban-looms/615793/)
+
+- Holland & Hart LLP, “BUZZ Cannabis Newsletter,” September 2026 — hollandhart.com (https://www.hollandhart.com/webfiles/BUZZ_Cannabis_Newsletter_September_Edition_2026.pdf)
+
+- Cannabis Business Times, “Michigan’s Marijuana Regulatory Agency Will Oversee All Cannabis-Derived THC Products Starting Oct. 11,” October 8, 2021 — cannabisbusinesstimes.com (https://www.cannabisbusinesstimes.com/business-issues-benchmarks/compliance/news/15694086/michigans-marijuana-regulatory-agency-will-oversee-all-cannabis-derived-thc-products-starting-oct-11)
+
+- Michigan Public (Colin Jackson), “Consumable hemp product bills heading to Michigan House,” December 24, 2025 — michiganpublic.org (https://www.michiganpublic.org/politics-government/2025-12-24/consumable-hemp-product-bills-heading-to-michigan-house)
+
+- MichiganVotes, “2025 Senate Bill 599,” latest action December 17, 2025 — michiganvotes.org (https://www.michiganvotes.org/legislation/2025/senate/bill-599)
+
+- Spencer Fane LLP (Brittainy Joyner), “THC Drinks on the Menu: What Texas Bars and Restaurants Need to Know Before December 11,” 2026 — spencerfane.com (https://www.spencerfane.com/insight/thc-drinks-on-the-menu-what-texas-bars-and-restaurants-need-to-know-before-december-11/)
+
+- Texas Public Radio (Nathan Bernier, KUT), “Texas ban on selling smokable cannabis takes effect March 31,” March 11, 2026 — tpr.org (https://www.tpr.org/news/2026-03-11/texas-ban-on-selling-smokable-cannabis-takes-effect-march-31)
+
+- Texas Department of Public Safety, “DPS Update: Phase II of Texas Compassionate Use Program Expansion Selection Process,” April 1, 2026 — dps.texas.gov (https://www.dps.texas.gov/news/dps-update-phase-ii-texas-compassionate-use-program-expansion-selection-process)
+
+- ACS Laboratory, “Florida’s New Hemp Extract Rules Take Effect as Federal Crackdown Passes,” November 14, 2025 — acslab.com (https://www.acslab.com/compliance/floridas-new-hemp-extract-rules-take-effect-as-federal-crackdown-passes)
+
+- WUSF (Douglas Soule), “Florida says 2026 ballot citizen-led amendments failed, including recreational marijuana,” February 2, 2026 — wusf.org (https://www.wusf.org/politics-issues/2026-02-02/florida-says-2026-ballot-citizen-led-amendments-failed-including-recreational-marijuana)
+
+CannActuality briefs are market research and education for licensed cannabis vendors. They are not legal, medical, or investment advice, and they make no health or benefit claims about cannabis products. Figures are as reported by the cited publishers. Intended for adults 21+.
+
+---
+
+Source: https://cannactuality.com/briefs/edibles-after-the-beverage-boom-2026.html
+
+Research Brief · Category Deep-Dive
+
+# Edibles After the Beverage Boom: Gummies, Ratios, Fast-Acting, and the Pack Ladder
+
+Published November 11, 2026 · CannActuality Research Desk · For licensed vendors and product teams
+
+### Key takeaways
+
+- California edibles fell 3.8% year over year in April 2026 (Headset data). The latest month reads differently: October 2026 edible sales rose 10.0% year over year, just behind the market's 11.0% (Headset). Nationally, edibles were flat at −0.2% for the 12 months ending September 2026, holding 11.8% of US sales (Headset).
+
+- Gummies are the category. They hold 88.6% of Colorado edible dollars (Headset, January–July 2026), and every one of California's ten best-selling edibles in Headset's October 3, 2026 snapshot was a gummy. Chocolates held 6% of edible sales in BDSA-tracked markets in Q1 2025, the same share as beverages.
+
+- The growth is in ratios, not in THC-only products. California minor-cannabinoid edibles grew 8.2% to $115.2 million in January–August 2026 while THC-only edibles were flat. In Colorado, THC-only edibles fell 14.1% while multi-cannabinoid products grew 0.7% (Headset).
+
+- Fast-acting is a small but concentrated premium rung. It was 3% of a $2.57 billion US gummy market in 2024 (BDSA data, in a report co-presented with a fast-acting technology vendor), yet fast-acting SKUs make up 29.4% of one gummy brand's October 2026 sales (Headset).
+
+- Most of the market buys the same core pack: 100 mg in ten pieces. Development money earns its return by building clear rungs around that pack, through more pieces per pack, a ratio or need-state formula, or a fast-acting format, rather than by adding more THC-only flavors.
+
+## The headline number, in context
+
+The figure that started this brief checks out. Headset data reported by KOLAS (May 21, 2026) shows California edible sales of $38.06 million in April 2026, down 3.8% year over year. The whole market fell 7.1% that month, so edibles held up better than flower (−10.6%) and concentrates (−9.6%). The Marijuana Herald (May 5, 2026), also using Headset data, confirms the $38 million April figure.
+
+That single month is now out of date, and the more recent numbers are better. Headset's California market page (data snapshot November 9, 2026) puts October 2026 edible sales at $37.24 million, up 10.0% year over year. The total market rose 11.0% and beverages rose 22.3%. Over a longer window, Headset's California presentation at IgniteIt (October 7, 2026) showed edible units up 5.5% and dollars up 2.9% for January–August 2026. Units grew faster than dollars, so each unit is bringing in less revenue.
+
+ Measure (Headset)PeriodEdibles
+ California sales, year over yearApril 2026−3.8%
+ California dollars / units, year over yearJanuary–August 2026+2.9% / +5.5%
+ California sales, year over yearOctober 2026+10.0%
+ US sales, year over year (16 state markets)12 months ending September 2026−0.2%
+ US share of cannabis sales12 months ending September 202611.8%
+ US share of dispensary baskets containing an edible12 months ending September 202616.9%
+
+For product teams, the takeaway is that edibles are a large, mature category that is roughly holding its size, not one in collapse. The beverage boom did not take away edibles' growth. Edible growth simply moved into particular formulas and pack types, which the rest of this brief maps.
+
+## Gummies are the category; chocolate is a brand play
+
+Every recent dataset points the same way:
+
+- Colorado: gummies are 88.6% of edible category dollars (Headset Colorado deep dive, August 20, 2026, January–July 2026 data).
+
+- BDSA-tracked markets, Q1 2025: candy, the subcategory that includes gummies, held 79% of edible sales. Chocolates held 6%, beverages 6% and pills 5% (BDSA, April 28, 2025). BDSA counts beverages inside edibles. Even so, after years of beverage headlines, drinks were the same size as chocolate.
+
+- California's best sellers: all ten top edibles in Headset's 30-day snapshot dated October 3, 2026 were gummies sold in 10- or 20-piece packs.
+
+- Concentration: one brand, Wyld, accounts for roughly 15% of all US edible sales, according to Headset's edible category page (October 2025–September 2026).
+
+Chocolate still works when the brand is built on it. About 75.4% of Kiva Chocolate's October 2026 sales came from chocolate bars in its top ten products, mostly 20-piece bars. The brand also offers higher-milligram bars where state rules allow larger packages (Headset, snapshot November 3, 2026). Taken together, the data says a new chocolate or baked line needs a brand reason to exist. A new gummy line needs a reason to be chosen over an established gummy leader.
+
+The shopper base is broader than in most categories. Women account for 42% of edible dollars, compared with 32% of flower, and Baby Boomers and Gen X together make up more than half of edible spend (Headset). In California, Gen Z edible sales grew 18.4% in January–August 2026 (Headset, IgniteIt).
+
+## Where the growth is: ratio and minor-cannabinoid gummies
+
+The clearest finding in 2026 data is that THC-only edibles are flat or shrinking, while multi-cannabinoid edibles are holding or growing.
+
+- California: minor-cannabinoid edibles (CBN, CBG, THCV, CBC) grew 8.2% to $115.2 million in January–August 2026, while THC-only edibles were flat (Headset, IgniteIt, October 7, 2026).
+
+- Colorado: edibles fell 8.1% year over year, and Headset attributes the decline almost entirely to THC-only products, which fell 14.1%. Multi-cannabinoid products grew 0.7% and now hold 44.3% of category sales. Their share is 52.2% in Washington. Of the added cannabinoids, CBN and CBG are holding or gaining, while CBD fell 10.6% (Headset, August 20, 2026).
+
+- California best sellers: six of the top ten edibles in Headset's October 3, 2026 snapshot contain CBN alongside THC, often with CBD as well. The top two are both ratio gummies.
+
+- Brand level: ratio SKUs make up about 40% of Wyld's October 2026 sales. The five ratio items in its top ten are 1:1:1 CBD/CBN/THC, 2:1 THC/CBN, 1:1 CBG/THC, 1:1 CBD/THC and 20:1 CBD/THC (Headset, snapshot November 10, 2026). At Jams, 2:1:1 and 1:1:1 formulas make up 31.8% of sales (Headset, snapshot November 3, 2026).
+
+Several leading ratio SKUs carry need-state names, so the formula and the label are developed together. When making any label or marketing claim, product teams should treat need-state naming as a regulated claims question.
+
+## Fast-acting: small share, strong positioning
+
+"Fast-acting" in this brief is a marketing and formulation label, tied to proprietary infusion processes such as Azuca's TiME INFUSION. It is not a claim about how a product performs. The best public sales read comes from a 2025 report co-presented by BDSA and Azuca. Azuca sells fast-acting infusion technology, so treat the framing with that interest in mind. As reported by The Marijuana Herald (May 27, 2025) and in Azuca's release (May 28, 2025), the report's figures are:
+
+- Fast-acting gummies were about 3% of the $2.57 billion US gummy market in 2024, based on BDSA retail data across 14 markets.
+
+- Fast-acting gummies sold at higher original and sell-through prices than conventional gummies.
+
+- Some brands with fast-acting lines drew as much as 50% of their sales from those products.
+
+Recent brand data supports the "small but concentrated" reading. Four fast-acting 20-piece SKUs make up 29.4% of Jams' October 2026 sales. Three items in Wana's "Quick" line make up 11.2% of that brand's sales (Headset, snapshots November 3 and November 10, 2026). Fast-acting works best as a defined premium rung inside an established gummy line, not as a standalone brand promise.
+
+## Low potency and pack-count architecture
+
+Pack design is limited by regulation first. In California, an edible cannabis product may contain no more than 10 mg THC per serving and 100 mg THC per package (Cal. Code Regs. tit. 4, § 17304). Headset describes the standard US edible purchase as a 100 mg pack of ten 10 mg gummies. With the THC per package capped, the main variables left are piece count and the other cannabinoids in the formula.
+
+- Piece count is a lever: the leading fast-acting SKUs at Jams and Wana fit 100 mg into 20 pieces instead of ten. Kiva's top bars are 20-piece formats.
+
+- Low-THC ratio products sell: Wyld's 20:1 CBD/THC 20-pack contains 10 mg of THC in total and is 4.5% of brand sales. Wana's top-ten list includes a 5:1:1:1 formula with 20 mg of THC per pack (Headset).
+
+- Hemp channel limits: in California, AB 8 has generally treated intoxicating hemp products as cannabis since January 1, 2026. Food use of CBD or CBN isolate (above 99% purity, no THC) remains possible under CDPH authorization (CDPH AB 8 FAQ). Federally, fully synthetic cannabinoids lose hemp status on November 12, 2026. The 0.4 mg total-THC-per-container limit takes effect December 11, 2026 (Foley Hoag, September 15, 2026). Low-potency hemp gummies sold outside dispensaries need a licensed-channel plan.
+
+## The price ladder, described structurally
+
+This brief reports no price points. The structure of the ladder can be seen in pack design and in Headset's peer benchmarking, which compares each product against others of the same product type and package size. That method means a tier is set by format and pack, not by flavor.
+
+ TierTypical architecture in current best sellersEvidence of where it sits
+ ValueTHC-only, single-cannabinoid 100 mg packsTHC-only edibles are flat in California and down 14.1% in Colorado. California's discount rate rose from 20.3% to 23.1% of shelf value in January–August 2026 (Headset).
+ Core100 mg 10-pack from a category-leading gummy brandHeadset describes this pack as the standard edible purchase. Several THC-only Wyld 10-packs rank in California's top ten.
+ PremiumRatio or minor-cannabinoid 10-packs, fast-acting 20-packs, branded chocolate barsRatio items are about 40% of Wyld's sales. Headset's peer comparison places Wana's top ten above the same-type, same-pack peer average. Fast-acting sells at a premium to conventional gummies (BDSA/Azuca).
+
+Discounting is the main risk to this ladder. When the discount rate rises, premium and core products are pushed toward value. Headset's 2026 advice to California retailers is to protect margin and increase basket attachment rather than deepen discounts.
+
+## What this means for product teams
+
+- Put new edible R&D money into ratio formulas, not more THC-only flavors. In both California and Colorado, multi-cannabinoid edibles held or grew while THC-only edibles stalled. CBN and CBG are the additions holding up, and CBD-only additions are fading.
+
+- Develop gummies first. At 79% to 88.6% of edible dollars, the gummy is the default. Develop chocolate or baked goods only when your brand has a reason to own that format.
+
+- Treat fast-acting as a defined premium rung. It holds a small share of the market but a large share of some brands' sales. Use "fast-acting" only as a marketing label, and keep any onset claims within what state rules allow.
+
+- Build the ladder from pack architecture. Within a 100 mg cap, piece count (10 vs 20), formula (THC-only vs ratio) and format (standard vs fast-acting) are the rungs. Each SKU should have one clear reason to sit on its rung.
+
+- Budget for a flat category with shifting mix. Plan for a US category that is about level overall. Base the launch case on taking share from THC-only basics, and update it with each month of state data. The April figures were already out of date by October.
+
+- Close out hemp-channel exposure before December 11, 2026. Any gummy sold outside licensed dispensaries needs a documented licensed-channel path or an exit plan.
+
+### Sources
+
+- KOLAS, “California Cannabis 2026: Market Guide for Buyers & Retailers,” May 21, 2026, reporting Headset California category data for April 2026 — kolas.com (https://kolas.com/blog/category-essential/california-cannabis-market-trends-2026/)
+
+- The Marijuana Herald, “California Cannabis Sales Reach $311 Million in April, Bringing 2026 Total to $1.2 Billion,” May 5, 2026, reporting Headset data — themarijuanaherald.com (https://themarijuanaherald.com/?p=41019)
+
+- Headset, “California Cannabis Prices and Trends,” market page, data snapshot November 9, 2026 (October 2026 category data) — headset.io (https://www.headset.io/markets/california)
+
+- Headset, “Cannabis Industry Statistics 2026: US Sales Data,” updated October 3, 2026 (12 months ending September 2026, 16 state markets) — headset.io (https://www.headset.io/data/cannabis-industry-statistics)
+
+- Headset, “Cannabis Edible” category page (October 2025–September 2026 data; checked November 2026) — headset.io (https://www.headset.io/category/edible)
+
+- Headset, “California Market Overview 2026,” Mitchell Laferla at IgniteIt Market Spotlight: California, October 7, 2026 (January–August 2026 data) — headset.io (https://www.headset.io/blog/mitchell-laferla-igniteit-california-recap-2026)
+
+- Headset, “Colorado 2026 Market Deep Dive: A Bellwether for Cannabis Market Maturity,” August 20, 2026 (January–July 2026 data) — headset.io (https://www.headset.io/industry-reports/colorado-corrected-first-a-bellwether-for-cannabis-market-maturity)
+
+- Headset, “Best Selling Cannabis Edible in California,” data snapshot October 3, 2026 (last 30 days) — headset.io (https://www.headset.io/the-best-selling-cannabis-products/california-edible)
+
+- Headset, Wyld brand sales data, data snapshot November 10, 2026 (October 2026) — headset.io (https://www.headset.io/brands/wyld)
+
+- Headset, Jams brand sales data, data snapshot November 3, 2026 (October 2026) — headset.io (https://www.headset.io/brands/jams)
+
+- Headset, Wana brand sales data, data snapshot November 10, 2026 (October 2026) — headset.io (https://www.headset.io/brands/wana)
+
+- Headset, Kiva Chocolate brand sales data, data snapshot November 3, 2026 (October 2026) — headset.io (https://www.headset.io/brands/kiva)
+
+- BDSA, “2025 Cannabis Beverage Market: BDSA Insights of Emerging Trends & Top Brands,” April 28, 2025 (Q1 2025 edible subcategory shares, BDSA-tracked markets) — bdsa.com (https://bdsa.com/cannabis-beverages-insights-trends/)
+
+- The Marijuana Herald, “Report Finds Cannabis Consumers Willing to Pay More for Fast-Acting Edibles,” May 27, 2025, reporting the Azuca and BDSA 2025 Edibles Premiumization Report — themarijuanaherald.com (https://themarijuanaherald.com/2025/05/report-finds-cannabis-consumers-willing-to-pay-more-for-fast-acting-edibles/)
+
+- Azuca (PRWeb), “New Study Shows Consumers Are Willing to Pay 31% More for Fast-Acting Cannabis Edibles,” May 28, 2025 (vendor release; BDSA retail data) — prweb.com (https://www.prweb.com/releases/new-study-shows-consumers-are-willing-to-pay-31-more-for-fast-acting-cannabis-edibles-302466687.html)
+
+- Cal. Code Regs. tit. 4, § 17304, “THC Concentration Limits” (via Cornell Legal Information Institute; operative per Register 2022, No. 45) — law.cornell.edu (https://law.cornell.edu/regulations/california/4-CCR-17304)
+
+- California Department of Public Health, “Assembly Bill 8 Frequently Asked Questions” (2026) — cdph.ca.gov (https://www.cdph.ca.gov/Programs/CEH/DFDCS/Pages/FDBPrograms/FoodSafetyProgram/AssemblyBill8FAQ.aspx)
+
+- Foley Hoag LLP, “A Temporary Reprieve for Hemp-THC Products… But What Now?”, September 15, 2026 — foleyhoag.com (https://foleyhoag.com/news-and-insights/blogs/cannabis-and-the-law/2026/september/a-temporary-reprieve-for-hemp-thc-products%E2%80%A6-but-what-now/)
+
+CannActuality briefs are market research and education for licensed cannabis vendors. They are not legal, medical, or investment advice, and they make no health or benefit claims about cannabis products. Figures are as reported by the cited publishers. Intended for adults 21+.
+
+---
+
 Source: https://cannactuality.com/briefs/lighting-science-cultivation-2026.html
 
 Research Brief · Cultivation Science
@@ -163,6 +476,179 @@ That is the thread connecting every section of this brief. Where researchers hel
 - “Cannabinoids and Terpenes: How Production of Photo-Protectants Can Be Manipulated to Enhance Cannabis sativa L. Phytochemistry” (review), Frontiers in Plant Science, 2021 — visible LED light can augment THC and terpene accumulation but not CBD; Hawley (2018) subcanopy blue+red vs blue+green+red results; CBGA findings of Danziger & Bernstein (2021) and Namdar et al. (2019) as summarized therein — frontiersin.org (http://frontiersin.org/articles/10.3389/fpls.2021.620021)
 
 - Danziger, N. & Bernstein, N., “Light matters: Effect of light spectra on cannabinoid profile and plant development of medical cannabis (Cannabis sativa L.),” Industrial Crops and Products, June 2021 — blue:red ratio across three medical cultivars; blue-rich light stimulated CBGA accumulation relative to far-red-rich HPS light, with cultivar-specific responses in CBDA, THCA and CBCA (findings as summarized in the Frontiers review above) — doi.org (https://doi.org/10.1016/j.indcrop.2021.113351)
+
+CannActuality briefs are market research and education for licensed cannabis vendors. They are not legal, medical, or investment advice, and they make no health or benefit claims about cannabis products. Figures are as reported by the cited publishers. Intended for adults 21+.
+
+---
+
+Source: https://cannactuality.com/briefs/medical-channel-economics-schedule-iii-2026.html
+
+Research Brief · Regulatory
+
+# Medical-Channel Economics After Schedule III: What DEA Registration Changes for Product Teams
+
+Published November 11, 2026 · CannActuality Research Desk · For licensed vendors and product teams
+
+### Key takeaways
+
+- The medical pathway is live. On October 30, 2026, the Justice Department announced DEA's first registrations under the April 2026 order: more than 900 dispensaries in Alabama, Florida, Mississippi, South Dakota, Texas, Virginia and West Virginia. Manufacturer and distributor applications are still under review.
+
+- November 29, 2026 is the next hard date. DEA guidance expects "timely applicants" to source only from other timely applicants or registrants by then. Every medical SKU's inputs now carry a federal status question.
+
+- Labeling stays state-led, with one federal addition. Registrants may follow state packaging and labeling rules, plus the 21 U.S.C. § 825(c) anti-transfer warning "where applicable."
+
+- § 280E relief has been promised but not issued as formal guidance. Treasury and the IRS have previewed relief for medical activity, but as of November 11, 2026 we found no published notice or regulation. Model both outcomes.
+
+- Broader rescheduling is still undecided. The ALJ's stay ran out on its own terms when reply briefs closed on November 5, 2026. We found no recommended decision as of today.
+
+## What the order did, and what it did not do
+
+The final order (AG Order No. 6754-2026) was signed April 22 and announced April 23. It was published and took effect on April 28, 2026 (91 Fed. Reg. 22714). It relies on 21 U.S.C. § 811(d)(1), the treaty-based authority, and amends 21 C.F.R. parts 1300, 1301, 1308 and 1312. It adds three categories to Schedule III at 21 C.F.R. § 1308.13(g):
+
+- marijuana in an FDA-approved product or subject to a state medical marijuana license;
+
+- marijuana extract under the same two conditions;
+
+- naturally derived delta-9 THC under the same conditions, with hemp excluded.
+
+Several categories stay in Schedule I: unlicensed bulk material, synthetically derived THC (the order gives delta-10 THC as an example) and anything non-medical. New § 1301.13(k)(1)(iv) says registrations "do not authorize the manufacture, distribution, dispensing, or use of marijuana" for non-medical purposes. A "state medical marijuana license" is a license issued by a state, D.C. or territorial entity that authorizes manufacturing, distribution or dispensing for medical purposes.
+
+## The registration pathway: 21 C.F.R. § 1301.13(k)
+
+ ElementWhat the rule says
+ Registration typesManufacturer (cultivate, produce, process, package, label, transfer), distributor and dispenser. One entity may hold more than one type.
+ State licenseTreated as "conclusive evidence" of state authorization. The registration cannot exceed the license's scope. It is suspended automatically if the license is suspended, revoked or expires.
+ Expedited reviewDEA will "make every effort" to process applications filed within 60 days of publication (April 28–June 26, 2026) within six months. Those applicants may keep operating under their state license while the application is pending.
+ Records and reportsLimited to what federal statute and treaty obligations require. State-required reports, records and forms are accepted "to the maximum extent permissible."
+ Labeling and packagingRegistrants are exempt from the federal labeling, packaging and sealing requirements of 21 C.F.R. part 1302 if they follow state law. The label must also carry the § 825(c) warning "where applicable."
+ Security and disposalMeeting state physical-security rules is sufficient, and disposal may follow state law.
+ DispensingA state medical certification is sufficient if it is dated and signed on the day issued and names the patient and address and the practitioner's state license number.
+ Treaty mechanicsManufacturers set a nominal crop price. DEA buys the crop at that price and resells it at the same price plus an administrative fee. Crops must be stored where DEA can inspect them, and the registration specifies cultivation areas.
+
+Section 825(c) requires a warning on Schedule II–IV drugs dispensed to a patient that "it is a crime to transfer the drug to any person other than the patient." The order does not define "where applicable."
+
+## Implementation since October 30
+
+DOJ calls the October 30 dispensary registrations a "first phase." Manufacturer and distributor applications still need facility inspections, production controls and quota decisions. DOJ adds that state licensure alone does not guarantee registration, and that registrants must meet federal security, recordkeeping and inventory-control requirements.
+
+DEA's "Timely Applicant Information for Medical Marijuana Applicants" (October 30, 2026) sets the supply-chain rule. According to reporting by Cannabis Business Times and Foley Hoag:
+
+- Timely applicants may transact only with other timely applicants and registrants, and must check the status of their counterparties.
+
+- They are expected to have compliant supply chains by November 29, 2026.
+
+- Dispensaries and distributors may sell through inventory acquired before the guidance, even from non-qualifying sources. Foley Hoag notes that this allowance is not expressly extended to manufacturers.
+
+- DEA does not plan to penalize sending small quantities to unregistered state-licensed testing labs.
+
+Foley Hoag notes that the guidance does not have the force of law. DEA has also proposed denying a Minneapolis dispensary's application on three grounds:
+
+- Minnesota's dual-purpose license is not a "state medical license" with robust protections against diversion;
+
+- veterans may self-attest to qualifying status;
+
+- the state allows dispensing of synthetic and artificially derived cannabinoids, which remain in Schedule I.
+
+Two legal tracks remain open. On September 9, 2026, the D.C. Circuit denied a motion to stay the medical order. That keeps the order in force, but the merits are undecided. Harris Sliwoski expects a ruling no earlier than about March 2027.
+
+In the broader rescheduling proceeding, Chief ALJ Derek C. Julius admitted the GAO report and denied a request to reopen the hearing on October 22. He allowed limited briefs, due October 29, with replies due November 5. His order said the stay "will expire by its own terms at the conclusion of this briefing schedule." We found no recommended decision as of November 11.
+
+## Which medical programs are most exposed
+
+Cannabis Business Times reports DEA's timely-applicant list at nearly 7,000 applicants: 4,197 dispensaries, 2,086 manufacturers and 710 distributors. The largest state pools are shown below.
+
+ StateTimely applicantsStatus note
+ Oklahoma2,442Largest pool; not among the first seven registration states
+ Florida812First-phase dispensary registrations issued
+ California771Medical and adult-use licensing; DCC lets licensees change A/M designation
+ Maine320No first-phase registrations
+ Pennsylvania227No first-phase registrations
+ Missouri209No first-phase registrations
+
+Foley Hoag describes the seven first-phase states as medical-only markets, and notes that Virginia has not yet begun adult-use licensing. The supply rule bites hardest where few upstream businesses applied. Harris Sliwoski notes Iowa appears to have only two applicants and warns that "without registered cultivators, dispensaries will lack a lawful source of marijuana." In Minnesota, 30 businesses applied, and more than 300 dispensary licensees did not.
+
+## Dual-licensed operators: the split-portfolio problem
+
+The order does not address co-located or shared medical and adult-use operations. Foley Hoag's reading is that "adult-use activity falls entirely outside the federal registration framework," and that DEA has not said how much separation is enough. The practical questions depend on how each state licenses the two channels:
+
+- Single combined licenses. In states such as Minnesota, it is unclear whether an operator can register at all. Harris Sliwoski notes that a product's medical or adult-use status there is not settled until the point of sale.
+
+- Separate or separable licenses. California's DCC emergency rules let licensees change A/M designation at any time and created a path to split combined A/M retail licenses on the same premises. New Jersey restricts medical product from moving into adult-use retail.
+
+- Traceability. Foley Hoag advises that operators be able to show through inventory tracking that medical product stays in designated channels. Dickinson Wright lists as still open whether medical inventory can ever return to adult-use channels.
+
+## The § 280E question: what is and is not settled
+
+This section is research, not legal or tax advice. Section 280E positions should be decided with qualified tax counsel.
+
+What the official record says. The order states that state licensees "will no longer be subject to the deduction disallowance imposed by Section 280E." It also says "nothing in this rule constitutes a determination regarding federal tax liability," and it encourages Treasury to consider retrospective relief.
+
+Treasury's April 23, 2026 release says rescheduling "generally removes" § 280E for activity that no longer involves Schedule I or II substances. It says relief generally applies for the full taxable year that includes the order's effective date. It also says guidance will clarify that, for businesses with more than one activity, § 280E applies only to the Schedule I/II activity, for example by apportioning expenses. Adult-use activity remains Schedule I.
+
+What is not settled.
+
+- No formal guidance yet. The IRS's 2026–2027 Priority Guidance Plan (September 29, 2026) lists "Guidance under §280E," but we found no notice or regulation published as of November 11.
+
+- Whether registration is required. Holland & Hart sets out two readings: relief follows from the scheduling change alone, or unregistered handling remains federally prohibited and keeps § 280E in play.
+
+- How expenses are apportioned between medical and adult-use activity.
+
+- Prior years. In New Mexico Top Organics v. Commissioner (Tax Court Docket No. 19661-24, pending), the IRS continues to reject non-280E positions, according to Foley Hoag.
+
+- Litigation risk. Holland & Hart notes that if the D.C. Circuit vacates the order, § 280E "could be back."
+
+ Outcome A: relief as previewedOutcome B: relief narrowed, delayed or reversed
+ Tax treatmentMedical activity deducts ordinary expenses for the full 2026 taxable year. Dual operators apportion, and adult-use remains under § 280E.Guidance ties relief to registration, takes a strict view of apportionment, or the order is vacated. § 280E continues for some or all medical activity.
+ Portfolio effectAfter-tax margin on medical-designated SKUs improves relative to adult-use SKUs. Clean channel attribution becomes a financial asset.Medical-specific SKUs must justify themselves on pre-tax economics and patient demand alone.
+ Planning stanceBuild SKU-level cost allocation now so apportionment can be supported.Avoid medical-only investments whose payback depends on the deduction.
+
+The same work serves both outcomes: clean medical/adult-use attribution at SKU and cost-center level.
+
+## What this means for product teams
+
+- Audit every medical SKU's inputs before November 29. List each input (flower, biomass, distillate, co-packer, white-label partner) and its counterparty's timely-applicant or registration status. Manufacturers should not assume they can sell through non-qualifying inventory.
+
+- Keep medical lines to naturally derived delta-9. Synthetic and artificially derived cannabinoids remain Schedule I, and DEA cited them in the Minnesota show-cause order.
+
+- Plan artwork for the § 825(c) warning. State rules still govern labels. Reserve space and a change process for the federal anti-transfer warning until DEA clarifies "where applicable."
+
+- Separate medical and adult-use SKUs. Use distinct SKU codes, inventory tags and, where state rules allow, distinct packaging. Do not assume product can move between channels.
+
+- Run two sets of numbers for § 280E. Show Outcome A and Outcome B side by side in medical-line business cases until formal IRS guidance is published.
+
+- Watch upstream registrations. Manufacturer and distributor registrations have not been issued yet. Medical launches depend on suppliers clearing inspection and quota review.
+
+### Sources
+
+- U.S. Department of Justice / DEA, Federal Register, “Schedules of Controlled Substances: Rescheduling of Food and Drug Administration Approved Products Containing Marijuana From Schedule I to Schedule III; Corresponding Change to Permit Requirements,” 91 FR 22714, April 28, 2026 — govinfo.gov (https://govinfo.gov/content/pkg/FR-2026-04-28/html/2026-08176.htm)
+
+- U.S. Department of the Treasury, “Treasury, IRS Announce Process for Tax Guidance Following DOJ Final Order on Medical Marijuana Rescheduling,” April 23, 2026 — home.treasury.gov (https://home.treasury.gov/news/press-releases/sb0471)
+
+- Internal Revenue Service / Treasury, “2026-2027 Priority Guidance Plan,” September 29, 2026 — irs.gov (https://www.irs.gov/pub/irs-counsel/2026-2027-initial-pgp.pdf)
+
+- U.S. Department of Justice, “Justice Department Announces Issuance of Federal Registrations for Medical Marijuana Dispensaries,” Press Release No. 26-1276, October 30, 2026 — justice.gov (https://www.justice.gov/opa/pr/justice-department-announces-issuance-federal-registrations-medical-marijuana-dispensaries)
+
+- DEA Office of Administrative Law Judges, “Stay and Briefing Order,” Proposed Rescheduling of Marijuana, Docket No. 1362, September 29, 2026 — dea.gov (https://www.dea.gov/sites/default/files/2026-09/Proposed%20Marijuana%20Rescheduling_Stay%20and%20Briefing%20Order.pdf)
+
+- DEA Office of Administrative Law Judges, “Order Granting Motion to Admit GAO Report and Briefs; Denying Motion to Reopen Hearing,” October 22, 2026 — dea.gov (https://www.dea.gov/sites/default/files/2026-10/Proposed%20Marijuana%20Rescheduling_Order%20Granting%20Motion%20to%20Admit%20GAO%20Report%20and%20Briefs%3B%20Denying%20Motion%20to%20Reopen%20Hearing%20%28002%29.pdf)
+
+- Legal Information Institute, Cornell Law School, “21 U.S. Code § 825 – Labeling and packaging,” accessed November 11, 2026 — law.cornell.edu (https://www.law.cornell.edu/uscode/text/21/825)
+
+- Cannabis Business Times (Tony Lange), “DEA Rules for Schedule III Medical Cannabis Registrants Pose Major Disruptions to State Programs,” November 2, 2026 — cannabisbusinesstimes.com (https://www.cannabisbusinesstimes.com/cannabis-rescheduling/news/16274586/dea-rules-for-schedule-iii-medical-cannabis-registrants-pose-major-disruptions-to-state-programs)
+
+- Foley Hoag LLP, Cannabis & the Law, “DEA Guidance Raises Hard Questions for Applicants in Dual Use States,” November 3, 2026 — foleyhoag.com (https://foleyhoag.com/news-and-insights/blogs/cannabis-and-the-law/2026/october/dea-guidance-raises-hard-questions-for-applicants-dual-use-states/)
+
+- Harris Sliwoski LLP, Canna Law Blog, “DEA’s ‘Timely Applicants’ Policy and the Problems Ahead,” November 6, 2026 — harris-sliwoski.com (https://harris-sliwoski.com/?p=145182)
+
+- Harris Sliwoski LLP, Canna Law Blog, “Medical Marijuana in Schedule III Survives Its First Major Challenge,” September 11, 2026 — harris-sliwoski.com (https://harris-sliwoski.com/cannalawblog/medical-marijuana-in-schedule-iii-survives-its-first-major-challenge/)
+
+- Harris Sliwoski LLP, Canna Law Blog, “What California Operators Must Do After Rescheduling,” July 28, 2026 — harris-sliwoski.com (https://harris-sliwoski.com/cannalawblog/california-cannabis-rescheduling-considerations/)
+
+- Holland & Hart LLP, The Pulse, “Burning Question: Is DEA Registration Necessary for 280E Tax Relief?,” August 20, 2026 — thepulse.hollandhart.com (https://thepulse.hollandhart.com/post/102nqsd/burning-question-is-dea-registration-necessary-for-280e-tax-relief)
+
+- Foley Hoag LLP, Cannabis & the Law, “IRC Section 280E and Cannabis Tax Planning: Recent Developments and Practical Considerations,” September 21, 2026 — foleyhoag.com (https://www.foleyhoag.com/news-and-insights/blogs/cannabis-and-the-law/2026/september/section-280e-and-cannabis-tax-planning-recent-developments-and-practical-considerations/)
+
+- Dickinson Wright PLLC, “DEA Registration Window Closes, Questions Remain Open,” July 2, 2026 — dwlaw.com (https://www.dwlaw.com/news-alerts/dea-registration-window-closes-questions-remain-open)
 
 CannActuality briefs are market research and education for licensed cannabis vendors. They are not legal, medical, or investment advice, and they make no health or benefit claims about cannabis products. Figures are as reported by the cited publishers. Intended for adults 21+.
 
@@ -267,6 +753,160 @@ Several figures in this brief come from BDSA retail sales tracking. If your team
 - California Department of Public Health, “Assembly Bill 8 Frequently Asked Questions” (2026; AB 8 signed October 2, 2025, effective January 1, 2026; CBD or CBN isolate above 99% purity with no THC or synthetic cannabinoids preserved for foods; hemp extraction licensing moves to the Department of Cannabis Control on January 1, 2028) — cdph.ca.gov (https://www.cdph.ca.gov/Programs/CEH/DFDCS/Pages/FDBPrograms/FoodSafetyProgram/AssemblyBill8FAQ.aspx)
 
 - Cannabis Training University, “Types of Cannabinoids: THC, CBD, CBG, CBN, THCV & More” (checked October 2026; CBGA precursor pathway after Gülck & Møller 2020; CBN as the oxidation product of THC; THCV via the CBGVA varin pathway; commercial CBG mainly from CBG-dominant hemp cultivars) — cannabistraininguniversity.com (https://cannabistraininguniversity.com/medical-cannabis/types-of-cannabinoids/)
+
+CannActuality briefs are market research and education for licensed cannabis vendors. They are not legal, medical, or investment advice, and they make no health or benefit claims about cannabis products. Figures are as reported by the cited publishers. Intended for adults 21+.
+
+---
+
+Source: https://cannactuality.com/briefs/new-state-market-entry-2026.html
+
+Research Brief · Market Intelligence
+
+# New-State Market Entry 2026–2027: Reading Maturity Before Capital
+
+Published November 11, 2026 · CannActuality Research Desk · For licensed vendors and product teams
+
+### Key takeaways
+
+- "Recently launched" covers very different markets. New York and Missouri already show diversified category mixes and more than 3.5 open retailers per 100,000 residents. Delaware had 13 stores open in March 2026 for a population of about 1.06 million.
+
+- Price compression is now measurable in the larger young markets. Headset's average item price fell 9.5% year over year in New York and 7.6% in Ohio (October 2026), even though sales in both states grew.
+
+- Flower share is the quickest signal of maturity. It ranges from about 32% of tracked sales in New York to roughly 55% in Delaware's first month and about 59% in Minnesota once shake and trim are included.
+
+- Virginia is the next large launch. Retail sales are set for July 1, 2027, under a cap of 350 retail licenses, and applications are expected from February 2027. Pennsylvania has not legalized adult use; cannabis was left out of the budget signed in July 2026.
+
+## Why score maturity before committing capital
+
+Entrants often size a new-state launch from headline sales. Headline sales show how big a market is, not how open it is. Two states with similar annual revenue can need very different portfolios. One may still be short of supply and flower-led, so a narrow core range sells through. The other may be crowded and discounting, so every SKU has to hold its place on a shelf it shares with dozens of rivals. This brief scores six live adult-use markets on three signals a product team can check from public data, then adds the structural context (license caps, tax and timeline) that changes how fast a market will move from one stage to the next.
+
+## The rubric
+
+Each state gets 1 to 3 points on each signal. A higher score means a more mature, more contested market.
+
+- Category mix (flower share of sales). 1 = 50% or more; 2 = 40–50%; 3 = under 40%. A falling flower share means consumers are spreading spend across vapes, pre-rolls and edibles, and that shelf space for formats has been claimed.
+
+- Price compression (average item price, year over year). 1 = decline of 3% or less, or no published trend; 2 = decline of 3–7%; 3 = decline of more than 7%. Only percent changes are used.
+
+- Retail density (open or approved retailers per 100,000 residents). 1 = under 1.5; 2 = 1.5–3.0; 3 = over 3.0. Population is the U.S. Census Bureau's Vintage 2025 estimate of total residents for July 1, 2025. That includes residents under 21, so these figures run lower than per-adult measures.
+
+A total of 3–4 reads as Early (supply-constrained, flower-led), 5–6 as Developing, and 7–9 as Mature (diversified and compressing). Headset figures cover Headset-tracked retail sales for October 2026, not every sale in a state. Where a state publishes no price trend, the state scores 1 and is marked provisional.
+
+## Scorecard: six live adult-use markets
+
+ StateFlower shareAvg item price YoYRetailers per 100kScore
+ New York32.4% (3)−9.5% (3)3.72 (3)9 · Mature
+ Missouri39.4% (3)−3.2% (2)3.54 (3)8 · Mature
+ Ohio46.9% (2)−7.6% (3)1.96 (2)7 · Mature
+ Maryland47.4% (2)−4.9% (2)1.85 (2)6 · Developing
+ Minnesota59.1% incl. shake/trim (1)Not published (1*)2.62 (2)4 · Early*
+ Delaware55% (1)Not published (1*)1.23 (1)3 · Early*
+
+* Provisional: no published price trend was found in the sources opened for this brief.
+
+## Inputs behind the scores
+
+Category mix. Shares for New York, Missouri, Ohio and Maryland are CannActuality's calculations from Headset's October 2026 category sales divided by each state's tracked total ($173.67 million, $134.11 million, $121.36 million and $105.19 million). Headset's Ohio page does not list pre-rolls, and the categories it does list add up to about 89% of the Ohio total. Minnesota's share comes from trailing 12-month figures from the Office of Cannabis Management, reported by The Marijuana Herald: flower $93 million plus shake and trim $23 million out of $196.07 million. Delaware's comes from the state's first-month release, in which flower was 55% of $7.35 million in sales.
+
+Retail density. Each figure divides a retailer count by the Census Vintage 2025 population and multiplies by 100,000:
+
+- New York: 744 open licensed dispensaries (Governor's office, Oct. 27, 2026) ÷ 20,002,427.
+
+- Missouri: 222 approved dispensary licenses, from July figures in the state market study (Missouri Independent via KCUR, Oct. 27, 2026) ÷ 6,270,541.
+
+- Ohio: 233 dual-use dispensary certificates of operation (Division of Cannabis Control, updated Oct. 26, 2026) ÷ 11,900,510.
+
+- Maryland: 116 licensed dispensaries (Capital News Service, May 12, 2026; Maryland Matters reported 99 non-social-equity and 17 social equity stores operating on July 14, 2026) ÷ 6,265,347.
+
+- Minnesota: 153 adult-use retailers (OCM data via The Marijuana Herald, June 3, 2026) ÷ 5,830,405. This leaves out 23 medical dispensaries.
+
+- Delaware: 13 adult-use stores open (MJBizDaily, Mar. 12, 2026) ÷ 1,059,952.
+
+Price compression. Headset states the New York (−9.5%) and Ohio (−7.6%) declines directly. The Maryland (−4.9%) and Missouri (−3.2%) figures are CannActuality's calculations from the current and year-ago average item prices on Headset's pages. Separately, MJBizDaily reported in August 2026 that Ohio's regulator-tracked flower price was down about 30% since the August 2024 launch but roughly flat over the prior year. That suggests Ohio's recent compression is coming from mix and non-flower formats rather than from flower.
+
+## Structure: caps, taxes and timelines
+
+ StateRetail tax (as reported)License pipeline or capSales momentum
+ New York9% state + 4% local retail excise, plus a distributor-level tax1,039 licensed retailers, 744 openTracked sales +13.3% YoY (Oct. 2026)
+ Missouri6% state; one local tax of up to 3% (no stacking)Constitutional floor of 24 dispensary licenses per congressional district; 144 microbusiness licenses expectedTracked sales +4.6% YoY; Nov. 2025 sales −2.6% YoY
+ Ohio10% marijuana tax + 5.75% state sales tax233 dual-use dispensaries; 47 provisional licenses; about 137 local moratoriumsTracked sales +27.3% YoY
+ Maryland12% sales and use tax (from 9% on July 1, 2025)83 social equity dispensary licenses awarded since 2023; 17 operating by July 2026Tracked sales +4.8% YoY
+ Minnesota15% gross receipts tax + 6.875% sales tax + localLocal governments must allow at least one retailer per 12,500 residentsAbout $250 million in first-year sales (about $150 million adult-use)
+ Delaware15%Up to 30 adult-use stores; 16 conditional retail licenses not yet open (March 2026)$53.4 million in the first year
+
+The pipeline column matters as much as the score. New York has about 295 licensed retailers that are not yet open, which points to further density gains and more price pressure. Maryland's social equity cohort is only starting to open. Delaware can more than double its store count under its cap, and Minnesota's own regulator once estimated the state would need no fewer than 381 dispensaries. In those states, an Early score describes today's market, not the one a 2027 launch will meet.
+
+## The next launches: Virginia and Pennsylvania
+
+Virginia. Lawmakers passed a retail framework in March 2026. The retail start date was then set at July 1, 2027, through budget bill HB 30, which the Marijuana Policy Project described as signed on June 30, 2026. The framework allows up to 350 retail licenses, allocated by geographic zone. The Cannabis Control Authority is due to finalize regulations and begin taking applications by February 1, 2027, and must issue at least 55 further licenses by July 1, 2027. The state tax starts at 6% and rises to 8% after July 1, 2029, and localities may add 1–3.5%. The framework also caps THC at 10 mg per serving and 100 mg per package, a format constraint to design for from the start. At the full cap, Virginia would reach 3.94 retailers per 100,000 residents (350 ÷ 8,880,107). That is in the range of New York's and Missouri's density today, although it will take time to build.
+
+Pennsylvania. Adult-use cannabis was left out of the budget Governor Shapiro signed in July 2026. A bipartisan bill was sent back to the Senate committee where it had stalled, according to MJBizDaily (July 13, 2026). None of the sources opened for this brief shows an enacted law or a launch timeline.
+
+## What this means for product teams
+
+- Match portfolio breadth to the score. In Early markets (Delaware, Minnesota), a narrow, flower-led core that you can keep in stock is likely to beat a wide range on thin supply. In Mature markets (New York, Missouri, Ohio), launch with vapes and pre-rolls in the core range, since together they already account for about half of tracked sales in New York.
+
+- Price the launch on the trend, not the snapshot. In New York and Ohio, average item prices fell 7–10% in a year while sales grew. Model margins on next year's shelf, and build entry, core and premium tiers into the launch range.
+
+- Read the license pipeline before you trust low density. Unopened licenses in New York, Maryland and Delaware mean today's density understates the competition you will face within 12–24 months.
+
+- Treat Virginia as a 2027 regulatory project. Packaging and serving limits, zone-based retail allocation and a February 2027 rules deadline leave little time. Design compliant SKUs before applications open, not after.
+
+- Re-score every quarter. All three signals come from public monthly data. A state can move a full band in a year, as Ohio's +27% sales growth alongside a −7.6% price trend shows.
+
+### Sources
+
+- Ohio Division of Cannabis Control, “DCC Update By The Numbers,” updated October 26, 2026 — ohio.gov (https://dam.assets.ohio.gov/image/upload/com.ohio.gov/DCC/DCC%20Stats/DCC_Update_By_The_Numbers.pdf)
+
+- Headset, “Ohio Cannabis Prices and Trends,” data snapshot November 9, 2026 — headset.io (https://www.headset.io/markets/ohio)
+
+- Headset, “New York Cannabis Sales,” data snapshot November 9, 2026 — headset.io (https://www.headset.io/markets/new-york)
+
+- Headset, “Maryland Cannabis Prices and Trends,” data snapshot November 9, 2026 — headset.io (https://www.headset.io/markets/maryland)
+
+- Headset, “Missouri Cannabis Prices and Trends,” data snapshot November 9, 2026 — headset.io (https://www.headset.io/markets/missouri)
+
+- U.S. Census Bureau, “State Population Totals and Components of Change: 2020-2025” (Vintage 2025), January 27, 2026 — census.gov (https://www.census.gov/data/datasets/time-series/demo/popest/2020s-state-total.html)
+
+- MJBizDaily, “Ohio cannabis sales increase, on pace to set new annual record,” August 14, 2026 — mjbizdaily.com (https://mjbizdaily.com/?p=617420)
+
+- The Ohio State University Moritz College of Law, “Marijuana Reform and Taxes: How States Tax Adult Use Cannabis and Spend Resulting Revenue,” updated January 27, 2026 — moritzlaw.osu.edu (https://moritzlaw.osu.edu/research/marijuana-reform-and-taxes-how-states-tax-adult-use-cannabis-and-spend-resulting-revenue)
+
+- Office of the Governor of New York, “Governor Hochul Announces New York’s Legal Cannabis Market Surpasses $4 Billion in Retail Sales,” October 27, 2026 — governor.ny.gov (https://governor.ny.gov/news/governor-hochul-announces-new-yorks-legal-cannabis-market-surpasses-4-billion-retail-sales)
+
+- Ganjapreneur, “New York Gov’s Budget Proposal Would End Cannabis Potency Tax,” January 22, 2024 — ganjapreneur.com (https://ganjapreneur.com/new-york-gov-s-budget-proposal-would-end-cannabis-potency-tax/)
+
+- Missouri Independent via KCUR, “State says Missouri’s marijuana market is competitive, but who owns it?,” October 27, 2026 — kcur.org (https://www.kcur.org/politics-elections-and-government/2026-10-27/state-says-missouris-marijuana-market-is-competitive-but-who-owns-it)
+
+- Greenway Magazine, “Missouri marijuana sales declined year over year for the first time in November,” January 6, 2026 — mogreenway.com (https://mogreenway.com/2026/01/06/missouri-marijuana-sales-declined-year-over-year-for-the-first-time-in-november/)
+
+- Axios Kansas City, “Missouri Supreme Court ends double cannabis tax,” July 24, 2025 — axios.com (https://www.axios.com/local/kansas-city/2025/07/24/missouri-cannabis-tax-supreme-court-ruling)
+
+- Capital News Service (CNS Maryland), “As federal regulations change, see Maryland’s key marijuana statistics,” May 12, 2026 — cnsmaryland.org (https://cnsmaryland.org/2026/05/12/as-federal-regulations-change-see-marylands-key-marijuana-statistics/)
+
+- Maryland Matters via News From The States, “Social equity licensed dispensaries in Maryland are finally starting to open,” July 14, 2026 — newsfromthestates.com (https://www.newsfromthestates.com/article/social-equity-licensed-dispensaries-maryland-are-finally-starting-open)
+
+- The Marijuana Herald, “Minnesota Marijuana Sales Reach New Monthly High in May as Retail Market Nears 300 Licensed Businesses,” June 3, 2026 — themarijuanaherald.com (https://themarijuanaherald.com/?p=42548)
+
+- KTTC, “Minnesota reports $250 million in cannabis sales during first year of retail market,” September 15, 2026 — kttc.com (https://www.kttc.com/2026/09/15/minnesota-reports-250-million-cannabis-sales-during-first-year-retail-market/)
+
+- Marijuana Venture, “Minnesota Office of Cannabis Management report finds 381 dispensaries are needed to meet resident consumer demand,” January 18, 2024 — marijuanaventure.com (https://www.marijuanaventure.com/?p=21637)
+
+- State of Delaware News, first-month adult-use sales release, September 2, 2025 — news.delaware.gov (https://news.delaware.gov/?p=230007)
+
+- MJBizDaily, “Why are Delaware cannabis sales off to such a slow start?,” March 12, 2026 — mjbizdaily.com (https://mjbizdaily.com/?p=614953)
+
+- MJBizDaily, “Delaware cannabis sales hit $53.4 million in market’s first year,” August 4, 2026 — mjbizdaily.com (https://mjbizdaily.com/?p=617260)
+
+- MJBizDaily, “Virginia adult use cannabis sales to launch Jan. 2027,” March 16, 2026 — mjbizdaily.com (https://mjbizdaily.com/news/virginia-adult-use-cannabis-sales-to-launch-jan-2027/615003/)
+
+- WDBJ7, “Gov. Spanberger and General Assembly reps announce legal retail cannabis market,” June 16, 2026 — wdbj7.com (https://www.wdbj7.com/2026/06/16/gov-spanberger-general-assembly-reps-announce-legal-retail-cannabis-market/?outputType=amp)
+
+- Marijuana Policy Project, “Virginia adult-use cannabis sales language included in signed budget,” June 30, 2026 — blog.mpp.org (https://blog.mpp.org/blog/virginia-adult-use-cannabis-sales-language-included-in-signed-budget/)
+
+- Cannabis Law Journal, “Virginia’s Cannabis Program is Picking up Speed: Key Takeaways from the July 2026 CCA Meeting,” July 28, 2026 — journal.cannabislawreport.com (https://journal.cannabislawreport.com/?p=16209)
+
+- MJBizDaily, “Adult-use marijuana legalization appears dead in Pennsylvania – again,” July 13, 2026 — mjbizdaily.com (https://mjbizdaily.com/?p=616887)
 
 CannActuality briefs are market research and education for licensed cannabis vendors. They are not legal, medical, or investment advice, and they make no health or benefit claims about cannabis products. Figures are as reported by the cited publishers. Intended for adults 21+.
 
@@ -796,3 +1436,151 @@ The convenience and liquor-store beverage market exists because hemp-derived pro
 - Foley Hoag, “A Temporary Reprieve for Hemp-THC Products… But What Now?”, September 2026 (federal hemp effective dates) — foleyhoag.com (https://foleyhoag.com/news-and-insights/blogs/cannabis-and-the-law/2026/september/a-temporary-reprieve-for-hemp-thc-products%E2%80%A6-but-what-now/)
 
 CannActuality briefs are market research and education for licensed cannabis vendors. They are not legal, medical, or investment advice, and they make no health or benefit claims about cannabis products. This brief reports market data about product strengths and formats; it is not dosing or consumption guidance. Figures are as reported by the cited publishers. Intended for adults 21+.
+
+---
+
+Source: https://cannactuality.com/briefs/vape-category-teardown-2026.html
+
+Research Brief · Category Deep-Dive
+
+# Vape Category Teardown 2026: Hardware, Flavor Systems, and the Disposables Question
+
+Published November 11, 2026 · CannActuality Research Desk · For licensed vendors and product teams
+
+### Key takeaways
+
+- Vape is an $8 billion US category, about 26% of cannabis retail dollars, with sales up 6% in the 12 months ending May 2026 (BDSA). In California it is effectively tied with flower: Headset's October 2026 data puts vapor pens at $101.4 million, up 10.6% year over year, against $103.2 million for flower.
+
+- Disposables (all-in-ones) became the majority format nationally for the first time: they grew 41% to $3.8 billion while cartridges fell 14% to $4.1 billion, and passed 50% of vape dollars in April 2026. California is a notable exception: cartridges still hold 54% of vape dollars there, and 2-gram disposables are not permitted in the state.
+
+- Oil is moving up the premium ladder. Live resin and rosin together reached about a third of vape revenue, up from roughly 28%; live resin reached 28% of vape sales in May 2026 while distillate lost share at roughly flat dollars (BDSA).
+
+- Flavor is a compliance decision before it is a marketing one. California allows only terpenes consistent with those naturally present in cannabis and bans flavors such as mango or menthol; Washington and New York take similar botanical-but-cannabis-like approaches, and California is funding a reference dataset to help tell the difference.
+
+- California's new ban on disposable vapes (AB 762) excludes cannabis devices after a January 2026 amendment, but California cannabis packaging still may not describe a vape as disposable or trash-safe, and hazardous-waste disposal messaging is required in advertising.
+
+## The category in one view
+
+Vapor pens are the second-largest cannabis category in the US and are closing on flower in the markets where they are strongest. BDSA's 2026 vape report, covering June 2025 to May 2026, sizes the category at $8 billion, about 26% of cannabis retail, with dollar sales up 6% year over year and share flat. Headset's Q4 2025 report puts vapor pens at 25.5% of US sales, second to flower at 38.8%.
+
+California is where the format question matters most. Headset measured vapor pens at 29.8% of California sales in Q4 2025, near the top of US markets. BDSA's May 2026 snapshot has vape ahead of flower in California, 31% to 30%, and MJBizDaily, citing Department of Cannabis Control (DCC) data, reported in March 2026 that vapes first outsold flower in California in June 2025. Headset's California market data for October 2026 shows the two still trading places: flower at $103.2 million (up 8.4%) and vapor pens at $101.4 million (up 10.6%). Across trackers and windows, vape in California is now a co-lead category.
+
+Younger buyers drive the growth. In Headset's California data for January to August 2026, Gen Z vapor pen spending rose 3.9% while Millennial spending fell 0.7%. Nationally, Headset attributes 32% of vapor pen dollars to Gen Z.
+
+## Format: the disposable crossover, with a California caveat
+
+The headline format shift is complete at national level. In BDSA's 12-month window, disposables grew 41% to $3.8 billion and cartridges fell 14% to $4.1 billion. Disposables were 42.9% of vape dollars in June 2025, passed 50% in April 2026 and reached 51.1% in May 2026. Headset's data for October 2025 to September 2026 shows the same parity, 50% each.
+
+State mix varies more than the national number suggests:
+
+ State (BDSA, May 2026)Disposable share of vape dollarsNote
+ Arizona79%Highest disposable share among major markets
+ New York66%Brand count still growing
+ Michigan64%Vape is only 14% of the state market
+ California46%Cartridges hold 54%; 2-gram disposables not permitted
+ Pennsylvania39%Medical market
+ Florida32%Medical market; cartridges hold 68%
+
+Fill size is the second format lever. The 2-gram disposable rose from about 16% to 35% of disposable dollars in two years, while the 1-gram held at about 53% (BDSA). In May 2026 the 2-gram format took 94% of disposable dollars in Oklahoma and 73% in Arizona. Headset's 2025 data shows 2-gram products up 95.8% year over year in the US while half-gram products fell 40.5%; the 1-gram size still accounted for 75.1% of US vapor pen sales. Because BDSA reports that 2-gram disposables are not currently permitted in California, the largest market's disposable line has to be built below that size.
+
+## Hardware architecture: 510 dominates, closed systems are a niche
+
+For cartridges, the 510 thread is the industry standard. Headset's February 2026 report found 510-threaded hardware accounted for 91.3% of US vapor pen sales and 99.8% in Canada; the leading proprietary pod system held about 5% of US sales. A closed pod system is therefore a brand strategy, not a category default.
+
+## Oil type: distillate still leads, live resin takes the growth
+
+Distillate remains the largest oil type but is losing share. Headset puts distillate at 56.7% of US vapor pen sales through 2025, declining. BDSA reports that live resin and rosin together reached about a third of vape revenue over the past year, up from roughly 28%, while distillate held roughly flat in dollars. Within that premium tier:
+
+- Live resin: about $2.1 billion and 26% of vape sales over the 12 months, rising to 28% in May 2026 (BDSA). Headset describes it as the clear number-two extract type.
+
+- Rosin: about $442 million, around 5.5% of vape sales, up about 19% year over year (BDSA).
+
+- Diamonds: up more than 60% year over year in both the US and Canada in Headset's 2025 data, but still a low-single-digit share in the US against 29.7% of Canadian sales.
+
+## Flavor systems: what states actually allow
+
+Most markets now draw the line not between flavored and unflavored, but between flavors that resemble cannabis and flavors that do not.
+
+- California. Under DCC regulation section 17303.1, effective November 7, 2022, inhaled products may contain only cannabis, cannabis concentrate, terpenes and inactive ingredients the FDA permits for inhalation. DCC guidance states that artificial or synthetic terpenes are not permitted, that flavors not naturally occurring in cannabis are prohibited, and names examples including menthol, mint, mango, strawberry, grape, vanilla and bubblegum. Non-cannabis-derived terpenes are allowed only when they are consistent with terpenes that naturally exist in cannabis. All ingredients, including added non-cannabis components, must be listed on the label, and noncompliant products may be considered adulterated.
+
+- Washington. RCW 69.50.327 allows flavors derived from botanical terpenes naturally occurring in the cannabis plant, provided the flavor mimics a cannabis terpene profile, excludes synthetic terpenes, and lets the Board prohibit specific flavors by rule.
+
+- Other markets. A Washington State Liquor and Cannabis Board research brief (August 2024, updated February 2025) summarizes New York as requiring botanical sources, banning youth-appealing flavors and capping total terpenes at 10%; New Jersey as capping total terpenes at 10%; and Connecticut as requiring flavors and terpenes to come from cannabis grown and regulated in-state. Canada limits inhalable extracts to the flavor of cannabis.
+
+Enforcement in California is about to get a technical basis. The DCC is funding a two-year, $1.23 million research grant to Terpene Belt Farms with UCLA, UC Davis and S3 Collective to build a reference dataset of terpenes and volatile compounds that occur naturally in California cannabis flower, so regulators can judge whether flavors in inhalable products come from the plant (The Marijuana Herald, February 2026).
+
+## Hardware compliance: test the finished device
+
+Hardware is part of the tested product. California requires testing for cadmium, lead, arsenic and mercury, with action levels for inhalable cannabis goods of 0.2, 0.5, 0.2 and 0.1 micrograms per gram respectively (Title 4 CCR section 15723, as amended effective November 7, 2022). Michigan added copper and nickel to its required testing from July 1, 2020.
+
+Timing of the test is now an enforcement issue. In May 2026 Missouri's Division of Cannabis Regulation recalled hundreds of live resin and live rosin cartridges and all-in-one products because the concentrates had been sampled and tested before being filled into hardware; the division's rules require sampling after processing into vape cartridges. In California, a July 2026 DCC recall for pesticide contamination (pyrethrins) covered 0.5-gram and 1-gram cartridges and a 1-gram integrated vaporizer from a single oil batch, a reminder that one oil lot can carry compliance risk across every format it fills.
+
+## The disposables question: e-waste and disposal rules
+
+California's new disposable vape ban does not reach cannabis, but cannabis vapes are not unregulated on disposal.
+
+- AB 762 (signed September 2026). Bars the manufacture and import of disposable, battery-embedded vapor devices from January 1, 2027 and their sale from January 1, 2028. A device counts as disposable if it cannot be recharged or cannot be refilled. The law covers non-cannabis devices; Cal NORML reported that the bill, introduced to cover both nicotine and cannabis disposables, was amended in January 2026 to remove cannabis vapes.
+
+- AB 1894 (effective July 1, 2024). For cannabis cartridges and integrated vaporizers, all advertising and marketing must display a message that the spent device should be disposed of as hazardous waste at a household hazardous waste or other approved facility. Packaging and labels may not indicate or imply that the product is disposable, may be thrown in the trash or may be added to recycling streams.
+
+- Producer responsibility is arriving elsewhere. Maine's LD 1519, reported in June 2026 as the first US extended producer responsibility program for vapes and e-cigarettes, requires manufacturers to join a producer responsibility organization by November 1, 2027. The reporting did not say whether cannabis devices are covered.
+
+## What this means for product teams
+
+- Set the format mix by state. A disposable-led line fits Arizona, New York and Michigan, where disposables hold 64% to 79% of vape dollars. In California, Florida and Pennsylvania, cartridges still hold the majority. A national format plan will be wrong in at least one large market.
+
+- Default to 510 unless the closed system is the brand. At 91.3% of US sales, 510 hardware is the format shoppers already own. Choose a proprietary pod only if the business case rests on lock-in and can win share from a roughly 5% segment.
+
+- Plan fill sizes around legal ceilings. The 2-gram disposable is the fastest-growing size where it is allowed, but California does not permit it. Build the line so the 1-gram is the anchor and the 2-gram is a state-specific extension.
+
+- Put live resin in the premium tier and keep distillate as the base. Live resin is at 26% to 28% of vape sales and still gaining; rosin is a smaller, growing tier. Distillate holds the volume but is losing share, so new premium SKUs should name their oil type.
+
+- Write flavor specs to the strictest rule you sell under. Use cannabis-derived terpenes, or botanical terpenes that match cannabis profiles, list every ingredient, and avoid fruit, dessert or candy flavor names. Expect California's reference dataset to raise the evidence bar for botanical blends.
+
+- Qualify hardware as part of the product. Ask suppliers for materials documentation covering the metals your states test for, including copper and nickel in Michigan, and test oil after it is filled into the device. Missouri's 2026 recall shows that testing the concentrate alone may not count.
+
+- Remove the word "disposable" from California packaging. AB 1894 bars packaging that implies a vape can be thrown away and requires hazardous-waste disposal messaging in advertising. Rechargeable, refillable or take-back designs reduce exposure if producer responsibility rules expand to cannabis.
+
+### Sources
+
+- BDSA, “Cannabis Vape Trends 2026: Five Shifts Reshaping the Market” (updated June 30, 2026), reporting BDSA Retail Sales Tracking for June 2025 to May 2026 — bdsa.com (https://bdsa.com/cannabis-vape-trends/)
+
+- Headset, “The Ascent of Vapor Pens: The Structural Shift Reshaping Cannabis,” February 25, 2026, reporting Headset data for Q4 2025 and full-year 2025 — headset.io (https://www.headset.io/industry-reports/the-ascent-of-vapor-pens-the-structural-shift-reshaping-cannabis)
+
+- Headset, “Cannabis Vapor Pens” category page, data for October 2025 to September 2026 (read November 2026) — headset.io (https://www.headset.io/category/vapor-pens)
+
+- Headset, “California Cannabis Sales” market page, October 2026 data (snapshot November 9, 2026) — headset.io (https://www.headset.io/markets/ca)
+
+- Headset, “California Market Overview 2026: Signals From a Shifting Market,” October 7, 2026, reporting Headset data for January to August 2026 — headset.io (https://www.headset.io/blog/mitchell-laferla-igniteit-california-recap-2026)
+
+- MJBizDaily, “Cannabis vapes now outselling flower in California – thanks to Gen Z,” March 9, 2026, citing DCC data — mjbizdaily.com (https://mjbizdaily.com/?p=614883)
+
+- California Department of Cannabis Control, guidance on requirements for inhaled cannabis products, November 2023 — cannabis.ca.gov (https://cannabis.ca.gov/2023/11/guidance-requirements-for-inhaled-cannabis-products)
+
+- The Marijuana Herald, “University of California Partners With Terpene Belt Farms on State-Funded Research Into Natural Cannabis Flavor Compounds,” February 2, 2026 — themarijuanaherald.com (https://themarijuanaherald.com/2026/02/university-of-california-partners-with-terpene-belt-farms-on-state-funded-research-into-natural-cannabis-flavor-compounds/)
+
+- Washington State Legislature, Revised Code of Washington 69.50.327 (as amended 2022) — leg.wa.gov (https://lawfilesext.leg.wa.gov/Law/RCW/RCW%20%2069%20%20TITLE/RCW%20%2069%20.%2050%20%20CHAPTER/RCW%20%2069%20.%2050%20.327.htm)
+
+- Washington State Liquor and Cannabis Board Research Program, “Flavored Cannabis Vape Products” research brief, August 2024, updated February 2025 — lcb.wa.gov (https://lcb.wa.gov/sites/default/files/2026-01/Research%20Progam_Research%20Brief_Flavored%20Cannabis%20Vape%20Products_01122026.pdf)
+
+- California Code of Regulations, Title 4, section 15723, “Heavy Metals Testing” (amendments effective November 7, 2022), via Cornell Legal Information Institute — law.cornell.edu (https://law.cornell.edu/regulations/california/4-CCR-15723)
+
+- Michigan Marijuana Regulatory Agency, “Technical Bulletin: Heavy Metals Testing Requirements for Nickel and Copper,” February 5, 2020 — michigan.gov (https://www.michigan.gov/documents/lara/Technical_Bulletin_-_Heavy_Metals_Testing_Requirements_for_Nickel_and_Copper_680419_7.pdf)
+
+- Spectrum News, report on the Missouri Division of Cannabis Regulation vape recall, May 27, 2026 — spectrumlocalnews.com (https://spectrumlocalnews.com/mo/kansas-city/news/2026/05/27/missouri-s-division-of-cannabis-regulation-recalls-hundreds-of-cannabis-products)
+
+- Greenway Magazine, “Local Cannabis Company works with DCR to resolve vape product recall tied to testing requirements,” May 27, 2026 — mogreenway.com (https://mogreenway.com/2026/05/27/local-cannabis-company-works-with-dcr-to-resolve-vape-product-recall-tied-to-testing-requirements/)
+
+- Greenway Magazine, “STIIIZY issues voluntary recall for Watermelon Z vape products in California,” July 3, 2026, reporting a DCC recall published July 2, 2026 — mogreenway.com (https://mogreenway.com/2026/07/03/stiiizy-issues-voluntary-recall-for-watermelon-z-vape-products-in-california/)
+
+- Resource Recycling, “Disposable vapes banned in California,” September 28, 2026 — resource-recycling.com (https://resource-recycling.com/policy-now/2026/09/28/disposable-vapes-banned-in-california/)
+
+- Public Health Law Center, “AB-762 – A Lifeline in the Fight Against Vape Waste in California,” September 29, 2026 — publichealthlawcenter.org (https://www.publichealthlawcenter.org/commentary/260929/9/29/26-ab-762-lifeline-fight-against-vape-waste-california)
+
+- California NORML, “Disposable Vape Ban Bill Amended to Remove Cannabis Vapes,” January 20, 2026, updated January 26, 2026 — canorml.org (https://www.canorml.org/disposable-vape-ban-bill-advances-in-california-legislature/)
+
+- California Department of Cannabis Control, guidance on AB 1894 requirements for integrated cannabis vaporizer packaging, labeling, advertising and marketing, June 2024 — cannabis.ca.gov (https://cannabis.ca.gov/2024/06/ab-1894-and-new-requirements-for-packaging-labeling-advertising-and-marketing)
+
+- Waste Dive, “Maine becomes first state to enact EPR for vapes,” June 2, 2026 — wastedive.com (https://wastedive.com/news/maine-passes-epr-for-vapes-2026-first-in-country/821671/)
+
+CannActuality briefs are market research and education for licensed cannabis vendors. They are not legal, medical, or investment advice, and they make no health or benefit claims about cannabis products. Figures are as reported by the cited publishers. Intended for adults 21+.
