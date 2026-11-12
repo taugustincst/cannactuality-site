@@ -9,7 +9,7 @@ static HTML/CSS, a public GitHub repo, GitHub Pages, registrar DNS.
 - **Source:** this repo (`~/workspace/cannactuality-site/` locally)
 - **Pages:** `index.html`, `research.html`, `vendors.html`, `about.html`,
   briefs in `briefs/*.html`
-- **Styling:** one shared `styles.css` (no build step), `logo.svg` mark
+- **Styling:** one shared `styles.css` (no build step), `logo.png` mark
 - **Lead forms:** `lead.js` (shared pattern from the AugustInnovations sites).
   Submissions deliver via FormSubmit AJAX to the owner's inbox with a mailto
   fallback addressed to `taugustincst@gmail.com` (set via `data-inbox`).
